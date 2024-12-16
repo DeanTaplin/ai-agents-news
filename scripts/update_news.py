@@ -39,4 +39,4 @@ def categorize_news(article):
     # Define keywords for each category
     release_keywords = ['launch', 'release', 'announce', 'introduce', 'unveil', 'update', 'new version']
     innovation_keywords = ['breakthrough', 'research', 'discover', 'improve', 'develop', 'innovation', 'novel']
-    market_keywords = ['market', 'industry',
+    market_keywords = ['market', 'industry']
