@@ -28,6 +28,12 @@ jobs:
         RESPONSE=$(curl -s -H "X-Subscription-Token: $BRAVE_API_KEY" \
           "https://api.search.brave.com/res/v1/web/search?q=AI+agents+autonomous+artificial+intelligence+news&count=20&freshness=pw")
         
+        # Check if response is valid JSON and contains results
+        echo "$RESPONSE" | jq -e '.web.results' > /dev/null || {
+          echo "Error: Invalid API response or no results found"
+          exit 1
+        }
+        
         # Start new README content
         cat > README.md << EOL
         # AI Agents News Collection
@@ -36,23 +42,23 @@ jobs:
 
         ## Latest Updates
 
-        ### Major Agent Releases & Improvements
         EOL
         
-        # Process news results
+        # Process news results with error handling
+        echo "### Major Agent Releases & Improvements" >> README.md
         echo "$RESPONSE" | jq -r '.web.results[] | select(.title != null and .description != null) | 
-        select(.title | test("release|launch|update|new|model|agent|platform"; "i")) | 
-        "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"' >> README.md
+        select((.title + " " + .description | ascii_downcase) | contains("release") or contains("launch") or contains("update") or contains("new") or contains("model") or contains("agent") or contains("platform")) | 
+        "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"' >> README.md || echo "No major releases found"
 
-        echo -e "\n### Notable Innovations\n" >> README.md
+        echo -e "\n### Notable Innovations" >> README.md
         echo "$RESPONSE" | jq -r '.web.results[] | select(.title != null and .description != null) | 
-        select(.title | test("research|innovation|breakthrough|discover|study|develop"; "i")) | 
-        "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"' >> README.md
+        select((.title + " " + .description | ascii_downcase) | contains("research") or contains("innovation") or contains("breakthrough") or contains("discover") or contains("study") or contains("develop")) | 
+        "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"' >> README.md || echo "No innovations found"
 
-        echo -e "\n### Market Trends\n" >> README.md
+        echo -e "\n### Market Trends" >> README.md
         echo "$RESPONSE" | jq -r '.web.results[] | select(.title != null and .description != null) | 
-        select(.title | test("market|industry|business|growth|adoption|trend"; "i")) | 
-        "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"' >> README.md
+        select((.title + " " + .description | ascii_downcase) | contains("market") or contains("industry") or contains("business") or contains("growth") or contains("adoption") or contains("trend")) | 
+        "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"' >> README.md || echo "No market trends found"
 
         # Add standard sections
         cat >> README.md << 'EOL'
