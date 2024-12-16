@@ -1,51 +1,75 @@
-# AI Agents News Collection
+# LLM News Tracker
 
-A curated collection of the latest news and developments in AI agents and autonomous artificial intelligence. Last updated: December 16, 2024
+A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates
+## Latest Updates (December 16, 2024)
 
-### Major Agent Releases & Improvements
+
+### Major Model Releases & Improvements
+
+- **What are AI agents and why are they now so pervasive? – Computerworld**
+  - <strong>Agentic</strong> <strong>AI</strong> is the latest phase in the evolution of generative <strong>AI</strong> models; they can <strong>autonomously</strong> complete tasks, and even mimic the behavior of humans.
+  - [Source](https://www.computerworld.com/article/3617392/what-are-ai-agents-and-why-are-they-now-so-pervasive.html)
 
 ### Notable Innovations
-#### Autonomous agents and profitability to dominate AI agenda in 2025, executives forecast | Reuters
-**Summary:** NEW YORK, Dec 12 - <strong>Autonomous</strong> &quot;<strong>agents</strong>&quot; and profitability are likely to dominate the <strong>artificial</strong> <strong>intelligence</strong> agenda next year, business executives and researchers predicted this week in interviews at the Reuters NEXT conference in New York.
 
-**Source:** [www.reuters.com](https://www.reuters.com/technology/artificial-intelligence/autonomous-agents-profitability-dominate-ai-agenda-2025-executives-forecast-2024-12-12/)
+- **Agentic AI: The Next Big Breakthrough That's Transforming Business And Technology**
+  - Business Operations: <strong>Agentic AI could revolutionize how businesses handle day-to-day operations</strong>. These AI agents could autonomously manage supply chains, optimize inventory levels, forecast demand, and even handle complex logistics planning.
+  - [Source](https://www.forbes.com/sites/bernardmarr/2024/09/06/agentic-ai-the-next-big-breakthrough-thats-transforming-business-and-technology/)
 
-#### AI agents could make 2025 the year artificial intelligence grows up
-**Summary:** According to Gartner’s research about a third of enterprise software applications will include some form of agentic AI by 2028, up from less than 1% today. The firm also predicts that <strong>at least 15% of day-to-day work decisions will be made autonomously through agentic AI by 2028</strong>, compared ...
-
-**Source:** [qz.com](https://qz.com/ai-agents-chatbots-artificial-intelligence-work-1851714587)
-
-#### Google Unveils A.I. Agent Based on Gemini 2.0 - The New York Times
-**Summary:** Today, chatbots can answer questions, ... online shopping and work with tools like spreadsheets. <strong>Google on Wednesday unveiled a prototype of this technology, which artificial intelligence researchers call an A.I. agent.</strong>...
-
-**Source:** [www.nytimes.com](https://www.nytimes.com/2024/12/11/technology/google-ai-agent-gemini.html)
-
-#### Artificial Intelligence: Autonomous agents and profitability to dominate AI agenda in 2025, executives forecast, ET Telecom
-**Summary:** REUTERS/Dado Ruvic/Illustration/File PhotoBy Katie Paul NEW YORK: <strong>Autonomous &quot;agents&quot; and profitability are likely to dominate the artificial intelligence agenda next year</strong>, business executives and researchers predicted this week in interviews at the NEXT conference in New York.
-
-**Source:** [telecom.economictimes.indiatimes.com](https://telecom.economictimes.indiatimes.com/news/internet/autonomous-agents-and-profitability-to-dominate-ai-agenda-in-2025-executives-forecast/116271546)
-
-#### Autonomous agents and profitability to dominate AI agenda in 2025, executives forecast - CNA
-**Summary:** NEW YORK - <strong>Autonomous &quot;agents&quot; and profitability are likely to dominate the artificial intelligence agenda next year</strong>, business executives and researchers predicted this week in interviews at the Reuters NEXT conference in New York.Agents, or systems that can perform actions like making purchases ...
-
-**Source:** [www.channelnewsasia.com](https://www.channelnewsasia.com/business/autonomous-agents-and-profitability-dominate-ai-agenda-2025-executives-forecast-4803701)
-
-#### Autonomous agents and profitability to dominate AI agenda in 2025, executives forecast
-**Summary:** <strong>Autonomous &quot;agents&quot; and profitability are likely to dominate the artificial intelligence agenda next year</strong>, business executives and researchers predicted this week in interviews at the Reuters NEXT conference in New York.
-
-**Source:** [biztoc.com](https://biztoc.com/x/3588abcc8df48cb2)
-
+- **What is Agentic AI? | UiPath**
+  - Discover <strong>Agentic</strong> <strong>AI</strong>, a breakthrough advancement in <strong>artificial</strong> <strong>intelligence</strong> that creates <strong>autonomous</strong> <strong>agents</strong> capable of analyzing data, setting goals, and taking action on their own.
+  - [Source](https://www.uipath.com/ai/agentic-ai)
 
 ### Market Trends
 
+- **Autonomous generative AI agents | Deloitte Insights**
+  - <strong>Autonomous</strong> gen <strong>AI</strong> <strong>agents</strong>—<strong>agentic</strong> <strong>AI</strong>—could increase the productivity of knowledge workers and make workflows of all kinds more efficient. But the “<strong>autonomous</strong>” part may take time for wide adoption.
+  - [Source](https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/autonomous-generative-ai-agents-still-under-development.html)
+
+- **Why agentic AI will be a huge money-spinner for big tech providers | ITPro**
+  - This latest trend in <strong>AI</strong> promises to fully automate tasks and workflows, and many firms are already looking to cash in.
+  - [Source](https://www.itpro.com/technology/artificial-intelligence/big-tech-poised-to-capitalize-on-usd10-trillion-global-services-market-through-agentic-ai)
+
+- **Autonomous agentic AI can shake up workflows, and businesses should prepare now | ZDNET**
+  - The report also delineates how the impacts of agentic AI could be &quot;enormous&quot; because there are one billion knowledge workers globally and stagnant productivity growth in the US. <strong>Productivity had only increased by 0.5% from 2019 to 2023 compared to 0.8% growth from 1987 to 2023</strong>.
+  - [Source](https://www.zdnet.com/article/autonomous-agentic-ai-can-shake-up-workflows-and-businesses-should-prepare-now/)
+
+- **Agentic AI: A deep dive into the future of automation | VentureBeat**
+  - This article is part one of a multi-article deep dive into <strong>Agentic</strong> <strong>AI</strong>, which promises to be the next evolutionary phase of <strong>AI</strong> adoption for enterprises across industries.
+  - [Source](https://venturebeat.com/ai/agentic-ai-a-deep-dive-into-the-future-of-automation/)
+
 ## Contributing
-Feel free to submit pull requests with new articles or updates to existing ones. Please ensure all submissions include:
-- Article title
-- Brief summary
-- Source link
-- Date of publication
+
+To contribute to this news tracker:
+
+1. Fork the repository
+2. Add your news item in the appropriate section
+3. Include:
+   - Clear, concise summary
+   - Date of announcement/development
+   - Reliable source link
+   - Any relevant technical details
+4. Submit a pull request
+
+## News Categories
+
+- Model Releases
+- Research Breakthroughs
+- Industry Applications
+- Market Developments
+- Technical Innovations
+- Policy & Regulation
+- Open Source Developments
+
+## Update Schedule
+
+This repository is updated weekly with the latest developments in the LLM space. Each update includes verification from multiple sources when available.
+
+## Disclaimer
+
+The information provided in this repository is compiled from various sources and may not be comprehensive. Always refer to the original sources for complete details and verify information independently.
 
 ## License
+
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
