@@ -37,62 +37,44 @@ jobs:
 
         EOL
         
-        # Create array to track used titles
-        declare -a used_titles=()
-        
-        # Function to check if title is already used
-        title_is_used() {
-          local title="$1"
-          for used_title in "${used_titles[@]}"; do
-            if [[ "$used_title" == "$title" ]]; then
-              return 0
-            fi
-          done
-          return 1
-        }
-
-        # Function to add news item if title is not used
-        add_news_item() {
-          local title="$1"
-          local content="$2"
-          if ! title_is_used "$title"; then
-            echo "$content" >> README.md
-            used_titles+=("$title")
-          fi
-        }
-        
-        # Add Major Releases section
+        # Process releases section
         echo "### Major Agent Releases & Improvements" >> README.md
-        while IFS= read -r line; do
-          if [[ -n "$line" ]]; then
-            title=$(echo "$line" | grep -o '#### .*' | sed 's/#### //')
-            add_news_item "$title" "$line"
-          fi
-        done < <(echo "$RESPONSE" | jq -r '.web.results[]? | 
-        select(.description != null and (.title + .description | ascii_downcase | test("release|launch|update|new|model|agent|platform"))) | 
-        "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"')
+        echo "$RESPONSE" | jq -r '
+          def sanitize_title: gsub("[\\n\\r]"; " ") | gsub("\\s+"; " ") | strip;
+          .web.results[]? 
+          | select(.description != null and (.title + .description | ascii_downcase | test("release|launch|update|new|model|agent|platform")))
+          | select(.title != null)
+          | .title |= sanitize_title
+          | group_by(.title)
+          | map(.[0])[]
+          | "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"
+        ' >> README.md
 
-        # Add Innovations section
+        # Process innovations section
         echo -e "\n### Notable Innovations" >> README.md
-        while IFS= read -r line; do
-          if [[ -n "$line" ]]; then
-            title=$(echo "$line" | grep -o '#### .*' | sed 's/#### //')
-            add_news_item "$title" "$line"
-          fi
-        done < <(echo "$RESPONSE" | jq -r '.web.results[]? | 
-        select(.description != null and (.title + .description | ascii_downcase | test("research|innovation|breakthrough|discover|study|develop"))) | 
-        "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"')
+        echo "$RESPONSE" | jq -r '
+          def sanitize_title: gsub("[\\n\\r]"; " ") | gsub("\\s+"; " ") | strip;
+          .web.results[]? 
+          | select(.description != null and (.title + .description | ascii_downcase | test("research|innovation|breakthrough|discover|study|develop")))
+          | select(.title != null)
+          | .title |= sanitize_title
+          | group_by(.title)
+          | map(.[0])[]
+          | "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"
+        ' >> README.md
 
-        # Add Market Trends section
+        # Process market trends section
         echo -e "\n### Market Trends" >> README.md
-        while IFS= read -r line; do
-          if [[ -n "$line" ]]; then
-            title=$(echo "$line" | grep -o '#### .*' | sed 's/#### //')
-            add_news_item "$title" "$line"
-          fi
-        done < <(echo "$RESPONSE" | jq -r '.web.results[]? | 
-        select(.description != null and (.title + .description | ascii_downcase | test("market|industry|business|growth|adoption|trend"))) | 
-        "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"')
+        echo "$RESPONSE" | jq -r '
+          def sanitize_title: gsub("[\\n\\r]"; " ") | gsub("\\s+"; " ") | strip;
+          .web.results[]? 
+          | select(.description != null and (.title + .description | ascii_downcase | test("market|industry|business|growth|adoption|trend")))
+          | select(.title != null)
+          | .title |= sanitize_title
+          | group_by(.title)
+          | map(.[0])[]
+          | "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"
+        ' >> README.md
 
         # Add standard sections
         cat >> README.md << 'EOL'
