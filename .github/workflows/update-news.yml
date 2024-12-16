@@ -12,26 +12,65 @@ jobs:
       contents: write
     
     steps:
-    - uses: actions/checkout@v4
-    
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.11'
-        
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests beautifulsoup4 feedparser newspaper3k
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
-    - name: Run news update script
+    - name: Get current date
+      id: date
+      run: echo "date=$(date +'%B %d, %Y')" >> $GITHUB_OUTPUT
+
+    - name: Update README
       env:
         BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
-      run: python scripts/update_news.py
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        # Search for latest news using Brave API
+        RESPONSE=$(curl -s -H "X-Subscription-Token: $BRAVE_API_KEY" \
+          "https://api.search.brave.com/res/v1/web/search?q=AI+agents+autonomous+artificial+intelligence+news&count=20&freshness=pw")
+        
+        # Start new README content
+        cat > README.md << EOL
+        # AI Agents News Collection
 
-    - name: Commit and push if changes exist
+        A curated collection of the latest news and developments in AI agents and autonomous artificial intelligence. Last updated: ${{ steps.date.outputs.date }}
+
+        ## Latest Updates
+
+        ### Major Agent Releases & Improvements
+        EOL
+        
+        # Process news results
+        echo "$RESPONSE" | jq -r '.web.results[] | select(.title != null and .description != null) | 
+        select(.title | test("release|launch|update|new|model|agent|platform"; "i")) | 
+        "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"' >> README.md
+
+        echo -e "\n### Notable Innovations\n" >> README.md
+        echo "$RESPONSE" | jq -r '.web.results[] | select(.title != null and .description != null) | 
+        select(.title | test("research|innovation|breakthrough|discover|study|develop"; "i")) | 
+        "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"' >> README.md
+
+        echo -e "\n### Market Trends\n" >> README.md
+        echo "$RESPONSE" | jq -r '.web.results[] | select(.title != null and .description != null) | 
+        select(.title | test("market|industry|business|growth|adoption|trend"; "i")) | 
+        "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"' >> README.md
+
+        # Add standard sections
+        cat >> README.md << 'EOL'
+
+        ## Contributing
+        Feel free to submit pull requests with new articles or updates to existing ones. Please ensure all submissions include:
+        - Article title
+        - Brief summary
+        - Source link
+        - Date of publication
+
+        ## License
+        This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+        EOL
+
+    - name: Commit changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add README.md
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update AI agents news $(date +'%Y-%m-%d')" && git push)
+        git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update news $(date +'%Y-%m-%d') [skip ci]" && git push)
