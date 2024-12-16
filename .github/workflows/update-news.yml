@@ -37,48 +37,39 @@ jobs:
 
         EOL
         
-        # Debug response
-        echo "API Response structure:"
-        echo "$RESPONSE" | jq '. | keys'
+        # Create arrays for tracking used titles
+        declare -A seen_titles
         
-        # Process releases section
-        echo "### Major Agent Releases & Improvements" >> README.md
-        echo "$RESPONSE" | jq -r '
-          if (.web.results | type) == "array" then
-            .web.results[] | 
+        # Process all sections with title tracking
+        process_section() {
+          local section_name="$1"
+          local keywords="$2"
+          
+          echo -e "\n### $section_name" >> README.md
+          while IFS= read -r line; do
+            if [[ -n "$line" ]] && [[ "$line" =~ ^####[[:space:]](.*)$ ]]; then
+              title="${BASH_REMATCH[1]}"
+              if [[ -z "${seen_titles[$title]}" ]]; then
+                seen_titles[$title]=1
+                echo "$line" >> README.md
+                read -r summary_line
+                echo "$summary_line" >> README.md
+                read -r source_line
+                echo -e "$source_line\n" >> README.md
+              fi
+            fi
+          done < <(echo "$RESPONSE" | jq -r --arg keywords "$keywords" '
+            .web.results[]? | 
             select(.title != null and .description != null) |
-            select((.title + .description | ascii_downcase) | contains("release") or contains("launch") or contains("update") or contains("new") or contains("model") or contains("agent")) |
+            select((.title + .description | ascii_downcase) | contains($keywords)) |
             "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"
-          else
-            empty
-          end
-        ' >> README.md
+          ')
+        }
 
-        # Process innovations section
-        echo -e "\n### Notable Innovations" >> README.md
-        echo "$RESPONSE" | jq -r '
-          if (.web.results | type) == "array" then
-            .web.results[] | 
-            select(.title != null and .description != null) |
-            select((.title + .description | ascii_downcase) | contains("research") or contains("innovation") or contains("breakthrough") or contains("discover") or contains("study")) |
-            "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"
-          else
-            empty
-          end
-        ' >> README.md
-
-        # Process market trends section
-        echo -e "\n### Market Trends" >> README.md
-        echo "$RESPONSE" | jq -r '
-          if (.web.results | type) == "array" then
-            .web.results[] | 
-            select(.title != null and .description != null) |
-            select((.title + .description | ascii_downcase) | contains("market") or contains("industry") or contains("business") or contains("growth")) |
-            "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"
-          else
-            empty
-          end
-        ' >> README.md
+        # Process each section
+        process_section "Major Agent Releases & Improvements" "release|launch|update|new|model|agent"
+        process_section "Notable Innovations" "research|innovation|breakthrough|discover|study"
+        process_section "Market Trends" "market|industry|business|growth"
 
         # Add standard sections
         cat >> README.md << 'EOL'
