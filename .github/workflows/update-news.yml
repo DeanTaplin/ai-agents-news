@@ -40,11 +40,11 @@ jobs:
         # Process releases section
         echo "### Major Agent Releases & Improvements" >> README.md
         echo "$RESPONSE" | jq -r '
-          def sanitize_title: gsub("[\\n\\r]"; " ") | gsub("\\s+"; " ") | strip;
+          def clean: gsub("[\\n\\r]"; " ") | gsub("\\s+"; " ") | sub("^\\s+"; "") | sub("\\s+$"; "");
           .web.results[]? 
           | select(.description != null and (.title + .description | ascii_downcase | test("release|launch|update|new|model|agent|platform")))
           | select(.title != null)
-          | .title |= sanitize_title
+          | .title |= clean
           | group_by(.title)
           | map(.[0])[]
           | "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"
@@ -53,11 +53,11 @@ jobs:
         # Process innovations section
         echo -e "\n### Notable Innovations" >> README.md
         echo "$RESPONSE" | jq -r '
-          def sanitize_title: gsub("[\\n\\r]"; " ") | gsub("\\s+"; " ") | strip;
+          def clean: gsub("[\\n\\r]"; " ") | gsub("\\s+"; " ") | sub("^\\s+"; "") | sub("\\s+$"; "");
           .web.results[]? 
           | select(.description != null and (.title + .description | ascii_downcase | test("research|innovation|breakthrough|discover|study|develop")))
           | select(.title != null)
-          | .title |= sanitize_title
+          | .title |= clean
           | group_by(.title)
           | map(.[0])[]
           | "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"
@@ -66,11 +66,11 @@ jobs:
         # Process market trends section
         echo -e "\n### Market Trends" >> README.md
         echo "$RESPONSE" | jq -r '
-          def sanitize_title: gsub("[\\n\\r]"; " ") | gsub("\\s+"; " ") | strip;
+          def clean: gsub("[\\n\\r]"; " ") | gsub("\\s+"; " ") | sub("^\\s+"; "") | sub("\\s+$"; "");
           .web.results[]? 
           | select(.description != null and (.title + .description | ascii_downcase | test("market|industry|business|growth|adoption|trend")))
           | select(.title != null)
-          | .title |= sanitize_title
+          | .title |= clean
           | group_by(.title)
           | map(.[0])[]
           | "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"
