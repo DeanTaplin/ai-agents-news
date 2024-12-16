@@ -22,20 +22,12 @@ jobs:
     - name: Update README
       env:
         BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        # Debug: Print API key length (not the actual key)
-        echo "API key length: ${#BRAVE_API_KEY}"
-        
-        # Make API request and store response
-        RESPONSE=$(curl -v -H "X-Subscription-Token: $BRAVE_API_KEY" \
+        # Fetch news from Brave API
+        RESPONSE=$(curl -s -H "X-Subscription-Token: $BRAVE_API_KEY" \
           "https://api.search.brave.com/res/v1/web/search?q=AI+agents+autonomous+artificial+intelligence+news&count=20&freshness=pw")
         
-        # Debug: Print response structure (without sensitive data)
-        echo "API Response structure:"
-        echo "$RESPONSE" | jq 'keys'
-        
-        # Start new README content regardless of API response
+        # Create README content
         cat > README.md << EOL
         # AI Agents News Collection
 
@@ -43,17 +35,28 @@ jobs:
 
         ## Latest Updates
 
-        ### Major Agent Releases & Improvements
+        EOL
+        
+        # Add Major Releases section
+        echo "### Major Agent Releases & Improvements" >> README.md
+        echo "$RESPONSE" | jq -r '.web.results[]? | 
+        select(.description != null and (.title + .description | ascii_downcase | test("release|launch|update|new|model|agent|platform"))) | 
+        "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"' >> README.md
 
-        - Failed to fetch latest news. Please check back later.
+        # Add Innovations section
+        echo -e "\n### Notable Innovations" >> README.md
+        echo "$RESPONSE" | jq -r '.web.results[]? | 
+        select(.description != null and (.title + .description | ascii_downcase | test("research|innovation|breakthrough|discover|study|develop"))) | 
+        "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"' >> README.md
 
-        ### Notable Innovations
+        # Add Market Trends section
+        echo -e "\n### Market Trends" >> README.md
+        echo "$RESPONSE" | jq -r '.web.results[]? | 
+        select(.description != null and (.title + .description | ascii_downcase | test("market|industry|business|growth|adoption|trend"))) | 
+        "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"' >> README.md
 
-        - Failed to fetch latest news. Please check back later.
-
-        ### Market Trends
-
-        - Failed to fetch latest news. Please check back later.
+        # Add standard sections
+        cat >> README.md << 'EOL'
 
         ## Contributing
         Feel free to submit pull requests with new articles or updates to existing ones. Please ensure all submissions include:
