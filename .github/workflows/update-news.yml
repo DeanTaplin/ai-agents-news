@@ -37,39 +37,44 @@ jobs:
 
         EOL
         
-        # Create arrays for tracking used titles
+        # Helper function to check if title exists
         declare -A seen_titles
-        
-        # Process all sections with title tracking
-        process_section() {
-          local section_name="$1"
-          local keywords="$2"
-          
-          echo -e "\n### $section_name" >> README.md
-          while IFS= read -r line; do
-            if [[ -n "$line" ]] && [[ "$line" =~ ^####[[:space:]](.*)$ ]]; then
-              title="${BASH_REMATCH[1]}"
-              if [[ -z "${seen_titles[$title]}" ]]; then
-                seen_titles[$title]=1
-                echo "$line" >> README.md
-                read -r summary_line
-                echo "$summary_line" >> README.md
-                read -r source_line
-                echo -e "$source_line\n" >> README.md
-              fi
-            fi
-          done < <(echo "$RESPONSE" | jq -r --arg keywords "$keywords" '
-            .web.results[]? | 
-            select(.title != null and .description != null) |
-            select((.title + .description | ascii_downcase) | contains($keywords)) |
-            "#### \(.title)\n**Summary:** \(.description)\n\n**Source:** [\(.url | split("/")[2])](\(.url))\n"
-          ')
-        }
 
-        # Process each section
-        process_section "Major Agent Releases & Improvements" "release|launch|update|new|model|agent"
-        process_section "Notable Innovations" "research|innovation|breakthrough|discover|study"
-        process_section "Market Trends" "market|industry|business|growth"
+        # Process releases section
+        echo "### Major Agent Releases & Improvements" >> README.md
+        while IFS= read -r item; do
+          if [[ -n "$item" ]]; then
+            title=$(echo "$item" | jq -r '.title')
+            if [[ -z "${seen_titles[$title]}" ]]; then
+              seen_titles[$title]=1
+              echo -e "#### $title\n**Summary:** $(echo "$item" | jq -r '.description')\n\n**Source:** [$(echo "$item" | jq -r '.url | split("/")[2]')]($(echo "$item" | jq -r '.url'))\n" >> README.md
+            fi
+          fi
+        done < <(echo "$RESPONSE" | jq -c '.web.results[]? | select(.title != null and .description != null) | select((.title + .description | ascii_downcase | contains("release")) or contains("launch") or contains("update") or contains("new") or contains("model") or contains("agent"))')
+
+        # Process innovations section
+        echo -e "\n### Notable Innovations" >> README.md
+        while IFS= read -r item; do
+          if [[ -n "$item" ]]; then
+            title=$(echo "$item" | jq -r '.title')
+            if [[ -z "${seen_titles[$title]}" ]]; then
+              seen_titles[$title]=1
+              echo -e "#### $title\n**Summary:** $(echo "$item" | jq -r '.description')\n\n**Source:** [$(echo "$item" | jq -r '.url | split("/")[2]')]($(echo "$item" | jq -r '.url'))\n" >> README.md
+            fi
+          fi
+        done < <(echo "$RESPONSE" | jq -c '.web.results[]? | select(.title != null and .description != null) | select((.title + .description | ascii_downcase | contains("research")) or contains("innovation") or contains("breakthrough") or contains("discover") or contains("study"))')
+
+        # Process market trends section
+        echo -e "\n### Market Trends" >> README.md
+        while IFS= read -r item; do
+          if [[ -n "$item" ]]; then
+            title=$(echo "$item" | jq -r '.title')
+            if [[ -z "${seen_titles[$title]}" ]]; then
+              seen_titles[$title]=1
+              echo -e "#### $title\n**Summary:** $(echo "$item" | jq -r '.description')\n\n**Source:** [$(echo "$item" | jq -r '.url | split("/")[2]')]($(echo "$item" | jq -r '.url'))\n" >> README.md
+            fi
+          fi
+        done < <(echo "$RESPONSE" | jq -c '.web.results[]? | select(.title != null and .description != null) | select((.title + .description | ascii_downcase | contains("market")) or contains("industry") or contains("business") or contains("growth"))')
 
         # Add standard sections
         cat >> README.md << 'EOL'
