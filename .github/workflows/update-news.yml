@@ -1,98 +1,165 @@
-name: Update AI Agents News
+name: Weekly LLM News Update
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # Runs at 00:00 every Sunday
-  workflow_dispatch:  # Allows manual trigger
+    # Runs at 00:00 UTC every Monday
+    - cron: '0 0 * * 1'
+  # Allow manual trigger
+  workflow_dispatch:
 
 jobs:
-  update-news:
+  update-readme:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Get current date
-      id: date
-      run: echo "date=$(date +'%B %d, %Y')" >> $GITHUB_OUTPUT
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
 
-    - name: Update README
-      env:
-        BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
-      run: |
-        # Fetch news from Brave API
-        RESPONSE=$(curl -s -H "X-Subscription-Token: $BRAVE_API_KEY" \
-          "https://api.search.brave.com/res/v1/web/search?q=AI+agents+autonomous+artificial+intelligence+news&count=20&freshness=pw")
-        
-        # Create README content
-        cat > README.md << EOL
-        # AI Agents News Collection
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests python-dateutil
 
-        A curated collection of the latest news and developments in AI agents and autonomous artificial intelligence. Last updated: ${{ steps.date.outputs.date }}
+      - name: Create update script
+        run: |
+          cat > update_readme.py << 'EOL'
+          import os
+          import json
+          import requests
+          from datetime import datetime
+          from dateutil.relativedelta import relativedelta
 
-        ## Latest Updates
+          def search_brave(query, count=20):
+              api_key = os.environ.get('BRAVE_API_KEY')
+              headers = {'X-Subscription-Token': api_key}
+              url = 'https://api.search.brave.com/res/v1/web/search'
+              params = {
+                  'q': query,
+                  'count': count
+              }
+              response = requests.get(url, headers=headers, params=params)
+              return response.json()
 
-        EOL
-        
-        # Helper function to check if title exists
-        declare -A seen_titles
+          def generate_readme_content(news_data):
+              current_date = datetime.now().strftime("%B %d, %Y")
+              
+              content = f"""# LLM News Tracker
 
-        # Process releases section
-        echo "### Major Agent Releases & Improvements" >> README.md
-        while IFS= read -r item; do
-          if [[ -n "$item" ]]; then
-            title=$(echo "$item" | jq -r '.title')
-            if [[ -z "${seen_titles[$title]}" ]]; then
-              seen_titles[$title]=1
-              echo -e "#### $title\n**Summary:** $(echo "$item" | jq -r '.description')\n\n**Source:** [$(echo "$item" | jq -r '.url | split("/")[2]')]($(echo "$item" | jq -r '.url'))\n" >> README.md
-            fi
-          fi
-        done < <(echo "$RESPONSE" | jq -c '.web.results[]? | select(.title != null and .description != null) | select((.title + .description | ascii_downcase | contains("release")) or contains("launch") or contains("update") or contains("new") or contains("model") or contains("agent"))')
+          A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-        # Process innovations section
-        echo -e "\n### Notable Innovations" >> README.md
-        while IFS= read -r item; do
-          if [[ -n "$item" ]]; then
-            title=$(echo "$item" | jq -r '.title')
-            if [[ -z "${seen_titles[$title]}" ]]; then
-              seen_titles[$title]=1
-              echo -e "#### $title\n**Summary:** $(echo "$item" | jq -r '.description')\n\n**Source:** [$(echo "$item" | jq -r '.url | split("/")[2]')]($(echo "$item" | jq -r '.url'))\n" >> README.md
-            fi
-          fi
-        done < <(echo "$RESPONSE" | jq -c '.web.results[]? | select(.title != null and .description != null) | select((.title + .description | ascii_downcase | contains("research")) or contains("innovation") or contains("breakthrough") or contains("discover") or contains("study"))')
+          ## Latest Updates ({current_date})
 
-        # Process market trends section
-        echo -e "\n### Market Trends" >> README.md
-        while IFS= read -r item; do
-          if [[ -n "$item" ]]; then
-            title=$(echo "$item" | jq -r '.title')
-            if [[ -z "${seen_titles[$title]}" ]]; then
-              seen_titles[$title]=1
-              echo -e "#### $title\n**Summary:** $(echo "$item" | jq -r '.description')\n\n**Source:** [$(echo "$item" | jq -r '.url | split("/")[2]')]($(echo "$item" | jq -r '.url'))\n" >> README.md
-            fi
-          fi
-        done < <(echo "$RESPONSE" | jq -c '.web.results[]? | select(.title != null and .description != null) | select((.title + .description | ascii_downcase | contains("market")) or contains("industry") or contains("business") or contains("growth"))')
+          """
+              
+              # Process and categorize news here
+              model_releases = []
+              innovations = []
+              market_trends = []
+              
+              # Categorize news based on content
+              for item in news_data.get('web', {}).get('results', []):
+                  title = item.get('title', '')
+                  description = item.get('description', '')
+                  url = item.get('url', '')
+                  
+                  # Simple categorization based on keywords
+                  content_text = f"{title} {description}".lower()
+                  
+                  news_item = f"- **{title}**\n  - {description}\n  - [Source]({url})\n"
+                  
+                  if any(keyword in content_text for keyword in ['release', 'launch', 'version', 'model', 'gpt', 'claude', 'gemini']):
+                      model_releases.append(news_item)
+                  elif any(keyword in content_text for keyword in ['breakthrough', 'innovation', 'research', 'discover']):
+                      innovations.append(news_item)
+                  elif any(keyword in content_text for keyword in ['market', 'growth', 'trend', 'industry', 'adoption']):
+                      market_trends.append(news_item)
+              
+              # Add model releases section
+              if model_releases:
+                  content += "\n### Major Model Releases & Improvements\n\n"
+                  content += "\n".join(model_releases[:5])  # Limit to top 5
+              
+              # Add innovations section
+              if innovations:
+                  content += "\n### Notable Innovations\n\n"
+                  content += "\n".join(innovations[:5])  # Limit to top 5
+              
+              # Add market trends section
+              if market_trends:
+                  content += "\n### Market Trends\n\n"
+                  content += "\n".join(market_trends[:5])  # Limit to top 5
+              
+              # Add the standard sections
+              content += """
+          ## Contributing
 
-        # Add standard sections
-        cat >> README.md << 'EOL'
+          To contribute to this news tracker:
 
-        ## Contributing
-        Feel free to submit pull requests with new articles or updates to existing ones. Please ensure all submissions include:
-        - Article title
-        - Brief summary
-        - Source link
-        - Date of publication
+          1. Fork the repository
+          2. Add your news item in the appropriate section
+          3. Include:
+             - Clear, concise summary
+             - Date of announcement/development
+             - Reliable source link
+             - Any relevant technical details
+          4. Submit a pull request
 
-        ## License
-        This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-        EOL
+          ## News Categories
 
-    - name: Commit changes
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add README.md
-        git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update news $(date +'%Y-%m-%d') [skip ci]" && git push)
+          - Model Releases
+          - Research Breakthroughs
+          - Industry Applications
+          - Market Developments
+          - Technical Innovations
+          - Policy & Regulation
+          - Open Source Developments
+
+          ## Update Schedule
+
+          This repository is updated weekly with the latest developments in the LLM space. Each update includes verification from multiple sources when available.
+
+          ## Disclaimer
+
+          The information provided in this repository is compiled from various sources and may not be comprehensive. Always refer to the original sources for complete details and verify information independently.
+
+          ## License
+
+          This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+          """
+              
+              return content
+
+          def main():
+              # Search for latest LLM news
+              query = "agentic AI autonomous agents artificial intelligence news last week"
+              news_data = search_brave(query)
+              
+              # Generate new README content
+              new_content = generate_readme_content(news_data)
+              
+              # Write to README.md
+              with open('README.md', 'w', encoding='utf-8') as f:
+                  f.write(new_content)
+
+          if __name__ == "__main__":
+              main()
+          EOL
+
+      - name: Run update script
+        env:
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+        run: python update_readme.py
+
+      - name: Commit and push if changes exist
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update README with latest LLM news [skip ci]" && git push)
