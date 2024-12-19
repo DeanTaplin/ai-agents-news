@@ -1,4 +1,4 @@
-name: Weekly LLM News Update
+name: Weekly AI Agent News Update
 
 on:
   schedule:
@@ -50,9 +50,9 @@ jobs:
           def generate_readme_content(news_data):
               current_date = datetime.now().strftime("%B %d, %Y")
               
-              content = f"""# LLM News Tracker
+              content = f"""# AI Agent News Tracker
 
-          A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
+          A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
           ## Latest Updates ({current_date})
 
@@ -123,7 +123,7 @@ jobs:
 
           ## Update Schedule
 
-          This repository is updated weekly with the latest developments in the LLM space. Each update includes verification from multiple sources when available.
+          This repository is updated weekly with the latest developments in the AI agents space. Each update includes verification from multiple sources when available.
 
           ## Disclaimer
 
@@ -137,7 +137,7 @@ jobs:
               return content
 
           def main():
-              # Search for latest LLM news
+              # Search for latest AI agents news
               query = "agentic AI autonomous agents artificial intelligence news last week"
               news_data = search_brave(query)
               
@@ -162,4 +162,4 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update README with latest LLM news [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update README with latest AI agents news [skip ci]" && git push)
