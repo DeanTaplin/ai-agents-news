@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (December 23, 2024)
+## Latest Updates (December 30, 2024)
 
 
 ### Major Model Releases & Improvements
@@ -10,6 +10,10 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 - **OpenAI reportedly plans to launch an AI agent early next year - The Verge**
   - OpenAI’s new agent, code-named “Operator,” is set to release in January, Bloomberg reports. <strong>All of the leading AI companies have promised autonomous AI agents</strong>.
   - [Source](https://www.theverge.com/2024/11/13/24295879/openai-agent-operator-autonomous-ai)
+
+- **What are AI agents and why are they now so pervasive? – Computerworld**
+  - Going forward, <strong>AI agents are poised to transform the overall automated driving experience</strong>, according to Ritu Jyoti, a group vice president for IDC Research. For example, earlier this year, Nvidia released Agent Driver, an LLM-powered agent for autonomous vehicles that offers more “human-like ...
+  - [Source](https://www.computerworld.com/article/3617392/what-are-ai-agents-and-why-are-they-now-so-pervasive.html)
 
 ### Notable Innovations
 
@@ -27,17 +31,13 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - The report also delineates how the impacts of agentic AI could be &quot;enormous&quot; because there are one billion knowledge workers globally and stagnant productivity growth in the US. <strong>Productivity had only increased by 0.5% from 2019 to 2023 compared to 0.8% growth from 1987 to 2023</strong>.
   - [Source](https://www.zdnet.com/article/autonomous-agentic-ai-can-shake-up-workflows-and-businesses-should-prepare-now/)
 
-- **Intelligent Agents in AI Really Can Work Alone. Here's How.**
-  - Dive deeper on trends and topics that matter to business leaders. #BusinessGrowth #Trends #BusinessLeaders
-  - [Source](https://www.gartner.com/en/articles/intelligent-agent-in-ai)
-
-- **Autonomous generative AI agents | Deloitte Insights**
-  - <strong>Autonomous</strong> gen <strong>AI</strong> <strong>agents</strong>—<strong>agentic</strong> <strong>AI</strong>—could increase the productivity of knowledge workers and make workflows of all kinds more efficient. But the “<strong>autonomous</strong>” part may take time for wide adoption.
-  - [Source](https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/autonomous-generative-ai-agents-still-under-development.html)
-
 - **Agentic AI: A deep dive into the future of automation | VentureBeat**
   - This article is part one of a multi-article deep dive into <strong>Agentic</strong> <strong>AI</strong>, which promises to be the next evolutionary phase of <strong>AI</strong> adoption for enterprises across industries.
   - [Source](https://venturebeat.com/ai/agentic-ai-a-deep-dive-into-the-future-of-automation/)
+
+- **LIVE from Gartner IT Symposium: The Rise of Agentic AI - The National CIO Review**
+  - <strong>Agentic</strong> <strong>AI</strong>, one of Gartner’s top technology trends for 2025, represents a shift from task-based automation to <strong>autonomous</strong> goal-driven systems. Unlike task-based <strong>AI</strong>, <strong>agentic</strong> <strong>AI</strong> dynamically adjusts to changing conditions and <strong>autonomously</strong> makes decisions to complete complex processes.
+  - [Source](https://nationalcioreview.com/articles-insights/technology/artificial-intelligence/live-from-gartner-it-symposium-the-rise-of-agentic-ai/)
 
 ## Contributing
 
