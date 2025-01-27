@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (January 20, 2025)
+## Latest Updates (January 27, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -26,7 +26,7 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - [Source](https://www.forbes.com/sites/bernardmarr/2024/09/06/agentic-ai-the-next-big-breakthrough-thats-transforming-business-and-technology/)
 
 - **Agentic AI: 4 reasons why it’s the next big thing in AI research**
-  - With the big brains of LLMs and the targeted capabilities of agents, <strong>agentic AI can operate independently and autonomously perform specific tasks without the need for constant human oversight</strong>. This enables continuous operation in environments where human supervision is limited or unnecessary.
+  - There are good reasons to think that the hype around <strong>agentic</strong> <strong>AI</strong> is justified.
   - [Source](https://www.ibm.com/think/insights/agentic-ai)
 
 ### Market Trends
@@ -34,10 +34,6 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 - **Autonomous generative AI agents | Deloitte Insights**
   - <strong>Autonomous</strong> gen <strong>AI</strong> <strong>agents</strong>—<strong>agentic</strong> <strong>AI</strong>—could increase the productivity of knowledge workers and make workflows of all kinds more efficient. But the “<strong>autonomous</strong>” part may take time for wide adoption.
   - [Source](https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/autonomous-generative-ai-agents-still-under-development.html)
-
-- **Agentic AI: A deep dive into the future of automation | VentureBeat**
-  - This article is part one of a multi-article deep dive into <strong>Agentic</strong> <strong>AI</strong>, which promises to be the next evolutionary phase of <strong>AI</strong> adoption for enterprises across industries.
-  - [Source](https://venturebeat.com/ai/agentic-ai-a-deep-dive-into-the-future-of-automation/)
 
 ## Contributing
 
