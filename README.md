@@ -2,14 +2,10 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (February 03, 2025)
+## Latest Updates (February 10, 2025)
 
 
 ### Major Model Releases & Improvements
-
-- **OpenAI reportedly plans to launch an AI agent early next year - The Verge**
-  - OpenAI’s new agent, code-named “Operator,” is set to release in January, Bloomberg reports. <strong>All of the leading AI companies have promised autonomous AI agents</strong>.
-  - [Source](https://www.theverge.com/2024/11/13/24295879/openai-agent-operator-autonomous-ai)
 
 - **What is Agentic AI? | UiPath**
   - The two can be used in tandem to create powerful solutions that combine creativity with action. For example, a GenAI model could be used to create marketing copy, while <strong>an agentic AI system could autonomously deploy that copy to the optimal channels based on real-time data and campaign objectives</strong>.
