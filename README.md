@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (February 17, 2025)
+## Latest Updates (February 24, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -20,10 +20,6 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 - **Agentic AI: The Next Big Breakthrough That's Transforming Business And Technology**
   - Business Operations: <strong>Agentic AI could revolutionize how businesses handle day-to-day operations</strong>. These AI agents could autonomously manage supply chains, optimize inventory levels, forecast demand, and even handle complex logistics planning.
   - [Source](https://www.forbes.com/sites/bernardmarr/2024/09/06/agentic-ai-the-next-big-breakthrough-thats-transforming-business-and-technology/)
-
-- **Agentic AI Named Top Tech Trend for 2025 -- Campus Technology**
-  - <strong>Agentic</strong> <strong>AI</strong> will be the top tech trend for 2025, according to research firm Gartner. The term describes <strong>autonomous</strong> machine &quot;<strong>agents</strong>&quot; that move beyond query-and-response generative chatbots to do enterprise-related tasks without human guidance.
-  - [Source](https://campustechnology.com/articles/2024/10/23/agentic-ai-named-top-tech-trend-for-2025.aspx)
 
 ### Market Trends
 
