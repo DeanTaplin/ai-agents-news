@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (March 17, 2025)
+## Latest Updates (March 24, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -19,19 +19,23 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - In the past year, <strong>artificial</strong> <strong>intelligence</strong> leaders have talked about the advent of <strong>agents</strong> that can do work <strong>autonomously</strong>. Now, China says it has developed the world’s first. <strong>Last</strong> <strong>week</strong>, Chinese researchers launched an early preview of Manus <strong>AI</strong>, which they said is “the first general <strong>AI</strong> <strong>agent</strong>.”
   - [Source](https://www.yahoo.com/tech/china-completely-autonomous-ai-agent-155000761.html)
 
-- **What you need to know about Manus, the new AI agentic system from China hailed as a second 'DeepSeek moment' | VentureBeat**
-  - Manus <strong>AI</strong> is designed as a multi-<strong>agent</strong> system, meaning it combines several <strong>AI</strong> models to handle tasks independently.
-  - [Source](https://venturebeat.com/ai/what-you-need-to-know-about-manus-the-new-ai-agentic-system-from-china-hailed-as-a-second-deepseek-moment/)
+- **AI Agents: The Next Generation of Artificial Intelligence**
+  - Looking ahead, the next generation of <strong>AI</strong> will involve “<strong>agentic</strong> <strong>AI</strong>” (also referred to as “Large Action Models,” “Large <strong>Agent</strong> Models,” or “LAMS”) that serve high-level directives, <strong>autonomously</strong> executing cascading decisions and actions to achieve their specific objectives.
+  - [Source](https://natlawreview.com/article/next-generation-ai-here-come-agents)
 
 ### Notable Innovations
 
-- **The next wave of AI is here: Autonomous AI agents are amazing—and scary**
+- **Here's why autonomous AI agents are both exciting and ...**
   - Fast Company is the world&#x27;s leading progressive business media brand, with a unique editorial focus on innovation in technology, leadership, and design.
   - [Source](https://www.fastcompany.com/91281577/autonomous-ai-agents-are-both-exciting-and-scary)
 
 - **Agentic AI: 4 reasons why it’s the next big thing in AI research | IBM**
-  - With the big brains of LLMs and the targeted capabilities of agents, <strong>agentic AI can operate independently and autonomously perform specific tasks without the need for constant human oversight</strong>. This enables continuous operation in environments where human supervision is limited or unnecessary.
+  - There are good reasons to think that the hype around <strong>agentic</strong> <strong>AI</strong> is justified.
   - [Source](https://www.ibm.com/think/insights/agentic-ai)
+
+- **AI Agents in 2025: Expectations vs. Reality | IBM**
+  - For 2025, the dominant innovation narrative is the <strong>AI</strong> <strong>agent</strong>. But what can we realistically expect from <strong>agentic</strong> <strong>AI</strong> in 2025, and how will it affect our lives?
+  - [Source](https://www.ibm.com/think/insights/ai-agents-2025-expectations-vs-reality)
 
 ### Market Trends
 
