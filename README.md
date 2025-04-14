@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (April 07, 2025)
+## Latest Updates (April 14, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -11,23 +11,37 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - The two can be used in tandem to create powerful solutions that combine creativity with action. For example, a GenAI model could be used to create marketing copy, while <strong>an agentic AI system could autonomously deploy that copy to the optimal channels based on real-time data and campaign objectives</strong>.
   - [Source](https://www.uipath.com/ai/agentic-ai)
 
-- **Two Models for Agentic AI | by Daron Acemoglu - Project Syndicate**
-  - Daron Acemoglu sees a technological crossroads ahead – and argues that one path should not be taken.
-  - [Source](https://www.project-syndicate.org/commentary/ai-agents-promising-as-advisers-but-problematic-as-autonomous-decision-makers-by-daron-acemoglu-2025-03)
+- **What comes next after AI agents? We had to ask | TechTarget**
+  - Things are moving fast: First came ChatGPT. Then copilots. Then <strong>agentic</strong> <strong>AI</strong>. It all happened within three years. So, what&#x27;s coming next?
+  - [Source](https://www.techtarget.com/searchcustomerexperience/opinion/What-comes-next-after-AI-agents-We-had-to-ask)
 
 ### Notable Innovations
-
-- **Agentic AI: 4 reasons why it’s the next big thing in AI research | IBM**
-  - With the big brains of LLMs and the targeted capabilities of agents, <strong>agentic AI can operate independently and autonomously perform specific tasks without the need for constant human oversight</strong>. This enables continuous operation in environments where human supervision is limited or unnecessary.
-  - [Source](https://www.ibm.com/think/insights/agentic-ai)
 
 - **AI Agents in 2025: Expectations vs. Reality | IBM**
   - For 2025, the dominant innovation narrative is the <strong>AI</strong> <strong>agent</strong>. But what can we realistically expect from <strong>agentic</strong> <strong>AI</strong> in 2025, and how will it affect our lives?
   - [Source](https://www.ibm.com/think/insights/ai-agents-2025-expectations-vs-reality)
 
+- **What is Agentic AI? Definition, Examples and Trends in 2025**
+  - Discover what <strong>agentic</strong> <strong>AI</strong> is, how it transforms enterprises, and key 2025 trends. Learn from Aisera’s expert insights!
+  - [Source](https://aisera.com/blog/agentic-ai/)
+
+- **AI Agents, Agentic AI, and Autonomous AI: Are They the Same? | by Edwin Lisowski | Medium**
+  - Discover the differences between <strong>AI</strong> <strong>Agents</strong>, <strong>Agentic</strong> <strong>AI</strong>, <strong>and</strong> <strong>Autonomous</strong> <strong>AI</strong> in this follow-up to a widely popular article ranked #1 on Google.
+  - [Source](https://medium.com/@elisowski/ai-agents-agentic-ai-and-autonomous-ai-are-they-the-same-2ca7fbf5474a)
+
 - **Here's why autonomous AI agents are both exciting and ...**
   - Fast Company is the world&#x27;s leading progressive business media brand, with a unique editorial focus on innovation in technology, leadership, and design.
   - [Source](https://www.fastcompany.com/91281577/autonomous-ai-agents-are-both-exciting-and-scary)
+
+- **Agentic AI: 4 reasons why it’s the next big thing in AI research | IBM**
+  - There are good reasons to think that the hype around <strong>agentic</strong> <strong>AI</strong> is justified.
+  - [Source](https://www.ibm.com/think/insights/agentic-ai)
+
+### Market Trends
+
+- **Intelligent Agents in AI Really Can Work Alone. Here's How.**
+  - Dive deeper on trends and topics that matter to business leaders. #BusinessGrowth #Trends #BusinessLeaders
+  - [Source](https://www.gartner.com/en/articles/intelligent-agent-in-ai)
 
 ## Contributing
 
