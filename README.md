@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (April 28, 2025)
+## Latest Updates (May 05, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -15,6 +15,10 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - Things are moving fast: First came ChatGPT. Then copilots. Then <strong>agentic</strong> <strong>AI</strong>. It all happened within three years. So, what&#x27;s coming next?
   - [Source](https://www.techtarget.com/searchcustomerexperience/opinion/What-comes-next-after-AI-agents-We-had-to-ask)
 
+- **IBM Delivers Autonomous Security Operations with Cutting-Edge Agentic AI**
+  - <strong>IBM is launching Autonomous Threat Operations Machine (ATOM),</strong> an agentic AI system providing autonomous threat triage, investigation, and remediation with minimal human intervention. IBM is also introducing the new X-Force Predictive Threat Intelligence (PTI) agent for ATOM, which leverages ...
+  - [Source](https://newsroom.ibm.com/2025-04-28-ibm-delivers-autonomous-security-operations-with-cutting-edge-agentic-ai)
+
 - **Big Four Bet on AI Agents That Can Do All the Work and 'Liberate' Staff - Business Insider**
   - Deloitte launched an <strong>agentic</strong> <strong>AI</strong> platform it says will reduce costs by 25%, but questions remain about how its workforce will use the tool.
   - [Source](https://www.businessinsider.com/deloitte-ey-launch-agentic-ai-platforms-big-four-competition2025-3)
@@ -24,6 +28,10 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 - **AI Agents in 2025: Expectations vs. Reality | IBM**
   - For 2025, the dominant innovation narrative is the <strong>AI</strong> <strong>agent</strong>. But what can we realistically expect from <strong>agentic</strong> <strong>AI</strong> in 2025, and how will it affect our lives?
   - [Source](https://www.ibm.com/think/insights/ai-agents-2025-expectations-vs-reality)
+
+- **Agentic AI: 4 reasons why it’s the next big thing in AI research | IBM**
+  - With the big brains of LLMs and the targeted capabilities of agents, <strong>agentic AI can operate independently and autonomously perform specific tasks without the need for constant human oversight</strong>. This enables continuous operation in environments where human supervision is limited or unnecessary.
+  - [Source](https://www.ibm.com/think/insights/agentic-ai)
 
 - **Manus AI agent: breakthrough in China's agentic AI**
   - Meet Manus <strong>AI</strong> <strong>agent</strong> - China&#x27;s latest <strong>artificial</strong> <strong>intelligence</strong> breakthrough that&#x27;s turning heads across Silicon Valley and beyond.
