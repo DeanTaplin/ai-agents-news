@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (May 05, 2025)
+## Latest Updates (May 12, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -10,14 +10,6 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 - **What is Agentic AI? | UiPath**
   - The two can be used in tandem to create powerful solutions that combine creativity with action. For example, a GenAI model could be used to create marketing copy, while <strong>an agentic AI system could autonomously deploy that copy to the optimal channels based on real-time data and campaign objectives</strong>.
   - [Source](https://www.uipath.com/ai/agentic-ai)
-
-- **What comes next after AI agents? We had to ask | TechTarget**
-  - Things are moving fast: First came ChatGPT. Then copilots. Then <strong>agentic</strong> <strong>AI</strong>. It all happened within three years. So, what&#x27;s coming next?
-  - [Source](https://www.techtarget.com/searchcustomerexperience/opinion/What-comes-next-after-AI-agents-We-had-to-ask)
-
-- **IBM Delivers Autonomous Security Operations with Cutting-Edge Agentic AI**
-  - <strong>IBM is launching Autonomous Threat Operations Machine (ATOM),</strong> an agentic AI system providing autonomous threat triage, investigation, and remediation with minimal human intervention. IBM is also introducing the new X-Force Predictive Threat Intelligence (PTI) agent for ATOM, which leverages ...
-  - [Source](https://newsroom.ibm.com/2025-04-28-ibm-delivers-autonomous-security-operations-with-cutting-edge-agentic-ai)
 
 - **Big Four Bet on AI Agents That Can Do All the Work and 'Liberate' Staff - Business Insider**
   - Deloitte launched an <strong>agentic</strong> <strong>AI</strong> platform it says will reduce costs by 25%, but questions remain about how its workforce will use the tool.
@@ -33,9 +25,17 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - With the big brains of LLMs and the targeted capabilities of agents, <strong>agentic AI can operate independently and autonomously perform specific tasks without the need for constant human oversight</strong>. This enables continuous operation in environments where human supervision is limited or unnecessary.
   - [Source](https://www.ibm.com/think/insights/agentic-ai)
 
-- **Manus AI agent: breakthrough in China's agentic AI**
-  - Meet Manus <strong>AI</strong> <strong>agent</strong> - China&#x27;s latest <strong>artificial</strong> <strong>intelligence</strong> breakthrough that&#x27;s turning heads across Silicon Valley and beyond.
-  - [Source](https://www.artificialintelligence-news.com/news/manus-ai-agent-breakthrough-in-chinas-agentic-ai/)
+- **Agentic AI: The next big shift in how we work and innovate**
+  - Fast Company is the world&#x27;s leading progressive business media brand, with a unique editorial focus on innovation in technology, leadership, and design.
+  - [Source](https://www.fastcompany.com/91314749/agentic-ai-the-next-big-shift-in-how-we-work-and-innovate)
+
+- **The long road to agentic AI – hype vs. enterprise reality - SiliconANGLE**
+  - At <strong>last</strong> <strong>week</strong>’<strong>s</strong> <strong>AI</strong> <strong>Agent</strong> Builder Summit, hosted by Scott Hebner of theCUBE Research, the hype around “<strong>agentic</strong> <strong>artificial</strong> <strong>intelligence</strong>” – <strong>autonomous</strong> software <strong>agents</strong> that can orchestrate complex tasks – was on full display.
+  - [Source](https://siliconangle.com/2025/04/21/long-road-agentic-ai-hype-vs-enterprise-reality/)
+
+- **What is Agentic AI? Key Trends in 2025**
+  - Discover the definition of <strong>agentic</strong> <strong>AI</strong>, how it transforms enterprises, and key trends in 2025. Learn from Aisera’s expert insights!
+  - [Source](https://aisera.com/blog/agentic-ai/)
 
 ## Contributing
 
