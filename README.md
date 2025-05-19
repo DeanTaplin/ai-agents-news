@@ -2,14 +2,10 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (May 12, 2025)
+## Latest Updates (May 19, 2025)
 
 
 ### Major Model Releases & Improvements
-
-- **What is Agentic AI? | UiPath**
-  - The two can be used in tandem to create powerful solutions that combine creativity with action. For example, a GenAI model could be used to create marketing copy, while <strong>an agentic AI system could autonomously deploy that copy to the optimal channels based on real-time data and campaign objectives</strong>.
-  - [Source](https://www.uipath.com/ai/agentic-ai)
 
 - **Big Four Bet on AI Agents That Can Do All the Work and 'Liberate' Staff - Business Insider**
   - Deloitte launched an <strong>agentic</strong> <strong>AI</strong> platform it says will reduce costs by 25%, but questions remain about how its workforce will use the tool.
@@ -25,16 +21,16 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - With the big brains of LLMs and the targeted capabilities of agents, <strong>agentic AI can operate independently and autonomously perform specific tasks without the need for constant human oversight</strong>. This enables continuous operation in environments where human supervision is limited or unnecessary.
   - [Source](https://www.ibm.com/think/insights/agentic-ai)
 
+- **Agentic AI: The Future of Autonomous Consumer Products | EY - US**
+  - Today, <strong>agentic AI is experiencing a maturation phase, trending toward greater autonomy, enhanced reasoning abilities and increased complexity in interactions</strong>. As organizations integrate these intelligent agents into their operations, they are discovering the potential for transformative impacts ...
+  - [Source](https://www.ey.com/en_us/insights/consumer-products/agentic-ai-the-future-of-autonomous-consumer-products)
+
 - **Agentic AI: The next big shift in how we work and innovate**
   - Fast Company is the world&#x27;s leading progressive business media brand, with a unique editorial focus on innovation in technology, leadership, and design.
   - [Source](https://www.fastcompany.com/91314749/agentic-ai-the-next-big-shift-in-how-we-work-and-innovate)
 
-- **The long road to agentic AI – hype vs. enterprise reality - SiliconANGLE**
-  - At <strong>last</strong> <strong>week</strong>’<strong>s</strong> <strong>AI</strong> <strong>Agent</strong> Builder Summit, hosted by Scott Hebner of theCUBE Research, the hype around “<strong>agentic</strong> <strong>artificial</strong> <strong>intelligence</strong>” – <strong>autonomous</strong> software <strong>agents</strong> that can orchestrate complex tasks – was on full display.
-  - [Source](https://siliconangle.com/2025/04/21/long-road-agentic-ai-hype-vs-enterprise-reality/)
-
-- **What is Agentic AI? Key Trends in 2025**
-  - Discover the definition of <strong>agentic</strong> <strong>AI</strong>, how it transforms enterprises, and key trends in 2025. Learn from Aisera’s expert insights!
+- **What is Agentic AI? | Aisera**
+  - Discover how <strong>Agentic</strong> <strong>AI</strong> empowers businesses by automating tasks, enhancing decision-making, and driving innovation with <strong>autonomous</strong> <strong>AI</strong> <strong>agents</strong>.
   - [Source](https://aisera.com/blog/agentic-ai/)
 
 ## Contributing
