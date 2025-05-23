@@ -33,16 +33,40 @@ jobs:
           import os
           import json
           import requests
-          from datetime import datetime
+          from datetime import datetime, date # Added date
           from dateutil.relativedelta import relativedelta
+          import re # Added for regex
+          import glob # Added for glob
+
+          def extract_latest_updates(readme_path):
+              """Extracts the 'Latest Updates' section from the README.md file."""
+              try:
+                  with open(readme_path, 'r', encoding='utf-8') as f:
+                      content = f.read()
+                  
+                  # Regex to find content between "## Latest Updates" and the next "## "
+                  # Using re.DOTALL to make '.' match newlines
+                  # It captures the text *after* "## Latest Updates (date)" and its following newline
+                  match = re.search(r"## Latest Updates .*?\n(.*?)(?=\n## |\Z)", content, re.DOTALL)
+                  
+                  if match:
+                      # Return the captured group, stripping leading/trailing whitespace
+                      return match.group(1).strip() 
+                  else:
+                      print(f"DEBUG: '## Latest Updates' section not found in {readme_path}")
+                      return ""
+              except FileNotFoundError:
+                  print(f"DEBUG: {readme_path} not found.")
+                  return ""
 
           def search_brave(query, count=20):
               api_key = os.environ.get('BRAVE_API_KEY')
               headers = {'X-Subscription-Token': api_key}
-              url = 'https://api.search.brave.com/res/v1/web/search'
+              url = 'https://api.search.brave.com/res/v1/news/search'  # Changed URL
               params = {
                   'q': query,
-                  'count': count
+                  'count': count,
+                  'freshness': 'pw'  # Added freshness parameter
               }
               response = requests.get(url, headers=headers, params=params)
               return response.json()
@@ -64,7 +88,8 @@ jobs:
               market_trends = []
               
               # Categorize news based on content
-              for item in news_data.get('web', {}).get('results', []):
+              # Updated to reflect Brave News API response structure
+              for item in news_data.get('results', []): 
                   title = item.get('title', '')
                   description = item.get('description', '')
                   url = item.get('url', '')
@@ -95,9 +120,25 @@ jobs:
               if market_trends:
                   content += "\n### Market Trends\n\n"
                   content += "\n".join(market_trends[:5])  # Limit to top 5
+
+              # Add News Archive section
+              content += "\n## News Archive\n\n"
+              content += "[Browse all historical news](./history/)\n\n"
+              
+              history_files = glob.glob("history/*_news.md")
+              history_files.sort(reverse=True) # Sorts newest first based on YYYY-MM-DD filenames
+              
+              if not history_files:
+                  content += "No archived news yet.\n"
+              else:
+                  for i, file_path in enumerate(history_files[:5]):
+                      # Extract YYYY-MM-DD from filename like 'history/YYYY-MM-DD_news.md'
+                      filename = os.path.basename(file_path)
+                      date_str = filename.split('_')[0]
+                      content += f"- [News from {date_str}](./{file_path})\n"
               
               # Add the standard sections
-              content += """
+              content += """\n
           ## Contributing
 
           To contribute to this news tracker:
@@ -145,8 +186,47 @@ jobs:
               new_content = generate_readme_content(news_data)
               
               # Write to README.md
-              with open('README.md', 'w', encoding='utf-8') as f:
+              # This part is moved down in the new main() logic
+              # with open('README.md', 'w', encoding='utf-8') as f:
+              #     f.write(new_content)
+
+          def main():
+              readme_path = 'README.md'
+              history_dir = 'history'
+              
+              # Get current date for filename
+              current_date_str = date.today().strftime("%Y-%m-%d")
+              
+              # Extract old news content
+              # This needs to be done *before* overwriting README.md with new content
+              old_news_content = extract_latest_updates(readme_path)
+              
+              # Create history directory if it doesn't exist
+              os.makedirs(history_dir, exist_ok=True)
+              
+              # Save old news to history file
+              if old_news_content:
+                  history_file_path = os.path.join(history_dir, f"{current_date_str}_news.md")
+                  with open(history_file_path, 'w', encoding='utf-8') as f:
+                      f.write(old_news_content)
+                  print(f"Saved old news to {history_file_path}")
+              else:
+                  # This case handles when README.md doesn't exist or the section is not found.
+                  # The extract_latest_updates function already prints a DEBUG message.
+                  print(f"No old news section found in {readme_path} or file does not exist. Skipping history save for this run.")
+
+              # Search for latest AI agents news
+              query = "agentic AI autonomous agents artificial intelligence news" # Removed "last week"
+              news_data = search_brave(query)
+              
+              # Generate new README content
+              new_content = generate_readme_content(news_data)
+              
+              # Write to README.md (this was moved down from its original position)
+              with open(readme_path, 'w', encoding='utf-8') as f:
                   f.write(new_content)
+              print(f"Updated {readme_path} with new content.")
+
 
           if __name__ == "__main__":
               main()
@@ -161,5 +241,5 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update README with latest AI agents news [skip ci]" && git push)
+          git add README.md history/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update README with latest AI agents news, archive previous [skip ci]" && git push)
