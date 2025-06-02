@@ -2,55 +2,52 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (May 26, 2025)
+## Latest Updates (June 02, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **Ascend.io Debuts Agentic Data Engineering, Removing Operational Complexity with AI - Database Trends and Applications**
-  - Ascend.io, the company on a mission to make data engineering delightful, is announcing the launch of Agentic Data Engineering, a platform centralizing AI-powered ingestion, transformation, orchestration, and observability into a single, seamless system.
-  - [Source](https://www.dbta.com/Editorial/News-Flashes/Ascendio-Debuts-Agentic-Data-Engineering-Removing-Operational-Complexity-with-AI-169650.aspx)
+- **ConcertAI Launches New Generative and Agentic AI-Powered Precision Suite™ Accelerating Oncology Insights and Actions for Healthcare and Life Sciences**
+  - New family of persona-tailored solutions uses the power of CARAai™ and the unique depth and detail of ConcertAI’s Oncology Data to deliver enterprise-wide value to life sciences customersCAMBRIDGE, Mass.--(BUSINESS WIRE)--ConcertAI, a leader in oncolo...
+  - [Source](https://www.01net.it/concertai-launches-new-generative-and-agentic-ai-powered-precision-suite-accelerating-oncology-insights-and-actions-for-healthcare-and-life-sciences/)
 
-- **Google launched a dizzying array of new AI products, and it's getting harder to make sense of them all**
-  - Google unveiled dozens of new AI updates at I/O. Some of them seem to overlap significantly.
-  - [Source](https://www.businessinsider.com/google-io-new-ai-updates-overlap)
+- **Griffin Launches MCP Server for Agentic AI Banking - Finovate**
+  - Griffin has opened access to its MCP (Model Context Protocol) Server, enabling developers to build AI-powered agentic applications that can simulate tasks like account opening, payments, and financial analysis.
+  - [Source](https://finovate.com/griffin-launches-mcp-server-for-agentic-ai-banking/)
 
-- **Drive peak campaign performance with new agentic capabilities**
-  - We’re launching agentic capabilities for marketers to drive greater performance, reduce workloads and build best-in-class campaigns.
-  - [Source](https://blog.google/products/ads-commerce/ai-agents-marketing-advisor/)
-
-- **Realizing the full potential of agentic AI in the enterprise | CIO**
-  - In software, agents commonly refer to programs acting on behalf of a user or another computer program. The concept derives from a model of concurrent computation in the 1970s. With the advent of artificial intelligence, agents also exhibit additional properties such as basic reasoning, autonomy and ...
-  - [Source](https://www.cio.com/article/3989217/beyond-automation-realizing-the-full-potential-of-agentic-ai-in-the-enterprise.html)
-
-- **Everything Google Announced at I/O 2025 | WIRED**
-  - Artificial intelligence is now in everything Google touches, including its Android XR mixed-reality glasses, a revamped search experience, and Gemini’s new agentic capabilities.
-  - [Source](https://www.wired.com/story/everything-google-announced-at-io-2025/)
+- **Infosys Launches Agentic AI Foundry, Part of Infosys Topaz™, to Accelerate Enterprise AI Journey**
+  - /PRNewswire/ -- Infosys (NSE: INFY) (BSE: INFY) (NYSE: INFY), a global leader in next-generation digital services and consulting, today announced the launch of...
+  - [Source](https://www.prnewswire.com/news-releases/infosys-launches-agentic-ai-foundry-part-of-infosys-topaz-to-accelerate-enterprise-ai-journey-302467020.html)
 
 ### Notable Innovations
 
-- **Enterprise Innovation: Lakshman Kumar Jamili's Agentic AI Breakthrough**
-  - In the rapidly evolving landscape of enterprise automation, Lakshman Kumar Jamili's groundbreaking implementation of an Agentic AI system stands as a testament to innovative leadership in artificial intelligence.
-  - [Source](https://www.freepressjournal.in/latest-news/enterprise-innovation-lakshman-kumar-jamilis-agentic-ai-breakthrough)
+- **Walmart Embraces Agentic AI in New Era of Retail | PYMNTS.com**
+  - The retailer is preparing for a ... will autonomously shop for consumers and require new marketing, infrastructure and customer training. Agentic AI will change how products are discovered and purchased, prompting the need for agent-specific SEO and agent ad strategies. Walmart is getting ready for the agentic artificial intelligence revolution ...
+  - [Source](https://www.pymnts.com/news/artificial-intelligence/2025/walmart-embraces-agentic-ai-new-retail-era/)
+
+- **SailPoint Asks: Is Cybersecurity Ready For Agentic AI? | Cyber Magazine**
+  - SailPoint research has revealed that 96% of tech professionals see AI agents as growing security threats but 98% plan to expand their use of agentic tech
+  - [Source](https://cybermagazine.com/articles/sailpoint-is-cybersecurity-prepared-for-agentic-ais-rise)
+
+- **From automation to innovation: The role of agentic AI in the evolved workplace - ET CIO**
+  - Agentic AI is transforming digital workplace services by enabling systems to make independent decisions and proactively collaborate with employees. This evolution shifts DWS from basic automation to orchestrating personalized experiences, enhancing productivity, and fostering intelligent ...
+  - [Source](https://cio.economictimes.indiatimes.com/news/artificial-intelligence/from-automation-to-innovation-the-role-of-agentic-ai-in-the-evolved-workplace/121498616)
+
+- **Infosys introduces Agentic AI Foundry**
+  - Infosys has introduced its latest innovation under the Infosys Topaz suite—Agentic AI Foundry, a transformative platform designed to help enterprises accelerate their journey with artificial intelligence.
+  - [Source](https://cio.eletsonline.com/news/infosys-introduces-agentic-ai-foundry/74681/)
 
 ### Market Trends
 
-- **Microsoft’s Radical Bet Turns Windows Into an AI Playground | PYMNTS.com**
-  - For all PYMNTS AI coverage, subscribe to the daily AI Newsletter. This Week in AI: The Agentic Web, AI-Native Devices and Search Tools · Trump Threatens to Raise Tariffs on Apple and European Union · The Digital Asset Primer: Why Equity Markets Are Being Tokenized · Report: SBA Staffing Cuts Reduce Service to Entrepreneurs · See More In: agentic AI, AI, artificial intelligence...
-  - [Source](https://www.pymnts.com/artificial-intelligence-2/2025/microsoft-to-make-windows-agentic-for-new-web-experience/)
-
-- **4 top use cases for agentic AI in healthcare | TechTarget**
-  - Explore four use cases for using agentic AI in the healthcare industry, from preauthorizations to automating EHR entries.
-  - [Source](https://www.techtarget.com/healthtechanalytics/feature/4-top-use-cases-for-agentic-AI-in-healthcare)
-
-- **Google Unleashes Autonomous AI Agents for Marketers**
-  - It's a big change in how marketers use Google—if regulators don’t force a breakup
-  - [Source](https://www.adweek.com/media/google-debuts-ai-agent-for-marketers-baked-into-chrome-and-agentic-assistants/)
+- **Sagtec Acquires AI Software Firm Smart Bridge for $17.6M to Scale AI Solutions | SAGT Stock News**
+  - Sagtec expands into AI technology with Smart Bridge acquisition, targeting $133B total addressable market across retail, fintech, and logistics. See growth strategy.
+  - [Source](https://www.stocktitan.net/news/SAGT/sagtec-accelerates-ai-expansion-with-proposed-acquisition-of-agentic-lnm05kr2o4s9.html)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-06-02](./history/2025-06-02_news.md)
 - [News from 2025-05-26](./history/2025-05-26_news.md)
 - [News from 2025-05-23](./history/2025-05-23_news.md)
 
