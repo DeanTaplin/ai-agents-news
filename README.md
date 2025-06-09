@@ -2,51 +2,46 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (June 02, 2025)
+## Latest Updates (June 09, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **ConcertAI Launches New Generative and Agentic AI-Powered Precision Suite™ Accelerating Oncology Insights and Actions for Healthcare and Life Sciences**
-  - New family of persona-tailored solutions uses the power of CARAai™ and the unique depth and detail of ConcertAI’s Oncology Data to deliver enterprise-wide value to life sciences customersCAMBRIDGE, Mass.--(BUSINESS WIRE)--ConcertAI, a leader in oncolo...
-  - [Source](https://www.01net.it/concertai-launches-new-generative-and-agentic-ai-powered-precision-suite-accelerating-oncology-insights-and-actions-for-healthcare-and-life-sciences/)
+- **ORO Labs Launches New Agentic AI Capabilities to Power Truly Autonomous and Secure Procurement Workflows**
+  - ORO Labs, the market’s leading enterprise-grade intake management and procurement orchestration platform, today unveiled new agentic AI.
+  - [Source](https://aithority.com/machine-learning/oro-labs-launches-new-agentic-ai-capabilities-to-power-truly-autonomous-and-secure-procurement-workflows/)
 
-- **Griffin Launches MCP Server for Agentic AI Banking - Finovate**
-  - Griffin has opened access to its MCP (Model Context Protocol) Server, enabling developers to build AI-powered agentic applications that can simulate tasks like account opening, payments, and financial analysis.
-  - [Source](https://finovate.com/griffin-launches-mcp-server-for-agentic-ai-banking/)
+- **Amazon launches new R&D group focused on agentic AI and robotics | TechCrunch**
+  - Tech giant Amazon plans to launch a new group within its consumer product division that will focus on agentic AI.
+  - [Source](https://techcrunch.com/2025/06/05/amazon-launches-new-rd-group-focused-on-agentic-ai-and-robotics/)
 
-- **Infosys Launches Agentic AI Foundry, Part of Infosys Topaz™, to Accelerate Enterprise AI Journey**
-  - /PRNewswire/ -- Infosys (NSE: INFY) (BSE: INFY) (NYSE: INFY), a global leader in next-generation digital services and consulting, today announced the launch of...
-  - [Source](https://www.prnewswire.com/news-releases/infosys-launches-agentic-ai-foundry-part-of-infosys-topaz-to-accelerate-enterprise-ai-journey-302467020.html)
+- **Amazon Launches Agentic AI Group to Revolutionize Robotics - News and Statistics - IndexBox**
+  - Amazon's new Agentic AI team at Lab126 aims to revolutionize robotics by developing AI that can handle complex tasks with minimal human intervention, enhancing warehouse robot capabilities.
+  - [Source](https://www.indexbox.io/blog/amazon-advances-ai-with-new-agentic-ai-team-for-robotics/)
+
+- **Amazon Launches Agentic AI Group to Enhance Its Warehouse Robots, Reports Say**
+  - Amazon has assembled a research and development team to develop an agentic artificial intelligence framework for its robotics division, according to reports.
+  - [Source](https://finance.yahoo.com/news/amazon-launches-agentic-ai-group-175216497.html)
+
+- **Agentic AI: Software engineering at the speed of intelligence - Capgemini**
+  - It is no coincidence that no language on Earth has ever produced the expression “As easy as developing enterprise software.” Because it isn’t.
+  - [Source](https://www.capgemini.com/insights/expert-perspectives/agentic-ai-software-engineering-at-the-speed-of-intelligence/)
 
 ### Notable Innovations
 
-- **Walmart Embraces Agentic AI in New Era of Retail | PYMNTS.com**
-  - The retailer is preparing for a ... will autonomously shop for consumers and require new marketing, infrastructure and customer training. Agentic AI will change how products are discovered and purchased, prompting the need for agent-specific SEO and agent ad strategies. Walmart is getting ready for the agentic artificial intelligence revolution ...
-  - [Source](https://www.pymnts.com/news/artificial-intelligence/2025/walmart-embraces-agentic-ai-new-retail-era/)
+- **Walmart and Amazon Chase Agentic AI, Robotic Warehouses and Customer Loyalty | PYMNTS.com**
+  - Amazon and Walmart are locked in an all-fronts retail war as shifting consumer habits and razor-thin margins drive their innovation.
+  - [Source](https://www.pymnts.com/news/retail/2025/walmart-and-amazon-chase-agentic-ai-robotic-warehouses-and-customer-loyalty/)
 
-- **SailPoint Asks: Is Cybersecurity Ready For Agentic AI? | Cyber Magazine**
-  - SailPoint research has revealed that 96% of tech professionals see AI agents as growing security threats but 98% plan to expand their use of agentic tech
-  - [Source](https://cybermagazine.com/articles/sailpoint-is-cybersecurity-prepared-for-agentic-ais-rise)
-
-- **From automation to innovation: The role of agentic AI in the evolved workplace - ET CIO**
-  - Agentic AI is transforming digital workplace services by enabling systems to make independent decisions and proactively collaborate with employees. This evolution shifts DWS from basic automation to orchestrating personalized experiences, enhancing productivity, and fostering intelligent ...
-  - [Source](https://cio.economictimes.indiatimes.com/news/artificial-intelligence/from-automation-to-innovation-the-role-of-agentic-ai-in-the-evolved-workplace/121498616)
-
-- **Infosys introduces Agentic AI Foundry**
-  - Infosys has introduced its latest innovation under the Infosys Topaz suite—Agentic AI Foundry, a transformative platform designed to help enterprises accelerate their journey with artificial intelligence.
-  - [Source](https://cio.eletsonline.com/news/infosys-introduces-agentic-ai-foundry/74681/)
-
-### Market Trends
-
-- **Sagtec Acquires AI Software Firm Smart Bridge for $17.6M to Scale AI Solutions | SAGT Stock News**
-  - Sagtec expands into AI technology with Smart Bridge acquisition, targeting $133B total addressable market across retail, fintech, and logistics. See growth strategy.
-  - [Source](https://www.stocktitan.net/news/SAGT/sagtec-accelerates-ai-expansion-with-proposed-acquisition-of-agentic-lnm05kr2o4s9.html)
+- **Amazon’s R&D lab sets up new agentic AI group By Investing.com**
+  - Investing.com -- Amazon (NASDAQ:AMZN) is establishing a new team dedicated to agentic artificial intelligence within its Lab126 hardware research and development unit.
+  - [Source](https://ng.investing.com/news/stock-market-news/amazons-rd-lab-sets-up-new-agentic-ai-group-93CH-1954382)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-06-09](./history/2025-06-09_news.md)
 - [News from 2025-06-02](./history/2025-06-02_news.md)
 - [News from 2025-05-26](./history/2025-05-26_news.md)
 - [News from 2025-05-23](./history/2025-05-23_news.md)
