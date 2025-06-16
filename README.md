@@ -2,45 +2,36 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (June 09, 2025)
+## Latest Updates (June 16, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **ORO Labs Launches New Agentic AI Capabilities to Power Truly Autonomous and Secure Procurement Workflows**
-  - ORO Labs, the market’s leading enterprise-grade intake management and procurement orchestration platform, today unveiled new agentic AI.
-  - [Source](https://aithority.com/machine-learning/oro-labs-launches-new-agentic-ai-capabilities-to-power-truly-autonomous-and-secure-procurement-workflows/)
+- **Krutrim Launches ‘India’s First’ Agentic AI Assistant Kruti | AIM**
+  - Krutrim, a leading AI unicorn, launched Kruti, the country’s first agentic AI assistant capable of executing tasks such as cab booking, food ordering, bill payments, image creation, and in-depth research. The tool supports both text and voice input and includes a read-aloud feature.
+  - [Source](https://analyticsindiamag.com/ai-news-updates/krutrim-launches-indias-first-agentic-ai-assistant-kruti/)
 
-- **Amazon launches new R&D group focused on agentic AI and robotics | TechCrunch**
-  - Tech giant Amazon plans to launch a new group within its consumer product division that will focus on agentic AI.
-  - [Source](https://techcrunch.com/2025/06/05/amazon-launches-new-rd-group-focused-on-agentic-ai-and-robotics/)
-
-- **Amazon Launches Agentic AI Group to Revolutionize Robotics - News and Statistics - IndexBox**
-  - Amazon's new Agentic AI team at Lab126 aims to revolutionize robotics by developing AI that can handle complex tasks with minimal human intervention, enhancing warehouse robot capabilities.
-  - [Source](https://www.indexbox.io/blog/amazon-advances-ai-with-new-agentic-ai-team-for-robotics/)
-
-- **Amazon Launches Agentic AI Group to Enhance Its Warehouse Robots, Reports Say**
-  - Amazon has assembled a research and development team to develop an agentic artificial intelligence framework for its robotics division, according to reports.
-  - [Source](https://finance.yahoo.com/news/amazon-launches-agentic-ai-group-175216497.html)
-
-- **Agentic AI: Software engineering at the speed of intelligence - Capgemini**
-  - It is no coincidence that no language on Earth has ever produced the expression “As easy as developing enterprise software.” Because it isn’t.
-  - [Source](https://www.capgemini.com/insights/expert-perspectives/agentic-ai-software-engineering-at-the-speed-of-intelligence/)
+- **Agentforce London: 78% of UK companies use agentic AI, says Salesforce | Computer Weekly**
+  - Salesforce released Digital Labour Trends survey data to coincide with its Agentforce London 2025 event that found 78% of UK organisations are using agentic AI.
+  - [Source](https://www.computerweekly.com/news/366625741/Agentforce-London-78-of-UK-companies-use-agentic-AI-says-Salesforce)
 
 ### Notable Innovations
 
-- **Walmart and Amazon Chase Agentic AI, Robotic Warehouses and Customer Loyalty | PYMNTS.com**
-  - Amazon and Walmart are locked in an all-fronts retail war as shifting consumer habits and razor-thin margins drive their innovation.
-  - [Source](https://www.pymnts.com/news/retail/2025/walmart-and-amazon-chase-agentic-ai-robotic-warehouses-and-customer-loyalty/)
+- **The rise of autonomous agents: What enterprise leaders need to know about the next wave of AI | Amazon Web Services**
+  - Autonomous AI agents represent the next significant evolution in artificial intelligence, moving beyond conversational interfaces to systems that leverage AI to reason, plan, and complete tasks in tandem with – or on behalf of humans – like compiling research, paying bills, planning a trip ...
+  - [Source](https://aws.amazon.com/blogs/aws-insights/the-rise-of-autonomous-agents-what-enterprise-leaders-need-to-know-about-the-next-wave-of-ai/)
 
-- **Amazon’s R&D lab sets up new agentic AI group By Investing.com**
-  - Investing.com -- Amazon (NASDAQ:AMZN) is establishing a new team dedicated to agentic artificial intelligence within its Lab126 hardware research and development unit.
-  - [Source](https://ng.investing.com/news/stock-market-news/amazons-rd-lab-sets-up-new-agentic-ai-group-93CH-1954382)
+### Market Trends
+
+- **New Agentic AI platform transforming the intermodal container industry - Net Feasa**
+  - Podcast Interview with Net Feasa COO, Ruth Concannon, on the 'In Business' Show with Amber Galwey on Radio Kerry Net Feasa Chief Operating Officer, Ruth Concannon, sat down for a chat with Amber Galwey on the 'In Business' show last week on Radio Kerry. They shared an interesting conversation ...
+  - [Source](https://netfeasa.com/new-agentic-ai-platform-transforming-the-intermodal-container-industry/)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-06-16](./history/2025-06-16_news.md)
 - [News from 2025-06-09](./history/2025-06-09_news.md)
 - [News from 2025-06-02](./history/2025-06-02_news.md)
 - [News from 2025-05-26](./history/2025-05-26_news.md)
