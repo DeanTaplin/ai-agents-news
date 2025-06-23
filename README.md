@@ -2,40 +2,56 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (June 16, 2025)
+## Latest Updates (June 23, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **Krutrim Launches ‘India’s First’ Agentic AI Assistant Kruti | AIM**
-  - Krutrim, a leading AI unicorn, launched Kruti, the country’s first agentic AI assistant capable of executing tasks such as cab booking, food ordering, bill payments, image creation, and in-depth research. The tool supports both text and voice input and includes a read-aloud feature.
-  - [Source](https://analyticsindiamag.com/ai-news-updates/krutrim-launches-indias-first-agentic-ai-assistant-kruti/)
+- **Rethinking enterprise operations with Agentic AI - ET Edge Insights**
+  - For CXOs in India, the path forward ... for autonomous decision-making, redesigning the workforce model with new agent-centric roles, and fostering tight cross-functional collaboration between HR, IT, and operations. Organisations that act decisively today—investing in agentic platforms, talent pipelines, and governance frameworks—will not only enhance productivity but also be among the leaders in India’s next digital frontier. Artificial Intelligence / By Ritika ...
+  - [Source](https://etedge-insights.com/technology/artificial-intelligence/rethinking-enterprise-operations-with-agentic-ai/)
 
-- **Agentforce London: 78% of UK companies use agentic AI, says Salesforce | Computer Weekly**
-  - Salesforce released Digital Labour Trends survey data to coincide with its Agentforce London 2025 event that found 78% of UK organisations are using agentic AI.
-  - [Source](https://www.computerweekly.com/news/366625741/Agentforce-London-78-of-UK-companies-use-agentic-AI-says-Salesforce)
+- **Realizing the full potential of agentic AI in the enterprise | CIO**
+  - In software, agents commonly refer to programs acting on behalf of a user or another computer program. The concept derives from a model of concurrent computation in the 1970s. With the advent of artificial intelligence, agents also exhibit additional properties such as basic reasoning, autonomy and ...
+  - [Source](https://www.cio.com/article/3989217/beyond-automation-realizing-the-full-potential-of-agentic-ai-in-the-enterprise.html)
 
 ### Notable Innovations
 
-- **The rise of autonomous agents: What enterprise leaders need to know about the next wave of AI | Amazon Web Services**
-  - Autonomous AI agents represent the next significant evolution in artificial intelligence, moving beyond conversational interfaces to systems that leverage AI to reason, plan, and complete tasks in tandem with – or on behalf of humans – like compiling research, paying bills, planning a trip ...
-  - [Source](https://aws.amazon.com/blogs/aws-insights/the-rise-of-autonomous-agents-what-enterprise-leaders-need-to-know-about-the-next-wave-of-ai/)
+- **Agentic AI transforms business operations with enhanced oversight**
+  - IT Brief Australia - Technology news for CIOs & IT decision-makers ... The integration of agentic artificial intelligence (AI) into business operations is gaining significant momentum across industries, with new research, commentary, and product announcements underscoring both the promise and ...
+  - [Source](https://itbrief.com.au/story/agentic-ai-transforms-business-operations-with-enhanced-oversight)
+
+- **AI agents are more than just a tech trend, but we must balance innovation with responsibility**
+  - Nvidia CEO calls AI agents a multi-trillion-dollar opportunity as they transform tasks with autonomy, emotional intelligence, and raise ethical concerns.
+  - [Source](https://channellife.com.au/story/ai-agents-are-more-than-just-a-tech-trend-but-we-must-balance-innovation-with-responsibility)
 
 ### Market Trends
 
-- **New Agentic AI platform transforming the intermodal container industry - Net Feasa**
-  - Podcast Interview with Net Feasa COO, Ruth Concannon, on the 'In Business' Show with Amber Galwey on Radio Kerry Net Feasa Chief Operating Officer, Ruth Concannon, sat down for a chat with Amber Galwey on the 'In Business' show last week on Radio Kerry. They shared an interesting conversation ...
-  - [Source](https://netfeasa.com/new-agentic-ai-platform-transforming-the-intermodal-container-industry/)
+- **Top 10 Agentic AI Trends to Watch in 2025: From Hyperautomation to AI Orchestration - SuperAGI**
+  - As we step into 2025, the world of artificial intelligence is on the cusp of a revolution, and agentic AI is at the forefront of this transformation. With the ability to autonomously resolve common customer service issues, hyperautomation and autonomous interactions are set to change the game ...
+  - [Source](https://superagi.com/top-10-agentic-ai-trends-to-watch-in-2025-from-hyperautomation-to-ai-orchestration)
+
+- **Top 10 Trending AI Agents Projects in 2025–2026 | by Seraphina blake | Coinmonks | Jun, 2025 | Medium**
+  - In the fast-paced world of artificial intelligence, AI Agents Projects have emerged as one of the most transformative forces reshaping the way we interact with technology. As we step into 2025 and look toward 2026, AI agents are no longer limited to chatbot assistants or rule-based task handlers. Instead, they’re becoming autonomous...
+  - [Source](https://medium.com/coinmonks/top-10-trending-ai-agents-projects-in-2025-2026-bea8c705f4a6)
+
+- **Agentic AI adoption in application security sees cautious growth**
+  - SecurityBrief Australia - Technology news for CISOs & cybersecurity decision-makers ... A new study conducted by Cycode has revealed changing attitudes towards the use of agentic artificial intelligence (AI) within application security, indicating both cautious uptake and notable benefits among ...
+  - [Source](https://securitybrief.com.au/story/agentic-ai-adoption-in-application-security-sees-cautious-growth)
+
+- **Agentic AI Transforms Enterprise Workflows with 60% Adoption**
+  - This technology autonomously handles complex workflows, promising transformative value. Early adopters in finance and healthcare report significant efficiency gains, positioning agentic AI as a strategic imperativ · Agentic AI Transforms Enterprise Workflows with 60% Adoption ... The landscape of artificial intelligence ...
+  - [Source](https://www.webpronews.com/agentic-ai-transforms-enterprise-workflows-with-60-adoption/)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-06-23](./history/2025-06-23_news.md)
 - [News from 2025-06-16](./history/2025-06-16_news.md)
 - [News from 2025-06-09](./history/2025-06-09_news.md)
 - [News from 2025-06-02](./history/2025-06-02_news.md)
 - [News from 2025-05-26](./history/2025-05-26_news.md)
-- [News from 2025-05-23](./history/2025-05-23_news.md)
 
 
 ## Contributing
