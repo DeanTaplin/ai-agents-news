@@ -2,14 +2,18 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (June 23, 2025)
+## Latest Updates (June 30, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **Rethinking enterprise operations with Agentic AI - ET Edge Insights**
-  - For CXOs in India, the path forward ... for autonomous decision-making, redesigning the workforce model with new agent-centric roles, and fostering tight cross-functional collaboration between HR, IT, and operations. Organisations that act decisively today—investing in agentic platforms, talent pipelines, and governance frameworks—will not only enhance productivity but also be among the leaders in India’s next digital frontier. Artificial Intelligence / By Ritika ...
-  - [Source](https://etedge-insights.com/technology/artificial-intelligence/rethinking-enterprise-operations-with-agentic-ai/)
+- **What is Agentic AI? Understanding the Next Evolution of AI - INSPYR Solutions**
+  - Agentic AI is the next frontier in artificial intelligence, distinct from other models because it can act, decide, and adapt autonomously.
+  - [Source](https://inspyrsolutions.com/what-is-agentic-ai)
+
+- **Over 40% agentic AI deployments will be abandoned by 2027: Gartner | YourStory**
+  - The research comes amid increasing interest in the emerging subfield of AI, which aims to build systems capable of proactive, autonomous decision-making with minimal human supervision. Gartner defines “agentic AI” as a category of artificial intelligence models that can autonomously perform ...
+  - [Source](https://yourstory.com/ai-story/gartner-agentic-ai-projects-cancelled-2027)
 
 - **Realizing the full potential of agentic AI in the enterprise | CIO**
   - In software, agents commonly refer to programs acting on behalf of a user or another computer program. The concept derives from a model of concurrent computation in the 1970s. With the advent of artificial intelligence, agents also exhibit additional properties such as basic reasoning, autonomy and ...
@@ -17,41 +21,41 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Notable Innovations
 
-- **Agentic AI transforms business operations with enhanced oversight**
-  - IT Brief Australia - Technology news for CIOs & IT decision-makers ... The integration of agentic artificial intelligence (AI) into business operations is gaining significant momentum across industries, with new research, commentary, and product announcements underscoring both the promise and ...
-  - [Source](https://itbrief.com.au/story/agentic-ai-transforms-business-operations-with-enhanced-oversight)
-
-- **AI agents are more than just a tech trend, but we must balance innovation with responsibility**
-  - Nvidia CEO calls AI agents a multi-trillion-dollar opportunity as they transform tasks with autonomy, emotional intelligence, and raise ethical concerns.
-  - [Source](https://channellife.com.au/story/ai-agents-are-more-than-just-a-tech-trend-but-we-must-balance-innovation-with-responsibility)
+- **Why 40% agentic AI projects will be axed by 2027**
+  - Home / News / Technology News / Why 40% agentic AI projects will be axed by 2027 ... A recent report by research and advisory firm Gartner has predicted that over 40% of agentic artificial intelligence (AI) projects will be scrapped by the end of 2027. The main reasons for this are rising costs, ...
+  - [Source](https://newsbytesapp.com/news/science/over-40-of-agentic-ai-projects-will-be-axed-gartner/story)
 
 ### Market Trends
 
-- **Top 10 Agentic AI Trends to Watch in 2025: From Hyperautomation to AI Orchestration - SuperAGI**
-  - As we step into 2025, the world of artificial intelligence is on the cusp of a revolution, and agentic AI is at the forefront of this transformation. With the ability to autonomously resolve common customer service issues, hyperautomation and autonomous interactions are set to change the game ...
-  - [Source](https://superagi.com/top-10-agentic-ai-trends-to-watch-in-2025-from-hyperautomation-to-ai-orchestration)
+- **Top 6 Trends Shaping the Future of Agentic AI Development | by Sparkout Tech Solutions | Mr. Plan ₿ Publication | Jun, 2025 | Medium**
+  - The landscape of Artificial Intelligence is evolving at an unprecedented pace, and at its forefront is the rise of Agentic AI. Moving beyond mere data analysis or content generation, agentic AI systems are defined by their ability to autonomously perceive their environment, set and pursue complex ...
+  - [Source](https://medium.com/mr-plan-publication/top-6-trends-shaping-the-future-of-agentic-ai-development-441d13af5e3d)
 
-- **Top 10 Trending AI Agents Projects in 2025–2026 | by Seraphina blake | Coinmonks | Jun, 2025 | Medium**
-  - In the fast-paced world of artificial intelligence, AI Agents Projects have emerged as one of the most transformative forces reshaping the way we interact with technology. As we step into 2025 and look toward 2026, AI agents are no longer limited to chatbot assistants or rule-based task handlers. Instead, they’re becoming autonomous...
-  - [Source](https://medium.com/coinmonks/top-10-trending-ai-agents-projects-in-2025-2026-bea8c705f4a6)
+- **The Future of AI Agent Development Frameworks: Trends, Tools, and Predictions for 2026 | by Sathish Kumar V | Analyst’s corner | Jun, 2025 | Medium**
+  - The world of Artificial Intelligence is experiencing a metamorphosis, moving rapidly from AI that merely assists to AI that autonomously acts, reasons, learns, and adapts. This next frontier, known as Agentic AI, promises to revolutionize industries by enabling systems that can proactively ...
+  - [Source](https://medium.com/analysts-corner/the-future-of-ai-agent-development-frameworks-trends-tools-and-predictions-for-2026-a70b90661acc)
 
-- **Agentic AI adoption in application security sees cautious growth**
-  - SecurityBrief Australia - Technology news for CISOs & cybersecurity decision-makers ... A new study conducted by Cycode has revealed changing attitudes towards the use of agentic artificial intelligence (AI) within application security, indicating both cautious uptake and notable benefits among ...
-  - [Source](https://securitybrief.com.au/story/agentic-ai-adoption-in-application-security-sees-cautious-growth)
+- **Securing Non-Human Identity Needed to Tame Agentic AI Risks**
+  - News, news analysis, and commentary on the latest trends in cybersecurity technology. As the definition of machine identities broadens, AI agents working on behalf of users and gaining access to various services blurs the lines of non-human identities even more. ... From service accounts and Web application programming interfaces (APIs) to serverless applications and now artificial intelligence ...
+  - [Source](https://www.darkreading.com/cybersecurity-operations/taming-agentic-ai-risks-securing-nhi)
 
-- **Agentic AI Transforms Enterprise Workflows with 60% Adoption**
-  - This technology autonomously handles complex workflows, promising transformative value. Early adopters in finance and healthcare report significant efficiency gains, positioning agentic AI as a strategic imperativ · Agentic AI Transforms Enterprise Workflows with 60% Adoption ... The landscape of artificial intelligence ...
-  - [Source](https://www.webpronews.com/agentic-ai-transforms-enterprise-workflows-with-60-adoption/)
+- **HCLTech extends partnership with Salesforce for agentic AI adoption - The Economic Times**
+  - Indian IT bellwether HCLTech has expanded its partnership with cloud computing major Salesforce for enterprise adoption of agentic artificial intelligence (AI) services. The partnership will accelerate enterprises’ adoption of autonomous AI agents by Salesforce Agentforce across various ...
+  - [Source](https://m.economictimes.com/tech/information-tech/hcltech-extends-partnership-with-salesforce-for-agentic-ai-adoption/articleshow/122094907.cms)
+
+- **Agentic AI Market Size, Share, and Strategic Forecast through 2034 - ANALYSIS SPHERE**
+  - Agentic AI refers to autonomous artificial intelligence systems—“agents”—that independently perform complex, coordinated actions to achieve goals across diverse domains. Unlike traditional AI tools, which react to prompts, agentic agents proactively plan, reason, adapt, interact with ...
+  - [Source](https://analysissphere.com/agentic-ai-market)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-06-30](./history/2025-06-30_news.md)
 - [News from 2025-06-23](./history/2025-06-23_news.md)
 - [News from 2025-06-16](./history/2025-06-16_news.md)
 - [News from 2025-06-09](./history/2025-06-09_news.md)
 - [News from 2025-06-02](./history/2025-06-02_news.md)
-- [News from 2025-05-26](./history/2025-05-26_news.md)
 
 
 ## Contributing
