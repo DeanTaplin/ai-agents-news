@@ -2,60 +2,50 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (June 30, 2025)
+## Latest Updates (July 07, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **What is Agentic AI? Understanding the Next Evolution of AI - INSPYR Solutions**
-  - Agentic AI is the next frontier in artificial intelligence, distinct from other models because it can act, decide, and adapt autonomously.
-  - [Source](https://inspyrsolutions.com/what-is-agentic-ai)
+- **Agentic AI: The Biggest AI Trend of 2025 (And Why It Changes Everything) | by Seekmeai | Jun, 2025 | Medium**
+  - Gartner predicts agentic AI will autonomously resolve 80% of common customer service issues without human intervention by 2029. We’re talking about AI handling most customer problems on its own. The focus in 2025 has shifted from large language models (LLMs) to advancements in the ostensibly autonomous artificial intelligence ...
+  - [Source](https://medium.com/@seekmeai/agentic-ai-the-biggest-ai-trend-of-2025-and-why-it-changes-everything-f15ef291d1da)
 
-- **Over 40% agentic AI deployments will be abandoned by 2027: Gartner | YourStory**
-  - The research comes amid increasing interest in the emerging subfield of AI, which aims to build systems capable of proactive, autonomous decision-making with minimal human supervision. Gartner defines “agentic AI” as a category of artificial intelligence models that can autonomously perform ...
-  - [Source](https://yourstory.com/ai-story/gartner-agentic-ai-projects-cancelled-2027)
+- **🤖 Agentic AI: Why Everyone’s Talking About the Future of Autonomous Intelligence - DEV Community**
+  - From AutoGPT to LangChain Agents, here’s why Agentic AI is shaping the future of how machines think,...
+  - [Source](https://dev.to/abhishekjaiswal_4896/agentic-ai-why-everyones-talking-about-the-future-of-autonomous-intelligence-20ho)
 
-- **Realizing the full potential of agentic AI in the enterprise | CIO**
-  - In software, agents commonly refer to programs acting on behalf of a user or another computer program. The concept derives from a model of concurrent computation in the 1970s. With the advent of artificial intelligence, agents also exhibit additional properties such as basic reasoning, autonomy and ...
-  - [Source](https://www.cio.com/article/3989217/beyond-automation-realizing-the-full-potential-of-agentic-ai-in-the-enterprise.html)
+- **How new agentic AI models could transform the sector**
+  - Agentic AI is a new type of artificial intelligence that acts autonomously.
+  - [Source](https://morningadvertiser.co.uk/Article/2025/07/04/how-can-agentic-ai-benefit-pubs)
+
+- **Agentic AI and Blockchain: A New Era for the Crypto Economy**
+  - Explore how Agentic AI and blockchain technology are reshaping the global economy by facilitating autonomous machine interactions and creating new digital market models. Agentic AI, a novel form of artificial intelligence designed to operate autonomously with minimal human intervention, is ...
+  - [Source](https://blockchain.news/news/agentic-ai-blockchain-new-era-crypto-economy)
+
+- **From Prompt to Action/Autonomy: How Agentic AI Is Redefining the Game**
+  - Unlike its predecessors, Agentic ... in artificial intelligence by utilizing machine learning, large language models (LLMs), and natural language processing (NLPs) to perform tasks with limited human input. Hence, the term agentic. This advancement moves AI from passive content generation to purposeful, goal-directed action, allowing systems to pursue real-world outcomes with greater autonomy and action-taking ...
+  - [Source](https://validmind.com/blog/what-is-agentic-ai-101-understanding-technology/)
 
 ### Notable Innovations
 
-- **Why 40% agentic AI projects will be axed by 2027**
-  - Home / News / Technology News / Why 40% agentic AI projects will be axed by 2027 ... A recent report by research and advisory firm Gartner has predicted that over 40% of agentic artificial intelligence (AI) projects will be scrapped by the end of 2027. The main reasons for this are rising costs, ...
-  - [Source](https://newsbytesapp.com/news/science/over-40-of-agentic-ai-projects-will-be-axed-gartner/story)
+- **Nearly half of agentic AI projects may fail by 2027, warns research firm**
+  - Industry research identifies implementation challenges and costs that could derail autonomous system deployments across marketing and enterprise sectors.
+  - [Source](https://ppc.land/nearly-half-of-agentic-ai-projects-may-fail-by-2027-warns-research-firm)
 
-### Market Trends
-
-- **Top 6 Trends Shaping the Future of Agentic AI Development | by Sparkout Tech Solutions | Mr. Plan ₿ Publication | Jun, 2025 | Medium**
-  - The landscape of Artificial Intelligence is evolving at an unprecedented pace, and at its forefront is the rise of Agentic AI. Moving beyond mere data analysis or content generation, agentic AI systems are defined by their ability to autonomously perceive their environment, set and pursue complex ...
-  - [Source](https://medium.com/mr-plan-publication/top-6-trends-shaping-the-future-of-agentic-ai-development-441d13af5e3d)
-
-- **The Future of AI Agent Development Frameworks: Trends, Tools, and Predictions for 2026 | by Sathish Kumar V | Analyst’s corner | Jun, 2025 | Medium**
-  - The world of Artificial Intelligence is experiencing a metamorphosis, moving rapidly from AI that merely assists to AI that autonomously acts, reasons, learns, and adapts. This next frontier, known as Agentic AI, promises to revolutionize industries by enabling systems that can proactively ...
-  - [Source](https://medium.com/analysts-corner/the-future-of-ai-agent-development-frameworks-trends-tools-and-predictions-for-2026-a70b90661acc)
-
-- **Securing Non-Human Identity Needed to Tame Agentic AI Risks**
-  - News, news analysis, and commentary on the latest trends in cybersecurity technology. As the definition of machine identities broadens, AI agents working on behalf of users and gaining access to various services blurs the lines of non-human identities even more. ... From service accounts and Web application programming interfaces (APIs) to serverless applications and now artificial intelligence ...
-  - [Source](https://www.darkreading.com/cybersecurity-operations/taming-agentic-ai-risks-securing-nhi)
-
-- **HCLTech extends partnership with Salesforce for agentic AI adoption - The Economic Times**
-  - Indian IT bellwether HCLTech has expanded its partnership with cloud computing major Salesforce for enterprise adoption of agentic artificial intelligence (AI) services. The partnership will accelerate enterprises’ adoption of autonomous AI agents by Salesforce Agentforce across various ...
-  - [Source](https://m.economictimes.com/tech/information-tech/hcltech-extends-partnership-with-salesforce-for-agentic-ai-adoption/articleshow/122094907.cms)
-
-- **Agentic AI Market Size, Share, and Strategic Forecast through 2034 - ANALYSIS SPHERE**
-  - Agentic AI refers to autonomous artificial intelligence systems—“agents”—that independently perform complex, coordinated actions to achieve goals across diverse domains. Unlike traditional AI tools, which react to prompts, agentic agents proactively plan, reason, adapt, interact with ...
-  - [Source](https://analysissphere.com/agentic-ai-market)
+- **Unlocking business transformation through agentic AI | CIO**
+  - This process demands more than ... by artificial intelligence. By thoughtfully implementing these autonomous systems — from initial assessment to ongoing monitoring — organizations can unlock unprecedented efficiency, drive innovation and secure a competitive edge. The true power of agentic AI lies not ...
+  - [Source](https://www.cio.com/article/4014821/unlocking-business-transformation-through-agentic-ai.html)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-07-07](./history/2025-07-07_news.md)
 - [News from 2025-06-30](./history/2025-06-30_news.md)
 - [News from 2025-06-23](./history/2025-06-23_news.md)
 - [News from 2025-06-16](./history/2025-06-16_news.md)
 - [News from 2025-06-09](./history/2025-06-09_news.md)
-- [News from 2025-06-02](./history/2025-06-02_news.md)
 
 
 ## Contributing
