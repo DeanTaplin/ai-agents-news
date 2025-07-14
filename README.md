@@ -2,50 +2,48 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (July 07, 2025)
+## Latest Updates (July 14, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **Agentic AI: The Biggest AI Trend of 2025 (And Why It Changes Everything) | by Seekmeai | Jun, 2025 | Medium**
-  - Gartner predicts agentic AI will autonomously resolve 80% of common customer service issues without human intervention by 2029. We’re talking about AI handling most customer problems on its own. The focus in 2025 has shifted from large language models (LLMs) to advancements in the ostensibly autonomous artificial intelligence ...
-  - [Source](https://medium.com/@seekmeai/agentic-ai-the-biggest-ai-trend-of-2025-and-why-it-changes-everything-f15ef291d1da)
-
-- **🤖 Agentic AI: Why Everyone’s Talking About the Future of Autonomous Intelligence - DEV Community**
-  - From AutoGPT to LangChain Agents, here’s why Agentic AI is shaping the future of how machines think,...
-  - [Source](https://dev.to/abhishekjaiswal_4896/agentic-ai-why-everyones-talking-about-the-future-of-autonomous-intelligence-20ho)
-
-- **How new agentic AI models could transform the sector**
-  - Agentic AI is a new type of artificial intelligence that acts autonomously.
-  - [Source](https://morningadvertiser.co.uk/Article/2025/07/04/how-can-agentic-ai-benefit-pubs)
-
-- **Agentic AI and Blockchain: A New Era for the Crypto Economy**
-  - Explore how Agentic AI and blockchain technology are reshaping the global economy by facilitating autonomous machine interactions and creating new digital market models. Agentic AI, a novel form of artificial intelligence designed to operate autonomously with minimal human intervention, is ...
-  - [Source](https://blockchain.news/news/agentic-ai-blockchain-new-era-crypto-economy)
-
-- **From Prompt to Action/Autonomy: How Agentic AI Is Redefining the Game**
-  - Unlike its predecessors, Agentic ... in artificial intelligence by utilizing machine learning, large language models (LLMs), and natural language processing (NLPs) to perform tasks with limited human input. Hence, the term agentic. This advancement moves AI from passive content generation to purposeful, goal-directed action, allowing systems to pursue real-world outcomes with greater autonomy and action-taking ...
-  - [Source](https://validmind.com/blog/what-is-agentic-ai-101-understanding-technology/)
+- **New Generation Launches Agentic AI Platform With Help From Visa | PYMNTS.com**
+  - AI infrastructure startup New ... for agentic commerce. This new offering is designed to power secure, artificial intelligence (AI)-initiated transactions “through intelligent storefronts and embedded payment flows,” the company said in a Thursday (July 10) news ...
+  - [Source](https://www.pymnts.com/artificial-intelligence-2/2025/new-generation-launches-agentic-ai-platform-with-help-from-visa/)
 
 ### Notable Innovations
 
-- **Nearly half of agentic AI projects may fail by 2027, warns research firm**
-  - Industry research identifies implementation challenges and costs that could derail autonomous system deployments across marketing and enterprise sectors.
-  - [Source](https://ppc.land/nearly-half-of-agentic-ai-projects-may-fail-by-2027-warns-research-firm)
+- **Agentic AI Is Quietly Replacing Developers - The New Stack**
+  - Discover how agentic AI is transforming software development from manual coding to intelligent automation.
+  - [Source](https://thenewstack.io/agentic-ai-is-quietly-replacing-developers/)
 
-- **Unlocking business transformation through agentic AI | CIO**
-  - This process demands more than ... by artificial intelligence. By thoughtfully implementing these autonomous systems — from initial assessment to ongoing monitoring — organizations can unlock unprecedented efficiency, drive innovation and secure a competitive edge. The true power of agentic AI lies not ...
-  - [Source](https://www.cio.com/article/4014821/unlocking-business-transformation-through-agentic-ai.html)
+### Market Trends
+
+- **IBM drives agentic AI adoption through Reddit marketing campaign**
+  - Company uses community engagement and technical documentation to promote watsonx platform across enterprises.
+  - [Source](https://ppc.land/ibm-drives-agentic-ai-adoption-through-reddit-marketing-campaign/)
+
+- **Simplify enterprise AI adoption and scale with Agentic AI - ET Edge Insights**
+  - As AI adoption becomes a strategic imperative for businesses in India, enterprises are rapidly realizing the need to rethink their data architectures,
+  - [Source](https://etedge-insights.com/resources/brands-speak/simplify-enterprise-ai-adoption-and-scale-with-agentic-ai/)
+
+- **The Autonomous Enterprise: How Agentic AI Is Orchestrating The Next Wave Of Business Transformation?**
+  - AiThority.com covers the latest news, trends, insights and analysis related to AI ML, Blockchain and 1500+ emerging tech categories.
+  - [Source](https://aithority.com/machine-learning/the-autonomous-enterprise-how-agentic-ai-is-orchestrating-the-next-wave-of-business-transformation/)
+
+- **Autonomize: Agentic AI Accelerates Shift From ‘Sick’ Care**
+  - The industry’s longstanding ... care but the administrative workflows and processes supporting it might be beginning to thaw. The reason? The evolution of agentic artificial intelligence, which represents the latest, autonomous iteration of the buzzy software ...
+  - [Source](https://www.pymnts.com/news/artificial-intelligence/2025/autonomize-says-agentic-ai-accelerates-shift-from-sick-care-to-healthcares-true-potential/)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-07-14](./history/2025-07-14_news.md)
 - [News from 2025-07-07](./history/2025-07-07_news.md)
 - [News from 2025-06-30](./history/2025-06-30_news.md)
 - [News from 2025-06-23](./history/2025-06-23_news.md)
 - [News from 2025-06-16](./history/2025-06-16_news.md)
-- [News from 2025-06-09](./history/2025-06-09_news.md)
 
 
 ## Contributing
