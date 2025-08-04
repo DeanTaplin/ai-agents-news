@@ -2,56 +2,52 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (July 28, 2025)
+## Latest Updates (August 04, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **Virginia becomes first state to use agentic AI for regulatory reduction | Fox News**
-  - Agentic AI refers to artificial intelligence that differs from typical reactive bots like ChatGPT or Grok that provide information based on prompts, and instead can be programmed to pursue a goal, make autonomous decisions and take actions.
-  - [Source](https://www.foxnews.com/politics/youngkin-unleashes-cutting-edge-ai-technology-effort-slash-virginias-government-red-tape)
+- **AI Agents: The Next Frontier in Artificial Intelligence - DEV Community**
+  - In 2025, Artificial Intelligence is no longer just about large language models or predictive analytics—it’s about autonomous AI agents. These agents are transforming the way businesses operate, users interact with software, and even how we approach problem-solving at scale.
+  - [Source](https://dev.to/innoapps/ai-agents-the-next-frontier-in-artificial-intelligence-13ka)
 
-- **Council Post: Cutting Costs, Driving Progress: Evolving Your Organization With Agentic AI**
-  - Artificial intelligence (AI) is rapidly moving past generative AI (GenAI) tools like ChatGPT, DALL-E and Gemini toward genuine autonomy. Google, OpenAI and Nvidia are among major technology companies that have recently announced expansions of agentic AI capability.
-  - [Source](https://www.forbes.com/councils/forbestechcouncil/2025/07/21/cutting-costs-driving-progress-evolving-your-organization-with-agentic-ai/)
+- **Writer releases autonomous AI 'super agent' for enterprise users - SiliconANGLE**
+  - Generative artificial intelligence startup Writer Inc. today announced the launch of Action Agent, a powerful AI agent that integrates tool use, knowledge work and deep research capabilities along with enterprise-grade control and transparency.
+  - [Source](https://siliconangle.com/2025/07/29/writer-releases-autonomous-ai-super-agent-enterprise-users)
 
-- **How AI agents can generate $450 billion by 2028 - and what stands in the way | ZDNET**
-  - Through revenue growth and cost savings, agentic AI is a $450 million opportunity, according to a Capgemini​ report. However, trust in fully autonomous AI agents is declining.
-  - [Source](https://zdnet.com/article/how-ai-agents-can-generate-450-billion-by-2028-and-what-stands-in-the-way)
+- **ReliaQuest unveils AI teammates to boost predictive security**
+  - IT Brief Australia - Technology news for CIOs & IT decision-makers ... ReliaQuest has announced the launch of GreyMatter Agentic Teammates, a set of autonomous, role-based artificial intelligence agents designed to scale security operations teams and enhance predictive security measures.
+  - [Source](https://itbrief.com.au/story/reliaquest-unveils-ai-teammates-to-boost-predictive-security)
+
+- **Your Weekly AI Agent Roundup: 20+ Launches, Demos & Open Source Projects | by Agen.cy | Jul, 2025 | Medium**
+  - Here is everything that happened this week in AI Agents from Amazon, LlamaIndex, AgentOps, CrewAI, Certus, n8n, Composio, Perplexity Comet, Apify, Arc Prize, Anthropic, & more. 🧵
+  - [Source](https://medium.com/@agencyai/your-weekly-ai-agent-roundup-20-launches-demos-open-source-projects-546dbc27ee99)
 
 ### Notable Innovations
 
-- **Ultra-Premium Domain AgenticAi.com for Sale to Lead AI Innovation**
-  - BILLINGS, Mont., July 23, 2025 ... of artificial intelligence, the ultra-premium domain name AgenticAI.com is now for sale. This premium AI domain represents a rare opportunity for visionary companies, startups, and investors to secure a foundational asset in the rapidly evolving field of agentic AI - where intelligent agents autonomously perform complex ...
-  - [Source](https://finance.yahoo.com/news/ultra-premium-domain-agenticai-com-172700588.html)
+- **Discover Agentic AI - Inventors Digest**
+  - Agentic AI refers to artificial intelligence systems designed to act autonomously, making decisions and taking actions to achieve specific goals within set parameters.
+  - [Source](https://inventorsdigest.com/discover-agentic-ai)
+
+- **Agentic AI Revolutionizes Creative Industries: Efficiency and Innovation**
+  - In the rapidly evolving world of artificial intelligence, a new breed of tools known as agentic AI is quietly revolutionizing the creative sectors, from design and animation to music and storytelling. Unlike traditional AI that merely responds to prompts, agentic systems act autonomously, making ...
+  - [Source](https://www.webpronews.com/agentic-ai-revolutionizes-creative-industries-efficiency-and-innovation/)
 
 ### Market Trends
 
-- **Investors flock to agentic AI amid rising use cases across sectors - Industry News | The Financial Express**
-  - Agentic AI, autonomous AI systems mimicking human-like decision-making across tasks, is rapidly emerging as a top investment area for VCs in India and worldwide.
-  - [Source](https://www.financialexpress.com/business/industry/investors-flock-to-agentic-ai-amid-rising-use-cases-across-sectors/3928155/)
-
-- **Google Cloud projects $1 trillion agentic AI market by 2040**
-  - Receive the news every day in your inbox. Free of ads. 10 USD per year. Subscribe · Agentic AI: Autonomous artificial intelligence systems that can independently reason, make decisions, and take actions to solve complex business problems without requiring human intervention for each step.
-  - [Source](https://ppc.land/google-cloud-projects-1-trillion-agentic-ai-market-by-2040/)
-
-- **Agentic AI Market Trends, Key Vendors Analysis, Regional Trends, Competitive Landscape, and Industry Potential by 2032 - The Globe and Mail**
-  - Additionally, major IT platforms ... governance and observability. As organizations scale digital infrastructure and hybrid cloud operations, the demand for intelligent agents that can autonomously manage, remediate, and optimize IT services is accelerating....
-  - [Source](https://www.theglobeandmail.com/investing/markets/markets-news/GetNews/33655415/agentic-ai-market-trends-key-vendors-analysis-regional-trends-competitive-landscape-and-industry-potential-by-2032/)
-
-- **CRWD Bets on Agentic AI Security: Will it Unlock Next Growth Phase? — TradingView News**
-  - CrowdStrike CRWD is strengthening its focus on agentic AI security as enterprises adopt artificial intelligence (AI) and generative AI (GenAI) technologies. These AI agents act autonomously and at machine speed, which creates unique security risks, all the while increasing the size, severity, ...
-  - [Source](https://www.tradingview.com/news/zacks:d946336bf094b:0-crwd-bets-on-agentic-ai-security-will-it-unlock-next-growth-phase/)
+- **Agentic AI Transforms Creative Industries: Boosting Productivity and Workflows**
+  - Agentic AI is revolutionizing creative ... music by autonomously handling tasks, streamlining workflows, and boosting productivity, as seen in tools like Adobe Firefly and Runway ML. Despite ethical concerns and job displacement risks, experts advocate a hybrid approach. Ultimately, strategic adoption will enhance human creativity without replacing it. Agentic AI Transforms Creative Industries: Boosting Productivity and Workflows ... In the rapidly evolving world of artificial intelligence, agentic AI ...
+  - [Source](https://webpronews.com/agentic-ai-transforms-creative-industries-boosting-productivity-and-workflows)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-08-04](./history/2025-08-04_news.md)
 - [News from 2025-07-28](./history/2025-07-28_news.md)
 - [News from 2025-07-21](./history/2025-07-21_news.md)
 - [News from 2025-07-14](./history/2025-07-14_news.md)
 - [News from 2025-07-07](./history/2025-07-07_news.md)
-- [News from 2025-06-30](./history/2025-06-30_news.md)
 
 
 ## Contributing
