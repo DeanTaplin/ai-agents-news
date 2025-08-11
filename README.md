@@ -2,52 +2,56 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (August 04, 2025)
+## Latest Updates (August 11, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **AI Agents: The Next Frontier in Artificial Intelligence - DEV Community**
-  - In 2025, Artificial Intelligence is no longer just about large language models or predictive analytics—it’s about autonomous AI agents. These agents are transforming the way businesses operate, users interact with software, and even how we approach problem-solving at scale.
-  - [Source](https://dev.to/innoapps/ai-agents-the-next-frontier-in-artificial-intelligence-13ka)
-
-- **Writer releases autonomous AI 'super agent' for enterprise users - SiliconANGLE**
-  - Generative artificial intelligence startup Writer Inc. today announced the launch of Action Agent, a powerful AI agent that integrates tool use, knowledge work and deep research capabilities along with enterprise-grade control and transparency.
-  - [Source](https://siliconangle.com/2025/07/29/writer-releases-autonomous-ai-super-agent-enterprise-users)
-
-- **ReliaQuest unveils AI teammates to boost predictive security**
-  - IT Brief Australia - Technology news for CIOs & IT decision-makers ... ReliaQuest has announced the launch of GreyMatter Agentic Teammates, a set of autonomous, role-based artificial intelligence agents designed to scale security operations teams and enhance predictive security measures.
-  - [Source](https://itbrief.com.au/story/reliaquest-unveils-ai-teammates-to-boost-predictive-security)
-
-- **Your Weekly AI Agent Roundup: 20+ Launches, Demos & Open Source Projects | by Agen.cy | Jul, 2025 | Medium**
-  - Here is everything that happened this week in AI Agents from Amazon, LlamaIndex, AgentOps, CrewAI, Certus, n8n, Composio, Perplexity Comet, Apify, Arc Prize, Anthropic, & more. 🧵
-  - [Source](https://medium.com/@agencyai/your-weekly-ai-agent-roundup-20-launches-demos-open-source-projects-546dbc27ee99)
+- **Agentic AI reshapes cybersecurity beyond the hype - SiliconANGLE**
+  - Artificial intelligence is driving a new frontier in cybersecurity, with agentic AI emerging as the next major leap beyond last year’s large language model hype. This evolving technology promises autonomous, goal-driven decision-making — but it also raises new challenges in oversight, trust ...
+  - [Source](https://siliconangle.com/2025/08/08/agentic-ai-human-insight-future-cybersecurity-blackhatusa/)
 
 ### Notable Innovations
 
-- **Discover Agentic AI - Inventors Digest**
-  - Agentic AI refers to artificial intelligence systems designed to act autonomously, making decisions and taking actions to achieve specific goals within set parameters.
-  - [Source](https://inventorsdigest.com/discover-agentic-ai)
+- **AI Agent Trends of 2025: A Transformative Landscape - MarkTechPost**
+  - The year 2025 marks a defining moment in the evolution of artificial intelligence, ushering in an era where agentic systems—autonomous AI agents capable of complex reasoning and coordinated action—are transforming enterprise workflows, research, software development, and day-to-day user ...
+  - [Source](https://marktechpost.com/2025/08/10/ai-agent-trends-of-2025-a-transformative-landscape)
 
-- **Agentic AI Revolutionizes Creative Industries: Efficiency and Innovation**
-  - In the rapidly evolving world of artificial intelligence, a new breed of tools known as agentic AI is quietly revolutionizing the creative sectors, from design and animation to music and storytelling. Unlike traditional AI that merely responds to prompts, agentic systems act autonomously, making ...
-  - [Source](https://www.webpronews.com/agentic-ai-revolutionizes-creative-industries-efficiency-and-innovation/)
+- **Agentic AI Market to Reach $196.6 Billion by 2034 at 43.8% CAGR**
+  - Agentic AI is transforming businesses with autonomous agents that plan and execute tasks, driven by LLMs. The market is projected to reach $196.6 billion by 2034 at 43.8% CAGR, fueled by investments and integrations in sectors like BFSI. Despite challenges like project cancellations, it promises industry reshaping through innovation and governance. Agentic AI Market to Reach $196.6 Billion by 2034 at 43.8% CAGR ... In the rapidly evolving world of artificial intelligence...
+  - [Source](https://webpronews.com/agentic-ai-market-to-reach-196-6-billion-by-2034-at-43-8-cagr)
+
+- **ADVERSA AI Agentic AI Security and Red Teaming Platform Honored as Gold Stevie® Award Winner for AI Technology Breakthrough**
+  - Its platform delivers automated, ... autonomous agents, and MCP–based stacks—before they reach production. Adversa AI protects Fortune 500 AI innovators, financial institutions, and government agencies building the next generation of artificial intelligence...
+  - [Source](https://prnewswire.com/news-releases/adversa-ai-agentic-ai-security-and-red-teaming-platform-honored-as-gold-stevie-award-winner-for-ai-technology-breakthrough-302523460.html)
+
+- **Agentic AI Raises Alarm Bells for Antitrust Regulators | PYMNTS.com**
+  - As agentic artificial intelligence gains traction in enterprise applications, a paper in the June CPI TechREG Chronicle warns that these systems could bring anti-competition scrutiny from regulators. The paper, “Agentic AI: Future Issues at the Intersection of Technology, Innovation and Competition Policy,” cited antitrust and other risks arising from the use of AI systems that autonomously ...
+  - [Source](https://pymnts.com/news/artificial-intelligence/2025/agentic-ai-raises-alarm-bells-for-antitrust-regulators)
 
 ### Market Trends
 
-- **Agentic AI Transforms Creative Industries: Boosting Productivity and Workflows**
-  - Agentic AI is revolutionizing creative ... music by autonomously handling tasks, streamlining workflows, and boosting productivity, as seen in tools like Adobe Firefly and Runway ML. Despite ethical concerns and job displacement risks, experts advocate a hybrid approach. Ultimately, strategic adoption will enhance human creativity without replacing it. Agentic AI Transforms Creative Industries: Boosting Productivity and Workflows ... In the rapidly evolving world of artificial intelligence, agentic AI ...
-  - [Source](https://webpronews.com/agentic-ai-transforms-creative-industries-boosting-productivity-and-workflows)
+- **Autonomous AI agents in industry: the potential and challenges of agentic AI | igor´sLAB**
+  - Agentic AI describes autonomous AI agents that are able to make decisions independently, plan courses of action and carry out complex tasks without constant…
+  - [Source](https://igorslab.de/en/autonomous-ki-agents-in-industry-potentials-and-challenges-of-agentic-ai)
+
+- **Agentic AI startups raise $2.8 billion in 2025, says Prosus report | Start Ups - Business Standard**
+  - The report said agentic AI is gaining traction fast and that we are already past the tipping point of adoption.Peerzada Abrar Bengaluru · 3 min read Last Updated : Aug 05 2025 | 4:13 PM IST · A new generation of artificial intelligence (AI) startups focused on autonomous workplace agents ...
+  - [Source](https://business-standard.com/companies/start-ups/agentic-ai-startups-attract-2-8-billion-vc-funding-2025-prosus-125080501059_1.html)
+
+- **Agentic AI to Drive Autonomous Businesses by 2025, $391B Growth**
+  - Agentic AI to Drive Autonomous Businesses by 2025, $391B Growth ... In the rapidly evolving world of corporate technology, artificial intelligence is no longer just a tool for efficiency—it’s becoming the architect of entirely autonomous business operations.
+  - [Source](https://webpronews.com/agentic-ai-to-drive-autonomous-businesses-by-2025-391b-growth)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-08-11](./history/2025-08-11_news.md)
 - [News from 2025-08-04](./history/2025-08-04_news.md)
 - [News from 2025-07-28](./history/2025-07-28_news.md)
 - [News from 2025-07-21](./history/2025-07-21_news.md)
 - [News from 2025-07-14](./history/2025-07-14_news.md)
-- [News from 2025-07-07](./history/2025-07-07_news.md)
 
 
 ## Contributing
