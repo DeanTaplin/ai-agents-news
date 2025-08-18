@@ -2,56 +2,76 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (August 11, 2025)
+## Latest Updates (August 18, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **Agentic AI reshapes cybersecurity beyond the hype - SiliconANGLE**
-  - Artificial intelligence is driving a new frontier in cybersecurity, with agentic AI emerging as the next major leap beyond last year’s large language model hype. This evolving technology promises autonomous, goal-driven decision-making — but it also raises new challenges in oversight, trust ...
-  - [Source](https://siliconangle.com/2025/08/08/agentic-ai-human-insight-future-cybersecurity-blackhatusa/)
+- **Brightwave Launches Research Agents: The First Analyst-Grade AI Chat That Builds, Thinks, and Works in Every Dataroom | News | bakersfield.com**
+  - Today Brightwave, the agentic AI research platform built to help professionals understand the world’s most complex problems, introduced Research Agents, enabling users to control fleets of autonomous research agents from a single, unified control plane.
+  - [Source](https://www.bakersfield.com/ap/news/brightwave-launches-research-agents-the-first-analyst-grade-ai-chat-that-builds-thinks-and-works/article_9c07cb9b-3636-58a7-a9da-ba4425bf792a.html)
+
+- **Global Agentic Artificial Intelligence (AI) Market Set for Rapid Growth with 31.6% CAGR, Driven by Autonomous Decision-Making Demand**
+  - Press release - emergen research - Global Agentic Artificial Intelligence (AI) Market Set for Rapid Growth with 31.6% CAGR, Driven by Autonomous Decision-Making Demand - published on openPR.com
+  - [Source](https://openpr.com/news/4140086/global-agentic-artificial-intelligence-ai-market-set)
+
+- **Orbitype.com - World’s First Agentic Cloud OS for Enhanced AI-Agent and Human Collaboration | Business Upturn**
+  - Basel, Switzerland, Aug. 15, 2025 (GLOBE NEWSWIRE) — Orbitype today announced the official launch of the world’s first Agentic Cloud OS, a groundbreaking platform that seamlessly integrates agentic artificial intelligence (AI) into modern cloud infrastructures.
+  - [Source](https://www.businessupturn.com/brand-post/orbitype-com-worlds-first-agentic-cloud-os-for-enhanced-ai-agent-and-human-collaboration/)
+
+- **10 Agentic AI Key Concepts Explained - KDnuggets**
+  - Agentic AI is undoubtedly one of the most buzzworthy terms of the year. While not inherently a new paradigm within the umbrella of artificial intelligence, the term has gained renewed popularity largely due to its symbiotic relationship with large language models (LLMs) and other generative AI systems, which unlock many practical limitations that both standalone LLMs and earlier autonomous ...
+  - [Source](https://www.kdnuggets.com/10-agentic-ai-key-concepts-explained)
 
 ### Notable Innovations
 
-- **AI Agent Trends of 2025: A Transformative Landscape - MarkTechPost**
-  - The year 2025 marks a defining moment in the evolution of artificial intelligence, ushering in an era where agentic systems—autonomous AI agents capable of complex reasoning and coordinated action—are transforming enterprise workflows, research, software development, and day-to-day user ...
-  - [Source](https://marktechpost.com/2025/08/10/ai-agent-trends-of-2025-a-transformative-landscape)
+- **Brightwave's new platform orchestrates autonomous agents to create extensive research reports on any topic - SiliconANGLE**
+  - Agentic research startup Brightwave ... agents to create comprehensive reports on almost any subject. Brightwave said its new offering takes inspiration from the system and user interface designs of artificial intelligence-powered coding tools such as Cursor, and makes it simple for anyone to create “long-running” autonomous agents that ...
+  - [Source](https://siliconangle.com/2025/08/12/brightwaves-new-platform-orchestrates-autonomous-agents-create-extensive-research-reports-topic/)
 
-- **Agentic AI Market to Reach $196.6 Billion by 2034 at 43.8% CAGR**
-  - Agentic AI is transforming businesses with autonomous agents that plan and execute tasks, driven by LLMs. The market is projected to reach $196.6 billion by 2034 at 43.8% CAGR, fueled by investments and integrations in sectors like BFSI. Despite challenges like project cancellations, it promises industry reshaping through innovation and governance. Agentic AI Market to Reach $196.6 Billion by 2034 at 43.8% CAGR ... In the rapidly evolving world of artificial intelligence...
-  - [Source](https://webpronews.com/agentic-ai-market-to-reach-196-6-billion-by-2034-at-43-8-cagr)
+- **2025 Tech Trends: Agentic AI, Quantum Computing, and Green Innovations**
+  - As we approach 2025, the technology sector is poised for transformative shifts driven by artificial intelligence that goes beyond mere automation. Industry insiders are buzzing about “agentic AI,” systems capable of autonomous decision-making and strategic planning.
+  - [Source](https://webpronews.com/2025-tech-trends-agentic-ai-quantum-computing-and-green-innovations-2)
 
-- **ADVERSA AI Agentic AI Security and Red Teaming Platform Honored as Gold Stevie® Award Winner for AI Technology Breakthrough**
-  - Its platform delivers automated, ... autonomous agents, and MCP–based stacks—before they reach production. Adversa AI protects Fortune 500 AI innovators, financial institutions, and government agencies building the next generation of artificial intelligence...
-  - [Source](https://prnewswire.com/news-releases/adversa-ai-agentic-ai-security-and-red-teaming-platform-honored-as-gold-stevie-award-winner-for-ai-technology-breakthrough-302523460.html)
+- **Australian firms to boost agentic AI investment to USD $12.3 billion**
+  - SecurityBrief Australia - Technology news for CISOs & cybersecurity decision-makers ... Over 90% of Australian organisations are using or making plans to adopt agentic artificial intelligence (AI) within the next six months, according to new research published by IDC and sponsored by UiPath.
+  - [Source](https://securitybrief.com.au/story/australian-firms-to-boost-agentic-ai-investment-to-usd-12-3-billion)
 
-- **Agentic AI Raises Alarm Bells for Antitrust Regulators | PYMNTS.com**
-  - As agentic artificial intelligence gains traction in enterprise applications, a paper in the June CPI TechREG Chronicle warns that these systems could bring anti-competition scrutiny from regulators. The paper, “Agentic AI: Future Issues at the Intersection of Technology, Innovation and Competition Policy,” cited antitrust and other risks arising from the use of AI systems that autonomously ...
-  - [Source](https://pymnts.com/news/artificial-intelligence/2025/agentic-ai-raises-alarm-bells-for-antitrust-regulators)
+- **Top Agentic AI Security Resources — August 2025 | Adversa AI**
+  - Explore the Top Agentic AI Resources to stay informed about the most pressing risks and defenses in the field. As autonomous agents gain new capabilities—reasoning, memory, tool use—they also introduce unique security challenges. This collection covers the latest research, real-world exploits, ...
+  - [Source](https://adversa.ai/blog/top-agentic-ai-security-resources-august-2025)
 
 ### Market Trends
 
-- **Autonomous AI agents in industry: the potential and challenges of agentic AI | igor´sLAB**
-  - Agentic AI describes autonomous AI agents that are able to make decisions independently, plan courses of action and carry out complex tasks without constant…
-  - [Source](https://igorslab.de/en/autonomous-ki-agents-in-industry-potentials-and-challenges-of-agentic-ai)
+- **2025: Agentic AI Powers Business Growth with Quantum, IoT Integration**
+  - In the fast-evolving world of technology, 2025 is shaping up to be a pivotal year where artificial intelligence isn’t just a tool but the backbone of strategic decision-making across industries. Executives are grappling with agentic AI systems that autonomously handle complex tasks, integrating ...
+  - [Source](https://webpronews.com/2025-agentic-ai-powers-business-growth-with-quantum-iot-integration)
 
-- **Agentic AI startups raise $2.8 billion in 2025, says Prosus report | Start Ups - Business Standard**
-  - The report said agentic AI is gaining traction fast and that we are already past the tipping point of adoption.Peerzada Abrar Bengaluru · 3 min read Last Updated : Aug 05 2025 | 4:13 PM IST · A new generation of artificial intelligence (AI) startups focused on autonomous workplace agents ...
-  - [Source](https://business-standard.com/companies/start-ups/agentic-ai-startups-attract-2-8-billion-vc-funding-2025-prosus-125080501059_1.html)
+- **Most ASEAN organizations adopting AI agents in the next 12 months | The Manila Times**
+  - COMMISSIONED by agentic automation global leader UiPath, the new IDC InfoBrief titled “Agentic Automation: Unlocking Seamless Orchestration for the Modern Enterprise” reveals a growing adoption of AI agents and a broader trend of organizations shifting from AI experimentation to large-scale ...
+  - [Source](https://manilatimes.net/2025/08/17/business/sunday-business-it/most-asean-organizations-adopting-ai-agents-in-the-next-12-months/2169037)
 
-- **Agentic AI to Drive Autonomous Businesses by 2025, $391B Growth**
-  - Agentic AI to Drive Autonomous Businesses by 2025, $391B Growth ... In the rapidly evolving world of corporate technology, artificial intelligence is no longer just a tool for efficiency—it’s becoming the architect of entirely autonomous business operations.
-  - [Source](https://webpronews.com/agentic-ai-to-drive-autonomous-businesses-by-2025-391b-growth)
+- **Building trust and confidence for agentic Artificial Intelligence - The Economic Times**
+  - AI's transformative power in commerce hinges on building trust, which has seen a recent decline. Visa emphasizes responsible AI deployment through data privacy, consumer control, and industry collaboration. The focus is on creating secure, transparent, and ethical AI-driven experiences, ensuring ...
+  - [Source](https://economictimes.indiatimes.com/news/company/corporate-trends/building-trust-and-confidence-for-agentic-artificial-intelligence/articleshow/123351246.cms)
+
+- **Inside the Agentic AI Stack: How Autonomous Selling Is Redefining B2B Revenue Growth | The Manila Times**
+  - New Technology Framework Enables Truly Autonomous Sales Systems with Four-Layer Intelligence Engine. Industry's First Comprehensive Agentic AI Stack Delivers End-to-End Sales Automation · Delray Beach, FL, Aug. 15, 2025 (GLOBE NEWSWIRE) -- MarketsandMarkets™ unveiled its revolutionary Agentic ...
+  - [Source](https://manilatimes.net/2025/08/15/tmt-newswire/globenewswire/inside-the-agentic-ai-stack-how-autonomous-selling-is-redefining-b2b-revenue-growth/2168718)
+
+- **What is Agentic AI? Architecture, Use Cases, Benefits, and Future Trends**
+  - Agentic AI brings a new level of autonomy to artificial intelligence. These are systems not only capable of generating responses but also of taking proactive steps to achieve goals without continuous human input. They operate independently, make strategic decisions, adapt in real-time based ...
+  - [Source](https://neosalpha.com/what-is-agentic-ai/)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-08-18](./history/2025-08-18_news.md)
 - [News from 2025-08-11](./history/2025-08-11_news.md)
 - [News from 2025-08-04](./history/2025-08-04_news.md)
 - [News from 2025-07-28](./history/2025-07-28_news.md)
 - [News from 2025-07-21](./history/2025-07-21_news.md)
-- [News from 2025-07-14](./history/2025-07-14_news.md)
 
 
 ## Contributing
