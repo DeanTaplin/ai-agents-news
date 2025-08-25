@@ -2,76 +2,52 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (August 18, 2025)
+## Latest Updates (August 25, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **Brightwave Launches Research Agents: The First Analyst-Grade AI Chat That Builds, Thinks, and Works in Every Dataroom | News | bakersfield.com**
-  - Today Brightwave, the agentic AI research platform built to help professionals understand the world’s most complex problems, introduced Research Agents, enabling users to control fleets of autonomous research agents from a single, unified control plane.
-  - [Source](https://www.bakersfield.com/ap/news/brightwave-launches-research-agents-the-first-analyst-grade-ai-chat-that-builds-thinks-and-works/article_9c07cb9b-3636-58a7-a9da-ba4425bf792a.html)
+- **The rise, benefits and concerns around agentic AI**
+  - According to Google Gemini, agentic AI refers to a class of artificial intelligence systems designed to operate autonomously, make decisions and perform tasks without constant human intervention.
+  - [Source](https://genesys.com/blog/post/the-rise-benefits-and-concerns-around-agentic-ai)
 
-- **Global Agentic Artificial Intelligence (AI) Market Set for Rapid Growth with 31.6% CAGR, Driven by Autonomous Decision-Making Demand**
-  - Press release - emergen research - Global Agentic Artificial Intelligence (AI) Market Set for Rapid Growth with 31.6% CAGR, Driven by Autonomous Decision-Making Demand - published on openPR.com
-  - [Source](https://openpr.com/news/4140086/global-agentic-artificial-intelligence-ai-market-set)
+- **SOCRadar unveils AI-driven platform for automated threat detection**
+  - IT Brief Asia - Technology news for CIOs & IT decision-makers ... SOCRadar has launched a new platform, SOCRadar Agentic Threat Intelligence, designed to automate threat intelligence by deploying autonomous AI agents that detect, analyse, and respond to external cyber threats.
+  - [Source](https://itbrief.asia/story/socradar-unveils-ai-driven-platform-for-automated-threat-detection)
 
-- **Orbitype.com - World’s First Agentic Cloud OS for Enhanced AI-Agent and Human Collaboration | Business Upturn**
-  - Basel, Switzerland, Aug. 15, 2025 (GLOBE NEWSWIRE) — Orbitype today announced the official launch of the world’s first Agentic Cloud OS, a groundbreaking platform that seamlessly integrates agentic artificial intelligence (AI) into modern cloud infrastructures.
-  - [Source](https://www.businessupturn.com/brand-post/orbitype-com-worlds-first-agentic-cloud-os-for-enhanced-ai-agent-and-human-collaboration/)
-
-- **10 Agentic AI Key Concepts Explained - KDnuggets**
-  - Agentic AI is undoubtedly one of the most buzzworthy terms of the year. While not inherently a new paradigm within the umbrella of artificial intelligence, the term has gained renewed popularity largely due to its symbiotic relationship with large language models (LLMs) and other generative AI systems, which unlock many practical limitations that both standalone LLMs and earlier autonomous ...
-  - [Source](https://www.kdnuggets.com/10-agentic-ai-key-concepts-explained)
+- **Agentic AI Risks and Security Strategies for 2025**
+  - Agentic AI promises efficiency in finance and healthcare by autonomously handling tasks, but introduces risks like data breaches, prompt injections, and memory poisoning. Solutions include guardrails, zero-trust models, and monitoring. Organizations must adopt proactive governance to balance innovation with security in 2025. ... As artificial intelligence ...
+  - [Source](https://webpronews.com/agentic-ai-risks-and-security-strategies-for-2025)
 
 ### Notable Innovations
 
-- **Brightwave's new platform orchestrates autonomous agents to create extensive research reports on any topic - SiliconANGLE**
-  - Agentic research startup Brightwave ... agents to create comprehensive reports on almost any subject. Brightwave said its new offering takes inspiration from the system and user interface designs of artificial intelligence-powered coding tools such as Cursor, and makes it simple for anyone to create “long-running” autonomous agents that ...
-  - [Source](https://siliconangle.com/2025/08/12/brightwaves-new-platform-orchestrates-autonomous-agents-create-extensive-research-reports-topic/)
-
-- **2025 Tech Trends: Agentic AI, Quantum Computing, and Green Innovations**
-  - As we approach 2025, the technology sector is poised for transformative shifts driven by artificial intelligence that goes beyond mere automation. Industry insiders are buzzing about “agentic AI,” systems capable of autonomous decision-making and strategic planning.
-  - [Source](https://webpronews.com/2025-tech-trends-agentic-ai-quantum-computing-and-green-innovations-2)
-
-- **Australian firms to boost agentic AI investment to USD $12.3 billion**
-  - SecurityBrief Australia - Technology news for CISOs & cybersecurity decision-makers ... Over 90% of Australian organisations are using or making plans to adopt agentic artificial intelligence (AI) within the next six months, according to new research published by IDC and sponsored by UiPath.
-  - [Source](https://securitybrief.com.au/story/australian-firms-to-boost-agentic-ai-investment-to-usd-12-3-billion)
-
-- **Top Agentic AI Security Resources — August 2025 | Adversa AI**
-  - Explore the Top Agentic AI Resources to stay informed about the most pressing risks and defenses in the field. As autonomous agents gain new capabilities—reasoning, memory, tool use—they also introduce unique security challenges. This collection covers the latest research, real-world exploits, ...
-  - [Source](https://adversa.ai/blog/top-agentic-ai-security-resources-august-2025)
+- **From reactive to proactive: How Agentic AI is redefining the frontline workforce**
+  - While AI innovation has swept through ... fast thanks to the rise of a new class of artificial intelligence: agentic AI. Unlike traditional AI, which passively responds to user prompts or queries, agentic AI is autonomous, contextual, and action-oriented....
+  - [Source](https://itbrief.asia/story/from-reactive-to-proactive-how-agentic-ai-is-redefining-the-frontline-workforce)
 
 ### Market Trends
 
-- **2025: Agentic AI Powers Business Growth with Quantum, IoT Integration**
-  - In the fast-evolving world of technology, 2025 is shaping up to be a pivotal year where artificial intelligence isn’t just a tool but the backbone of strategic decision-making across industries. Executives are grappling with agentic AI systems that autonomously handle complex tasks, integrating ...
-  - [Source](https://webpronews.com/2025-agentic-ai-powers-business-growth-with-quantum-iot-integration)
+- **Agentic AI Transforms Marketing: Benefits, Risks, and 2025 Strategies**
+  - In the evolving world of digital marketing, a new breed of artificial intelligence is poised to redefine how campaigns are conceived, executed, and optimized. Agentic AI, characterized by its ability to act independently on behalf of users, is emerging as a transformative force in the marketing technology stack. Unlike traditional AI tools that require constant human oversight, these agents can handle complex, multi-step tasks autonomously...
+  - [Source](https://webpronews.com/agentic-ai-transforms-marketing-benefits-risks-and-2025-strategies)
 
-- **Most ASEAN organizations adopting AI agents in the next 12 months | The Manila Times**
-  - COMMISSIONED by agentic automation global leader UiPath, the new IDC InfoBrief titled “Agentic Automation: Unlocking Seamless Orchestration for the Modern Enterprise” reveals a growing adoption of AI agents and a broader trend of organizations shifting from AI experimentation to large-scale ...
-  - [Source](https://manilatimes.net/2025/08/17/business/sunday-business-it/most-asean-organizations-adopting-ai-agents-in-the-next-12-months/2169037)
+- **Top Agentic AI Service Providers in 2025**
+  - Agentic AI marks a shift from reactive assistants to autonomous co-workers, capable of planning and executing multi-step workflows independently. Competition among Agentic AI providers highlights a fast-growing market, with tailored solutions for startups, enterprises, and industry-specific needs. The rise of Agentic AI redefines productivity by blending automation, decision-making, and adaptability, but success depends on choosing the right provider. Artificial Intelligence ...
+  - [Source](https://analyticsinsight.net/artificial-intelligence/top-agentic-ai-service-providers-in-2025)
 
-- **Building trust and confidence for agentic Artificial Intelligence - The Economic Times**
-  - AI's transformative power in commerce hinges on building trust, which has seen a recent decline. Visa emphasizes responsible AI deployment through data privacy, consumer control, and industry collaboration. The focus is on creating secure, transparent, and ethical AI-driven experiences, ensuring ...
-  - [Source](https://economictimes.indiatimes.com/news/company/corporate-trends/building-trust-and-confidence-for-agentic-artificial-intelligence/articleshow/123351246.cms)
-
-- **Inside the Agentic AI Stack: How Autonomous Selling Is Redefining B2B Revenue Growth | The Manila Times**
-  - New Technology Framework Enables Truly Autonomous Sales Systems with Four-Layer Intelligence Engine. Industry's First Comprehensive Agentic AI Stack Delivers End-to-End Sales Automation · Delray Beach, FL, Aug. 15, 2025 (GLOBE NEWSWIRE) -- MarketsandMarkets™ unveiled its revolutionary Agentic ...
-  - [Source](https://manilatimes.net/2025/08/15/tmt-newswire/globenewswire/inside-the-agentic-ai-stack-how-autonomous-selling-is-redefining-b2b-revenue-growth/2168718)
-
-- **What is Agentic AI? Architecture, Use Cases, Benefits, and Future Trends**
-  - Agentic AI brings a new level of autonomy to artificial intelligence. These are systems not only capable of generating responses but also of taking proactive steps to achieve goals without continuous human input. They operate independently, make strategic decisions, adapt in real-time based ...
-  - [Source](https://neosalpha.com/what-is-agentic-ai/)
+- **Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments**
+  - RICHMOND, Va., August 19, 2025--Apex Systems, a leading global technology services firm and ASGN (NYSE: ASGN) brand, has partnered with Composabl, a platform for engineering multi-agent artificial intelligence systems, to drive efficiency and growth for clients using artificial intelligence agents.
+  - [Source](https://finance.yahoo.com/news/apex-systems-partners-composabl-build-130000066.html)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-08-25](./history/2025-08-25_news.md)
 - [News from 2025-08-18](./history/2025-08-18_news.md)
 - [News from 2025-08-11](./history/2025-08-11_news.md)
 - [News from 2025-08-04](./history/2025-08-04_news.md)
 - [News from 2025-07-28](./history/2025-07-28_news.md)
-- [News from 2025-07-21](./history/2025-07-21_news.md)
 
 
 ## Contributing
