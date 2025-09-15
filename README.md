@@ -2,60 +2,60 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (September 08, 2025)
+## Latest Updates (September 15, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **WisdomAI Launches Proactive Agents: The Always-On AI Data Analyst That Augments Your Team**
-  - /PRNewswire/ -- WisdomAI, the AI-first Agentic Data Insights platform, today announced the launch of Proactive Agents, a new add-on to its data insights...
-  - [Source](https://prnewswire.com/news-releases/wisdomai-launches-proactive-agents-the-always-on-ai-data-analyst-that-augments-your-team-302545038.html)
+- **The rise of Agentic AI and its disruptive impact on marketing agencies - The Economic Times**
+  - Agentic AI is reshaping marketing, demanding a shift from AI-powered to AI-native operations. Agencies must embrace human-agent collaboration, evolve talent models with GEO specialists, and prepare for AI-mediated consumer decisions.
+  - [Source](https://m.economictimes.com/small-biz/security-tech/technology/the-rise-of-agentic-ai-and-its-disruptive-impact-on-marketing-agencies/articleshow/123863780.cms)
 
-- **How agentic AI is shaping the next era of global finance**
-  - Artificial Intelligence has long supported financial markets as a mean of forecasting volatility, modeling risk, and supporting human decision-making. With the emergence of Agentic AI, however, we are entering a new paradigm. These systems no longer simply process data or issue recommendations. They act. They adapt in real time, pursue objectives autonomously...
-  - [Source](https://www.fxstreet.com/education/how-agentic-ai-is-shaping-the-next-era-of-global-finance-202509051303)
+- **Botsify Launches AI-Powered Agentic Platform for building AI Agents**
+  - The platform supports a wide range of integrations and deployment channels, with a focus on low-code and agentic AI solutions. ... Meta's $600B U.S. Investment: Bearish or Bullish for Shares? ... Tesla's U.S. Market Is At An 8-Year Low... How Bad Could It Get? ... Stock Quote API & Stock News API ...
+  - [Source](https://markets.financialcontent.com/wral/article/zexprwire-2025-9-13-botsify-launches-ai-powered-agentic-platform-for-building-ai-agents)
 
-- **Daily AI Agent News - September 1, 2025**
-  - The Mobile-Agent-v3 framework and GUI-Owl multimodal agent model represent a significant leap forward in autonomous interface navigation, offering developers new possibilities for creating agents that can seamlessly operate across different platforms and applications.
-  - [Source](https://aiagentstore.ai/ai-agent-news/daily/2025-09-01)
+- **Governments Turn to Agentic AI, but Data Gaps Hold Back Progress | Entrepreneur**
+  - Agentic artificial intelligence (AI) is set to gain wider use across government organisations in the coming years, according to new research from the Capgemini Research Institute. Agentic AI, which can make autonomous decisions, is seen as a natural extension of this momentum as governments ...
+  - [Source](https://www.entrepreneur.com/en-in/news-and-trends/governments-turn-to-agentic-ai-but-data-gaps-hold-back/496896)
 
-- **iTWire - Why agentic AI will redefine the future of finance**
-  - GUEST OPINION: Artificial intelligence (AI) has come a long way, from basic automation to today’s large language models (LLMs), capable of generating nuanced, context-aware responses. But what we’re seeing now is something entirely new: agentic AI. Agentic AI represents a significant evolution. It brings reasoning, learning, and autonomous ...
-  - [Source](https://itwire.com/guest-articles/guest-opinion/why-agentic-ai-will-redefine-the-future-of-finance.html)
-
-- **Top Agentic AI Security Resources — September 2025 | Adversa AI**
-  - Plus, get a first look at news, noteworthy research, and the worst attacks on AI—delivered right to your inbox. ... As AI systems evolve from passive responders to autonomous agents equipped with planning, memory, and tool use, the Model Context Protocol (MCP) becomes a central architectural ...
-  - [Source](https://adversa.ai/blog/top-agentic-ai-security-resources-september-2025)
+- **2025 Agentic AI: Revolutionizing Healthcare and Finance with Trust Solutions**
+  - In 2025, agentic AI advances autonomous systems that pursue goals in industries like healthcare and finance, promising efficiency but raising trust issues. Solutions include transparent data infrastructures, zero-trust models, and ethical governance to ensure reliability. Balancing innovation with accountability will drive broader adoption and market growth. 2025 Agentic AI: Revolutionizing Healthcare and Finance with Trust Solutions ... As artificial intelligence ...
+  - [Source](https://webpronews.com/2025-agentic-ai-revolutionizing-healthcare-and-finance-with-trust-solutions)
 
 ### Notable Innovations
 
-- **Understanding Agentic AI: The New Autonomous Frontier**
-  - Leading real hands on tech review site in Ireland with technology, business news and more. Jim O Brien Tech. ... Agentic AI represents the next frontier in artificial intelligence innovation where autonomous agents work together as a team.
-  - [Source](https://techbuzzireland.com/2025/09/06/understanding-agentic-ai-the-new-autonomous-frontier/)
+- **10 Ways Agentic AI Is Transforming Cybersecurity In 2025**
+  - Discover how Agentic AI transforms cybersecurity in 2025 with autonomous threat detection, AI-driven SOCs, and real-time defense.
+  - [Source](https://cyble.com/knowledge-hub/agentic-ai-transforming-cybersecurity-2025)
 
-- **Agentic AI Market Size to Reach USD 199.05 Billion by 2034 Driven by Autonomous Decision-Making and North Americas Leadership**
-  - According to Precedence Research, the global agentic AI market size will grow from USD 7.55 billion in 2025 to nearly USD 199.05 billion by 2034, with an...
-  - [Source](https://globenewswire.com/news-release/2025/09/04/3144393/0/en/Agentic-AI-Market-Size-to-Reach-USD-199-05-Billion-by-2034-Driven-by-Autonomous-Decision-Making-and-North-Americas-Leadership.html)
+- **Agentic AI in Financial Services: The future of autonomous finance solutions | Amazon Web Services**
+  - The financial services industry is leveraging AI to transform how financial institutions serve their customers. Learn more about agentic AI in financial services and how AWS Marketplace is your trusted source to discover, buy, and deploy AI agent solutions from Partners.
+  - [Source](https://aws.amazon.com/blogs/awsmarketplace/agentic-ai-solutions-in-financial-services)
+
+- **2025 Tech Trends: AI Agents, Edge Computing, and Chip Resilience**
+  - In 2025, tech trends include cloud giants monetizing AI infrastructure, agentic AI transforming enterprises and DeFi, edge computing enabling real-time processing, multimodal AI boosting accessibility, and domestic chip production easing supply issues. These innovations promise efficiency and ...
+  - [Source](https://webpronews.com/2025-tech-trends-ai-agents-edge-computing-and-chip-resilience)
 
 ### Market Trends
 
-- **How agentic AI is poised to transform financial services | CFO Dive**
-  - Financial institutions are on the cusp of leveraging artificial intelligence agents to become more streamlined, efficient and automated. Whether it’s banks and credit unions, capital markets, insurance, or asset management, the different financial sectors use agentic AI in similar ways. Agentic AI represents a sophisticated form of autonomous ...
-  - [Source](https://www.cfodive.com/news/how-agentic-ai-is-poised-to-transform-financial-services/758934/)
+- **Agentic AI is Coming for Your Loyalty Programs**
+  - Agentic AI is poised to revolutionize ... through autonomous AI agents. Loyalty programs have long been a cornerstone of customer retention, yet many still feel stuck in the past. Consumers today demand experiences that are not just rewarding, but also deeply personal, immediate, and genuinely valuable. Generic points systems and delayed gratification simply do not cut it anymore. The industry is now looking to a new frontier: Agentic AI. This advanced form of artificial intelligence promises to ...
+  - [Source](https://startuphub.ai/ai-news/ai-research/2025/agentic-ai-is-coming-for-your-loyalty-programs)
 
-- **Agentic AI is the technology’s new frontier, and CAIOs are toiling to get agents implemented correctly**
-  - “There’s a ton of confusion in the marketplace with our clients on, ‘What is an AI agent? What am I deploying?’”
-  - [Source](https://finance.yahoo.com/news/agentic-ai-technology-frontier-caios-140000875.html)
+- **Agentic AI: Ushering in the New Era of Autonomous Intelligence**
+  - Figure 6: Industry Distribution of Companies Implementing AI Agents Source: Agentic Artificial Intelligence; Harnessing AI Agents to Reinvent Business, Work and Life · Agentic AI is evolving quickly and its autonomy raises concerns around compliance and governance.
+  - [Source](https://www.persistent.com/blogs/agentic-ai-ushering-in-the-new-era-of-autonomous-intelligence/)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-09-15](./history/2025-09-15_news.md)
 - [News from 2025-09-08](./history/2025-09-08_news.md)
 - [News from 2025-09-01](./history/2025-09-01_news.md)
 - [News from 2025-08-25](./history/2025-08-25_news.md)
 - [News from 2025-08-18](./history/2025-08-18_news.md)
-- [News from 2025-08-11](./history/2025-08-11_news.md)
 
 
 ## Contributing
