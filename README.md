@@ -2,44 +2,52 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (September 29, 2025)
+## Latest Updates (October 06, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **Autonomy launches platform that removes major barriers for production-ready agentic AI products**
-  - /PRNewswire/ -- Autonomy, the first complete platform-as-a-service (PaaS) built specifically for agentic AI products, today announced the general availability...
-  - [Source](https://prnewswire.com/news-releases/autonomy-launches-platform-that-removes-major-barriers-for-production-ready-agentic-ai-products-302567577.html)
+- **The Future of Cybersecurity: Agentic AI and Self-Driven Threat Detection | by Aziro | Oct, 2025 | Medium**
+  - To keep pace with threats that operate at machine speed, organizations are turning to Agentic AI, an emerging class of artificial intelligence that combines autonomous decision making with large language models (LLMs) to perceive, reason, and act on cybersecurity tasks with minimal human ...
+  - [Source](https://medium.com/@azirotechnologies/the-future-of-cybersecurity-agentic-ai-and-self-driven-threat-detection-4e797059c470)
 
-- **Tech Mahindra unveils Orion Marketplace for enterprise agentic AI**
-  - IT Brief Australia - Technology news for CIOs & IT decision-makers ... Tech Mahindra has launched TechM Orion Marketplace, a platform offering access to agentic AI solutions for enterprises. The TechM Orion Marketplace aims to unify access to Tech Mahindra and its partners' pre-built AI agents, creating a centralised environment for organisations to adopt and scale intelligent automation. The platform is designed to enable AI agents to function autonomously ...
-  - [Source](https://itbrief.com.au/story/tech-mahindra-unveils-orion-marketplace-for-enterprise-agentic-ai)
+- **Why Agentic AI demands new skills, governance and leadership | FedScoop**
+  - Artificial intelligence is advancing rapidly, and government agencies are beginning to explore a powerful new frontier: agentic AI. Unlike earlier predictive AI models, agentic AI goes beyond recommendations to autonomously execute tasks, fundamentally reshaping how public sector teams approach ...
+  - [Source](https://fedscoop.com/video/why-agentic-ai-demands-new-skills-governance-and-leadership/)
+
+- **From Generative to Agentic AI: Legal and Privacy Risks for Organizations - Lexology**
+  - A new phase in artificial intelligence (AI) is emerging: agentic AI. Unlike generative AI tools like ChatGPT, which respond to prompts, agentic AI goes beyond by taking autonomous actions such as sending emails, booking meetings, and updating records across systems.
+  - [Source](https://www.lexology.com/library/detail.aspx?g=de7343cf-8cdc-4f6d-8430-59206853c4b6)
 
 ### Notable Innovations
 
-- **Agentic AI Revolutionizes Cybersecurity in 2025: Innovations and Risks**
-  - Agentic AI is revolutionizing cybersecurity in 2025 by autonomously detecting threats, isolating networks, and automating responses to sophisticated attacks. While innovations from NVIDIA and Proofpoint enhance defenses, risks like prompt injection and governance gaps persist.
-  - [Source](https://webpronews.com/agentic-ai-revolutionizes-cybersecurity-in-2025-innovations-and-risks)
+- **UiPath adds agentic AI features to automation platform, expands partnerships | Constellation Research Inc.**
+  - UiPath expanded its UiPath Platform, which is aimed at agentic AI automation and orchestration, and lined up a bevy of partners including OpenAI, Google, Microsoft, Nvidia and Snowflake as it solidified its integration strategy. The moves by UiPath highlight how AI agents, process automation ...
+  - [Source](https://www.constellationr.com/blog-news/insights/uipath-adds-agentic-ai-features-automation-platform-expands-partnerships)
 
-- **Moody’s to Walmart: Corporate America Bets on Agentic | PYMNTS.com**
-  - The past week was arguably the most active on the agentic artificial intelligence (AI) front of the year. When you have companies as big as Google, Amazon and Zoom vying for the headlines, it can’t help but be a big week for innovation and adoption. But perhaps the most impactful development came from a newly published case study from Moody’s. Because while agentic AI is long on promise, it’s tight on actual successful use cases. So the Moody’s use case was welcome news ...
-  - [Source](https://www.pymnts.com/artificial-intelligence-2/2025/moodys-to-walmart-corporate-america-bets-on-agentic/)
+- **A scientist’s guide to AI agents — how could they help your research?**
+  - The ultimate agent — one that can get anything done autonomously in a reliable way — is “almost an artificial general intelligence problem”, says Kumar.
+  - [Source](https://nature.com/articles/d41586-025-03246-7)
 
 ### Market Trends
 
-- **Agentic AI Market to Explode to $41.8B by 2030, Transforming Enterprises**
-  - In the rapidly evolving world of artificial intelligence, agentic AI is emerging as a transformative force for enterprises, particularly within the software-as-a-service (SaaS) sector. These advanced systems, capable of autonomous decision-making and task execution, are shifting from experimental ...
-  - [Source](https://webpronews.com/agentic-ai-market-to-explode-to-41-8b-by-2030-transforming-enterprises)
+- **Agentic AI is coming faster than you think - are your systems ready?**
+  - Agentic AI, which acts autonomously across applications, demands disciplined systems like NetSuite ERP to ensure accuracy and control as adoption accelerates.
+  - [Source](https://itbrief.com.au/story/agentic-ai-is-coming-faster-than-you-think-are-your-systems-ready)
+
+- **2025 Tech Trends: AI Surge, Robotics Growth, and Ethical Challenges**
+  - For instance, the combination of ... from SA News Channel on X. Such developments are expected to drive efficiency in sectors ranging from manufacturing to finance, where real-time data processing becomes a competitive differentiator. ... Delving deeper, agentic AI—systems that operate autonomously like intelligent agents—is ...
+  - [Source](https://webpronews.com/2025-tech-trends-ai-surge-robotics-growth-and-ethical-challenges)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-10-06](./history/2025-10-06_news.md)
 - [News from 2025-09-29](./history/2025-09-29_news.md)
 - [News from 2025-09-22](./history/2025-09-22_news.md)
 - [News from 2025-09-15](./history/2025-09-15_news.md)
 - [News from 2025-09-08](./history/2025-09-08_news.md)
-- [News from 2025-09-01](./history/2025-09-01_news.md)
 
 
 ## Contributing
