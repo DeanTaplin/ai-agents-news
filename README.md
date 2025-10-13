@@ -2,52 +2,60 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (October 06, 2025)
+## Latest Updates (October 13, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **The Future of Cybersecurity: Agentic AI and Self-Driven Threat Detection | by Aziro | Oct, 2025 | Medium**
-  - To keep pace with threats that operate at machine speed, organizations are turning to Agentic AI, an emerging class of artificial intelligence that combines autonomous decision making with large language models (LLMs) to perceive, reason, and act on cybersecurity tasks with minimal human ...
-  - [Source](https://medium.com/@azirotechnologies/the-future-of-cybersecurity-agentic-ai-and-self-driven-threat-detection-4e797059c470)
+- **Davies launches new agentic AI features to its ClaimPilot product suite - Reinsurance News**
+  - Davies, a specialist professional services and technology firm serving the insurance market, has unveiled new agentic artificial intelligence (AI)
+  - [Source](https://www.reinsurancene.ws/davies-launches-new-agentic-ai-features-to-its-claimpilot-product-suite/)
 
-- **Why Agentic AI demands new skills, governance and leadership | FedScoop**
-  - Artificial intelligence is advancing rapidly, and government agencies are beginning to explore a powerful new frontier: agentic AI. Unlike earlier predictive AI models, agentic AI goes beyond recommendations to autonomously execute tasks, fundamentally reshaping how public sector teams approach ...
-  - [Source](https://fedscoop.com/video/why-agentic-ai-demands-new-skills-governance-and-leadership/)
+- **SoftwareReviews | Agentic AI | Salesforce Introduces Next Gen Marketing Cloud for Improved Engagement | Make Better IT Decisions**
+  - In 2025, Salesforce launched its Next Gen Marketing Cloud, debuting a new “agentic marketing” model in which autonomous AI agents independently build, personalize, and optimize campaigns. The update marks Salesforce’s push to fuse sales, service, and marketing into a single data-driven ...
+  - [Source](https://infotech.com/software-reviews/research/salesforce-introduces-next-gen-marketing-cloud-for-improved-engagement)
 
-- **From Generative to Agentic AI: Legal and Privacy Risks for Organizations - Lexology**
-  - A new phase in artificial intelligence (AI) is emerging: agentic AI. Unlike generative AI tools like ChatGPT, which respond to prompts, agentic AI goes beyond by taking autonomous actions such as sending emails, booking meetings, and updating records across systems.
-  - [Source](https://www.lexology.com/library/detail.aspx?g=de7343cf-8cdc-4f6d-8430-59206853c4b6)
+- **Zilliant Launches Agentic AI with Industry-First MCP Server to End Spreadsheet Pricing**
+  - AUSTIN, Texas, October 09, 2025--Zilliant, the leader in pricing lifecycle management, today announced the introduction of Agentic AI capabilities and the pricing industry’s first Model Context Protocol (MCP) Server to make intelligent pricing accessible and affordable for organizations of ...
+  - [Source](https://finance.yahoo.com/news/zilliant-launches-agentic-ai-industry-070000709.html)
+
+- **TM8 launches Team M8, Malaysia’s first agentic AI platform | FMT**
+  - Team M8’s ability to operate autonomously and integrate seamlessly into business operations sets it apart from other AI products.
+  - [Source](https://www.freemalaysiatoday.com/category/nation/2025/10/07/tm8-launches-team-m8-malaysias-first-agentic-ai-platform)
+
+- **OpenAI’s AgentKit explained: Anyone can make AI Agents with ease**
+  - OpenAI’s newest launch, AgentKit, could mark the next major shift in how we build and interact with artificial intelligence. Just as ChatGPT made large language models accessible to everyday users, AgentKit aims to make AI agents – autonomous systems that can reason, plan, and take actions ...
+  - [Source](https://www.digit.in/features/general/openais-agentkit-explained-anyone-can-make-ai-agents-with-ease.html)
 
 ### Notable Innovations
 
-- **UiPath adds agentic AI features to automation platform, expands partnerships | Constellation Research Inc.**
-  - UiPath expanded its UiPath Platform, which is aimed at agentic AI automation and orchestration, and lined up a bevy of partners including OpenAI, Google, Microsoft, Nvidia and Snowflake as it solidified its integration strategy. The moves by UiPath highlight how AI agents, process automation ...
-  - [Source](https://www.constellationr.com/blog-news/insights/uipath-adds-agentic-ai-features-automation-platform-expands-partnerships)
+- **Research insight: How agentic AI is driving the next phase of automotive innovation**
+  - As the automotive industry races toward smarter, more autonomous vehicles, a new generation of artificial intelligence (AI) is taking center stage: Agentic AI. With its hallmark features—multi-agent... The article requires paid subscription. Subscribe Now ... Full access to articles dating back to 2000. Real-time access to the news ...
+  - [Source](https://www.digitimes.com/news/a20251009PD231/research-insights-ai-agent-automotive-vehicle.html)
 
-- **A scientist’s guide to AI agents — how could they help your research?**
-  - The ultimate agent — one that can get anything done autonomously in a reliable way — is “almost an artificial general intelligence problem”, says Kumar.
-  - [Source](https://nature.com/articles/d41586-025-03246-7)
+- **AWS’s new AI agentic platform aims to automate business workflows**
+  - With deep integrations into platforms like Salesforce, Jira, and Slack, the system lets agents research, create reports, and execute tasks autonomously.
+  - [Source](https://www.computerworld.com/article/4070569/awss-new-ai-agentic-platform-aims-to-automate-business-workflows.html)
 
 ### Market Trends
 
-- **Agentic AI is coming faster than you think - are your systems ready?**
-  - Agentic AI, which acts autonomously across applications, demands disciplined systems like NetSuite ERP to ensure accuracy and control as adoption accelerates.
-  - [Source](https://itbrief.com.au/story/agentic-ai-is-coming-faster-than-you-think-are-your-systems-ready)
+- **Is Kyndryl’s Expanded Agentic AI Framework Shifting the Investment Case for KD?**
+  - In late September 2025, Kyndryl Holdings announced major enhancements to its Agentic AI Framework, aiming to accelerate AI adoption at scale across industries such as banking, insurance, manufacturing, and government by deploying AI agents that speed workflow automation, support compliance, ...
+  - [Source](https://finance.yahoo.com/news/kyndryl-expanded-agentic-ai-framework-130938384.html)
 
-- **2025 Tech Trends: AI Surge, Robotics Growth, and Ethical Challenges**
-  - For instance, the combination of ... from SA News Channel on X. Such developments are expected to drive efficiency in sectors ranging from manufacturing to finance, where real-time data processing becomes a competitive differentiator. ... Delving deeper, agentic AI—systems that operate autonomously like intelligent agents—is ...
-  - [Source](https://webpronews.com/2025-tech-trends-ai-surge-robotics-growth-and-ethical-challenges)
+- **Agentic AI Market: Revolutionizing Intelligent Automation**
+  - The rapid evolution of artificial intelligence (AI) is reshaping industries worldwide, and the Agentic AI Market is at the forefront of this transformation. Agentic AI refers to intelligent systems capable of autonomous decision-making, self-learning, and performing complex tasks with minimal ...
+  - [Source](https://newstrail.com/agentic-ai-market)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-10-13](./history/2025-10-13_news.md)
 - [News from 2025-10-06](./history/2025-10-06_news.md)
 - [News from 2025-09-29](./history/2025-09-29_news.md)
 - [News from 2025-09-22](./history/2025-09-22_news.md)
 - [News from 2025-09-15](./history/2025-09-15_news.md)
-- [News from 2025-09-08](./history/2025-09-08_news.md)
 
 
 ## Contributing
