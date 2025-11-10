@@ -2,48 +2,56 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (November 03, 2025)
+## Latest Updates (November 10, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **Swepety AI Launches Custom Agentic AI Platform to Accelerate Enterprise Automation**
-  - LONDON, UK - November 2, 2025 - Swepety AI, a next-generation agentic AI deployment firm, today announced its official launch with a mission to democratize enterprise-grade artificial intelligence for organizations worldwide.
-  - [Source](https://www.digitaljournal.com/pr/news/insights-news-wire/swepety-ai-launches-custom-agentic-1474549838.html)
-
-- **Manus AI & Heicoders launch agentic AI skills course in Singapore**
-  - Manus AI and Heicoders Academy launch GA100, Singapore’s first hands-on agentic AI skills course for mid-career professionals, promoting practical AI adoption.
-  - [Source](https://itbrief.asia/story/manus-ai-heicoders-launch-agentic-ai-skills-course-in-singapore)
-
-- **Netcore Cloud Launches Agentic Marketing Stack in Collaboration with Google Cloud to Disrupt the Future of Marketing**
-  - In a move set to redefine the global Martech landscape, Netcore Cloud has announced the launch of the Agentic Marketing Stack, a first-of-its-kind platform that brings autonomous AI agents into the heart of marketing. Built with Google Cloud, this powerful collaboration marks a major milestone ...
-  - [Source](https://finance.yahoo.com/news/netcore-cloud-launches-agentic-marketing-103000820.html)
+- **Pay3 Recruits AI Agents to Conduct Stablecoin Transactions | PYMNTS.com**
+  - 4) unveiled its Agentic Payments ... to allow artificial intelligence (AI) agents to autonomously “execute and optimize” financial transactions using stablecoins. “As agentic AI adoption accelerates, enterprises are seeking infrastructure that supports autonomous decision-making and digital asset transactions,” Pay3 said in a news release, citing ...
+  - [Source](https://www.pymnts.com/artificial-intelligence-2/2025/pay3-recruits-ai-agents-to-conduct-stablecoin-transactions)
 
 ### Notable Innovations
 
-- **What Makes OpenAI’s Agentic AI Stand Out in 2025? | ClickUp**
-  - Maximize productivity using OpenAI agentic AI’s built-in tools and connectors. From research to reports, it handles the busywork so you don’t have to.
-  - [Source](https://clickup.com/blog/hub/ai/solutions/openai)
+- **S&P Global Report Charts Enterprise Race to Build AI Agent-Ready Infrastructure | Morningstar**
+  - 5, 2025 /PRNewswire/ -- S&P Global ... agentic artificial intelligence (AI) is reshaping enterprise technology strategies and infrastructure demands. The research reveals that while agentic AI promises significant operational improvements, organizations face a critical infrastructure overhaul to support autonomous systems that ...
+  - [Source](https://morningstar.com/news/pr-newswire/20251105ny15473/sp-global-report-charts-enterprise-race-to-build-ai-agent-ready-infrastructure)
+
+- **How Agentic AI Is Challenging The Boundaries Of Life And Innovation**
+  - Agentic artificial intelligence is redefining the scientific landscape, evolving from · an advanced tool to something that resembles a living system, capable of reasoning, planning and learning across disciplines. These dynamic AIs not only accelerate research and innovation but also increasingly act with autonomy...
+  - [Source](https://www.forbes.com/sites/williamhaseltine/2025/11/06/how-agentic-ai-is-challenging-the-boundaries-of-life-and-innovation/)
 
 ### Market Trends
 
-- **Agentic AI: How Different Sectors Are Using AI to Transform Operations - Payment Week**
-  - Artificial intelligence (AI) is no longer just a buzzword—it’s increasingly becoming a core component of how companies plan, operate, and serve customers. As AI adoption accelerates, businesses are realizing that the key to its success lies not only in the technology itself but in how it aligns with measurable business outcomes. This is especially true for agentic AI, which moves beyond simple analysis to autonomous ...
-  - [Source](https://paymentweek.com/agentic-ai/)
+- **How agentic AI is changing the future of marketing | MarTech**
+  - Artificial intelligence is reshaping marketing at every level — but the most transformative shift isn’t just smarter automation or better analytics. It’s the rise of agentic AI — autonomous, goal-driven AI systems that act, learn and collaborate across the marketing ecosystem.
+  - [Source](https://martech.org/how-agentic-ai-is-changing-the-future-of-marketing)
 
-- **Agentic AI Tops Gartner’s 2025 Trends: Autonomous Revolution**
-  - Agentic AI Tops Gartner’s 2025 Trends: Autonomous Revolution ... In the rapidly evolving landscape of artificial intelligence, a new paradigm is emerging that promises to reshape industries from the ground up. Agentic AI, characterized by autonomous systems capable of self-decision-making ...
-  - [Source](https://webpronews.com/agentic-ai-tops-gartners-2025-trends-autonomous-revolution)
+- **Agentic AI: Revolutionizing Cyber Defenses in 2025**
+  - Agentic AI is transforming cybersecurity from reactive to autonomous defenses, combating sophisticated threats with minimal human intervention. Drawing from sources like TechRadar and CNBC, this deep dive explores applications, benefits, risks, and 2025 trends.
+  - [Source](https://webpronews.com/agentic-ai-revolutionizing-cyber-defenses-in-2025)
+
+- **Top AI Agentic Startups in 2025 | Guru Startups Market Intelligence 2025**
+  - As of November 2025, the landscape of artificial intelligence has shifted decisively toward agentic AI startups—ventures that design autonomous AI agents capable of planning, acting, and executing complex tasks with minimal or no direct human intervention.
+  - [Source](https://gurustartups.com/reports/top-ai-agentic-startups-in-2025)
+
+- **From Tools to Teammates: Agentic AI Is Rewriting Marketing**
+  - Agentic AI is recasting marketing-from autonomous agents building campaigns to customer-facing negotiators. Learn stacks, roles, and guardrails at MarTech's Nov 4 keynote.
+  - [Source](https://completeaitraining.com/news/from-tools-to-teammates-agentic-ai-is-rewriting-marketing)
+
+- **SLB Unveils Groundbreaking New Agentic AI Technology for the Energy Industry | SLB**
+  - This allows agents within Tela to proactively interact with their environment, adapt to new data, and continuously improve outcomes. Whether interpreting well logs, predicting drilling issues, or optimizing equipment performance, Tela agents can work in collaboration with humans or autonomously to ...
+  - [Source](https://www.slb.com/news-and-insights/newsroom/press-release/2025/pr-2025-1103-slb-tela-ai)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-11-10](./history/2025-11-10_news.md)
 - [News from 2025-11-03](./history/2025-11-03_news.md)
 - [News from 2025-10-27](./history/2025-10-27_news.md)
 - [News from 2025-10-20](./history/2025-10-20_news.md)
 - [News from 2025-10-13](./history/2025-10-13_news.md)
-- [News from 2025-10-06](./history/2025-10-06_news.md)
 
 
 ## Contributing
