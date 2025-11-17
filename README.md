@@ -2,56 +2,60 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (November 10, 2025)
+## Latest Updates (November 17, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **Pay3 Recruits AI Agents to Conduct Stablecoin Transactions | PYMNTS.com**
-  - 4) unveiled its Agentic Payments ... to allow artificial intelligence (AI) agents to autonomously “execute and optimize” financial transactions using stablecoins. “As agentic AI adoption accelerates, enterprises are seeking infrastructure that supports autonomous decision-making and digital asset transactions,” Pay3 said in a news release, citing ...
-  - [Source](https://www.pymnts.com/artificial-intelligence-2/2025/pay3-recruits-ai-agents-to-conduct-stablecoin-transactions)
+- **Agentic AI: Building and Scaling AI Agents on the Now Platform (Development & Use Cases)**
+  - Introduction With the Yokohama Release, ServiceNow took a major leap forward by introducing Agentic AI — a framework that enables organisations to build, deploy, and orchestrate intelligent, autonomous AI Agents on the Now Platform. These agents go beyond traditional chatbots or copilots.
+  - [Source](https://www.servicenow.com/community/developer-articles/agentic-ai-building-and-scaling-ai-agents-on-the-now-platform/ta-p/3423631)
+
+- **Sparkle Launches STLS-AI For Secure AI Agent Communication**
+  - Sparkle, a leading international service provider, announced the launch of STLS-AI (Symmetric Transport Layer Security for Agentic Artificial Intelligence) on November 12, 2025, a patent-pending innovation designed to establish secure, verifiable communication between autonomous AI agents.
+  - [Source](https://quantumzeitgeist.com/sparkle-stls-ai-ai-communication/)
+
+- **Google Cloud releases comprehensive agentic AI framework guideline**
+  - According to the document authored ... to autonomous systems capable of independent problem-solving and task execution. The guideline defines an AI agent as a complete software system that combines reasoning capabilities with practical action-taking abilities through tools and orchestration layers. According to the document, artificial intelligence is shifting ...
+  - [Source](https://ppc.land/google-cloud-releases-comprehensive-agentic-ai-framework-guideline/)
+
+- **GoDaddy Brings Agentic AI to Small Businesses with Launch of Airo.ai**
+  - /PRNewswire/ -- GoDaddy today launched Airo.ai, a Beta agentic artificial intelligence (AI) website and experience that turns a simple conversation into...
+  - [Source](https://www.prnewswire.com/news-releases/godaddy-brings-agentic-ai-to-small-businesses-with-launch-of-airoai-302614911.html)
 
 ### Notable Innovations
 
-- **S&P Global Report Charts Enterprise Race to Build AI Agent-Ready Infrastructure | Morningstar**
-  - 5, 2025 /PRNewswire/ -- S&P Global ... agentic artificial intelligence (AI) is reshaping enterprise technology strategies and infrastructure demands. The research reveals that while agentic AI promises significant operational improvements, organizations face a critical infrastructure overhaul to support autonomous systems that ...
-  - [Source](https://morningstar.com/news/pr-newswire/20251105ny15473/sp-global-report-charts-enterprise-race-to-build-ai-agent-ready-infrastructure)
+- **Fortifying AI Agents: Zero Trust’s Shield Against 2025 Cyber Risks**
+  - As agentic AI systems gain autonomy in enterprises, security risks like data breaches and unauthorized access escalate. Zero Trust frameworks provide a robust defense by verifying every action, drawing from 2025 industry reports. This approach balances innovation with protection in a high-stakes ...
+  - [Source](https://www.webpronews.com/fortifying-ai-agents-zero-trusts-shield-against-2025-cyber-risks/)
 
-- **How Agentic AI Is Challenging The Boundaries Of Life And Innovation**
-  - Agentic artificial intelligence is redefining the scientific landscape, evolving from · an advanced tool to something that resembles a living system, capable of reasoning, planning and learning across disciplines. These dynamic AIs not only accelerate research and innovation but also increasingly act with autonomy...
-  - [Source](https://www.forbes.com/sites/williamhaseltine/2025/11/06/how-agentic-ai-is-challenging-the-boundaries-of-life-and-innovation/)
+- **Quiq Advances Contact Center Quality Management with New Agentic AI Analyst**
+  - Quiq, the leader in enterprise-grade agentic AI for CX innovation, today announced agentic AI powered Quality Management. Aptly named Conversation Analyst, this powerful agentic AI solution analyzes every AI and human agent conversation across voice, web chat, SMS, and other asynchronous messaging ...
+  - [Source](https://finance.yahoo.com/news/quiq-advances-contact-center-quality-133000478.html)
 
 ### Market Trends
 
-- **How agentic AI is changing the future of marketing | MarTech**
-  - Artificial intelligence is reshaping marketing at every level — but the most transformative shift isn’t just smarter automation or better analytics. It’s the rise of agentic AI — autonomous, goal-driven AI systems that act, learn and collaborate across the marketing ecosystem.
-  - [Source](https://martech.org/how-agentic-ai-is-changing-the-future-of-marketing)
+- **'Agentic AI' is current industry buzzword - but what does it mean and should we be cautious? | Science, Climate & Tech News | Sky News**
+  - One of the inventors of Siri, the original AI agent, wants you to "handle with care" when it comes to artificial intelligence. But are we becoming too cautious around AI in Europe and risking our future?
+  - [Source](https://news.sky.com/story/are-we-becoming-too-cautious-around-ai-13470262)
 
-- **Agentic AI: Revolutionizing Cyber Defenses in 2025**
-  - Agentic AI is transforming cybersecurity from reactive to autonomous defenses, combating sophisticated threats with minimal human intervention. Drawing from sources like TechRadar and CNBC, this deep dive explores applications, benefits, risks, and 2025 trends.
-  - [Source](https://webpronews.com/agentic-ai-revolutionizing-cyber-defenses-in-2025)
+- **Analytics Insight Agentic AI Market Report 2025: Regional Trends, Regulations, and Growth Opportunities**
+  - Analytics Insight presents its 2025 Global Agentic AI Market Report, revealing how governments, regulators, and enterprises are collectively shaping the next frontier of artificial intelligence, agentic systems capable of autonomous decision-making, contextual learning, and multi-domain reasoning.
+  - [Source](https://analyticsinsight.net/amp/story/press-release/analytics-insight-agentic-ai-market-report-2025-regional-trends-regulations-and-growth-opportunities)
 
-- **Top AI Agentic Startups in 2025 | Guru Startups Market Intelligence 2025**
-  - As of November 2025, the landscape of artificial intelligence has shifted decisively toward agentic AI startups—ventures that design autonomous AI agents capable of planning, acting, and executing complex tasks with minimal or no direct human intervention.
-  - [Source](https://gurustartups.com/reports/top-ai-agentic-startups-in-2025)
-
-- **From Tools to Teammates: Agentic AI Is Rewriting Marketing**
-  - Agentic AI is recasting marketing-from autonomous agents building campaigns to customer-facing negotiators. Learn stacks, roles, and guardrails at MarTech's Nov 4 keynote.
-  - [Source](https://completeaitraining.com/news/from-tools-to-teammates-agentic-ai-is-rewriting-marketing)
-
-- **SLB Unveils Groundbreaking New Agentic AI Technology for the Energy Industry | SLB**
-  - This allows agents within Tela to proactively interact with their environment, adapt to new data, and continuously improve outcomes. Whether interpreting well logs, predicting drilling issues, or optimizing equipment performance, Tela agents can work in collaboration with humans or autonomously to ...
-  - [Source](https://www.slb.com/news-and-insights/newsroom/press-release/2025/pr-2025-1103-slb-tela-ai)
+- **ITI Publishes Paper on Agentic AI Policy Recommendations**
+  - The global technology trade association the Information Technology Industry Council, a.k.a. ITI, is calling for proactive policy measures to address the vulnerabilities of agentic AI, a new class of artificial intelligence that operates autonomously with multi-step reasoning and planning.
+  - [Source](https://www.executivegov.com/articles/iti-agentic-ai-risks-policy-recommendations)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-11-17](./history/2025-11-17_news.md)
 - [News from 2025-11-10](./history/2025-11-10_news.md)
 - [News from 2025-11-03](./history/2025-11-03_news.md)
 - [News from 2025-10-27](./history/2025-10-27_news.md)
 - [News from 2025-10-20](./history/2025-10-20_news.md)
-- [News from 2025-10-13](./history/2025-10-13_news.md)
 
 
 ## Contributing
