@@ -2,58 +2,48 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (November 24, 2025)
+## Latest Updates (December 01, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **Agentic AI: The Autonomous Force Redefining Work and Power Structures**
-  - Agentic AI: The Autonomous Force Redefining Work and Power Structures ... In the high-stakes arena of artificial intelligence, a new term is echoing through boardrooms and engineering labs: agentic AI. Unlike the chatbots and predictive models that dominated the early generative AI boom, agentic ...
-  - [Source](https://webpronews.com/agentic-ai-the-autonomous-force-redefining-work-and-power-structures)
+- **AI and Agentic AI could have a bigger impact on economy than the internet era, Citi report**
+  - Latest updates on artificial intelligence news here · Many companies began rolling out the technology within the last two years, like OpenAI, which released its Operating and Deep Research features earlier this year, Microsoft Copilot releasing its agentic agents last year, which offer suggestions to the user, and even banks like Scotiabank allowing the technology to perform autonomous ...
+  - [Source](https://www.bnnbloomberg.ca/business/artificial-intelligence/2025/11/25/ai-and-agentic-ai-could-have-a-bigger-impact-on-economy-than-the-internet-era-citi-report/)
 
-- **Amazon Bedrock AgentCore and Claude: Transforming business with agentic AI | Artificial Intelligence**
-  - In this post, we explore how Amazon Bedrock AgentCore and Claude are enabling enterprises like Cox Automotive and Druva to deploy production-ready agentic AI systems that deliver measurable business value, with results including up to 63% autonomous issue resolution and 58% faster response times.
-  - [Source](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-and-claude-transforming-business-with-agentic-ai/)
+- **Anthropic bolsters AI model Claude's coding, agentic abilities with Opus 4.5 | Reuters**
+  - Artificial intelligence startup Anthropic unveiled an upgraded Opus model on Monday, boosting Claude's ability to write detailed code, create sophisticated agents and streamline enterprise workflows through spreadsheet and financial analysis.
+  - [Source](https://www.reuters.com/business/retail-consumer/anthropic-bolsters-ai-model-claudes-coding-agentic-abilities-with-opus-45-2025-11-24/)
 
-- **Decoding Agentic AI: The Rise of Autonomous Systems - KDnuggets**
-  - The next frontier in artificial intelligence (AI) is agentic AI, systems capable of planning, acting, and improving themselves without constant human intervention. These autonomous agents denote a shift from static models that respond to inputs to dynamic systems that think and operate ...
-  - [Source](https://www.kdnuggets.com/decoding-agentic-ai-the-rise-of-autonomous-systems)
+- **Kyndryl Launches Agentic AI Framework and Services for the Mainframe**
+  - /PRNewswire/ -- Kyndryl (NYSE: KD), a leading provider of mission-critical enterprise technology services, today announced new AI-powered services that combine...
+  - [Source](https://www.prnewswire.com/news-releases/kyndryl-launches-agentic-ai-framework-and-services-for-the-mainframe-302624528.html)
 
-- **Agentic AI Unlocks the Next Growth Phase in Digital Commerce**
-  - From early chatbots to newer generative models, artificial intelligence (AI) has been a key disrupter of the digital economy. However, these models still rely on human input. Now a new iteration points the way toward the future of eCommerce: agentic AI, an autonomous actor capable of moving ...
-  - [Source](https://www.pymnts.com/tracker_posts/agents-of-change-how-agentic-ai-is-redefining-commerce/)
+### Notable Innovations
 
-- **Agentic AI and the enterprise of tomorrow**
-  - Agentic AI is transforming enterprises with autonomous, adaptive systems. Capgemini and AWS enable real-time, resilient, and intelligent business evolution.
-  - [Source](https://capgemini.com/insights/expert-perspectives/agentic-ai-and-the-enterprise-of-tomorrow)
+- **2025 Tech Trends: Agentic AI, Quantum, and Sustainability Transform Industries**
+  - In the ever-evolving landscape ... where artificial intelligence, quantum computing, and sustainable innovations converge to reshape industries. Drawing from recent analyses, including insights from McKinsey’s technology trends outlook, the year promises accelerated adoption of agentic AI systems that operate autonomously, making decisions ...
+  - [Source](https://www.webpronews.com/2025-tech-trends-agentic-ai-quantum-and-sustainability-transform-industries/)
 
 ### Market Trends
 
-- **'Agentic' AI is a buzzword made up of marketing fluff and real promise | AP News**
-  - What makes an artificial intelligence product “agentic” depends on who’s selling it. But the promise is usually that it’s a step beyond today’s generative AI chatbots. Chatbots, however useful, are all talk and no action. They can answer questions, retrieve and summarize information, write papers and generate images, music, video and lines of code. AI agents, by contrast, are supposed to be able to take actions autonomously ...
-  - [Source](https://apnews.com/article/agentic-ai-agents-microsoft-amazon-518d6ae159d1f4d3343e98a456cb5221)
+- **Agentic AI Adoption Creates a ‘Two-Speed’ Enterprise Landscape | PYMNTS.com**
+  - It was about autonomy; specifically, whether a company was willing and able to hand meaningful chunks of decision-making to autonomous software agents. But data in the October 2025 edition of The CAIO Report from PYMNTS Intelligence reveals that the age of agentic artificial intelligence, a ...
+  - [Source](https://www.pymnts.com/artificial-intelligence-2/2025/agentic-ai-adoption-creates-a-two-speed-enterprise-landscape/)
 
-- **Cyera Secures the Agentic AI Era in Collaboration with Microsoft Purview, Sentinel, Entra, and Copilot Studio**
-  - NEW YORK, November 18, 2025--Cyera, an industry-leading AI and data security company, today announced an expanded collaboration with Microsoft to secure agentic AI. This both deepens and broadens data intelligence for customers of Microsoft Purview, Microsoft Sentinel, Microsoft Entra, and ...
-  - [Source](https://finance.yahoo.com/news/cyera-secures-agentic-ai-era-200000658.html)
-
-- **AI Revives Autonomous Microstores as Inventory Agents Cut Costs | PYMNTS.com**
-  - For all PYMNTS AI coverage, subscribe to the daily AI Newsletter. AI Revives Autonomous Microstores as Inventory Agents Cut Costs · Walmart Aims to Acquire R&A Data, Which Helps Marketplaces Combat Counterfeiters · Institutional Interest Is Stress Testing Blockchain’s Financial Interoperability · Perplexity Announces Partnership With US Government and Agentic Shopping for Consumers · See More In: agentic AI, AI, artificial intelligence...
-  - [Source](https://www.pymnts.com/artificial-intelligence-2/2025/ai-revives-autonomous-microstores-as-inventory-agents-cut-costs)
-
-- **Agentic AI’s 2026 Onslaught: B2B Deals Go Autonomous as Marketplaces Crumble**
-  - Agentic AI’s 2026 Onslaught: B2B Deals Go Autonomous as Marketplaces Crumble ... In the rapidly evolving landscape of digital commerce, 2026 is poised to be a pivotal year where agentic artificial intelligence reshapes everything from B2B negotiations to consumer shopping habits.
-  - [Source](https://webpronews.com/agentic-ais-2026-onslaught-b2b-deals-go-autonomous-as-marketplaces-crumble)
+- **Agentic AI is blurring the line between tool and teammate - Talent CanadaTalent Canada**
+  - Agentic AI — systems that can plan, act, and learn on their own — is being embraced by organizations at a speed that outpaces the adoption of traditional and
+  - [Source](https://www.talentcanada.ca/agentic-ai-is-blurring-the-line-between-tool-and-teammate/)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-12-01](./history/2025-12-01_news.md)
 - [News from 2025-11-24](./history/2025-11-24_news.md)
 - [News from 2025-11-17](./history/2025-11-17_news.md)
 - [News from 2025-11-10](./history/2025-11-10_news.md)
 - [News from 2025-11-03](./history/2025-11-03_news.md)
-- [News from 2025-10-27](./history/2025-10-27_news.md)
 
 
 ## Contributing
