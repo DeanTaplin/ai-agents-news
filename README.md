@@ -2,54 +2,64 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (December 15, 2025)
+## Latest Updates (December 22, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **Microsoft Ignite 2025 Recap: Agentic AI, Foundry, and Azure Innovations**
-  - Explore the biggest announcements from Microsoft Ignite 2025, including agentic AI, Claude in Foundry, and next-gen Copilot agents. Learn more.
-  - [Source](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/)
+- **Building the Architecture for Agentic AI**
+  - Agentic AI isn’t a trend or the next version of a model. It’s a shift in how intelligence gets embedded into the systems that run businesses.
+  - [Source](https://rtinsights.com/from-automation-to-autonomy-building-the-architecture-for-agentic-ai)
 
-- **Big AI’s biggest names rally around the Agentic AI Foundation to set agent standards**
-  - The Linux Foundation has launched the Agentic AI Foundation. Anthropic, OpenAI, and Block are contributing three open-source projects, and nearly every major tech company has signed on as a member.
-  - [Source](https://the-decoder.com/big-ais-biggest-names-rally-around-the-agentic-ai-foundation-to-set-agent-standards)
+- **FinancialContent - From Hype to Harvest: How Corporate America is Re-Engineering for the Agentic AI Era**
+  - As 2025 draws to a close, the frantic "gold rush" of artificial intelligence that dominated the early 2020s has matured into a calculated, structural overhaul of the American business model. No longer satisfied with mere chatbots or experimental pilots, the nation’s largest enterprises have spent the past year pivoting toward "Agentic AI"—autonomous ...
+  - [Source](https://markets.financialcontent.com/stocks/article/marketminute-2025-12-19-from-hype-to-harvest-how-corporate-america-is-re-engineering-for-the-agentic-ai-era)
 
-- **The next phase of AI is agentic, and it starts with data architecture | TechRadar**
-  - AI’s next breakthrough isn’t bigger models—it’s better architecture
-  - [Source](https://techradar.com/pro/the-next-phase-of-ai-is-agentic-and-it-starts-with-data-architecture)
+- **Agentic AI Splits Big Tech Between Open Alliances and Closed Control | PYMNTS.com**
+  - The near-simultaneous launches ... for autonomous research agents. ServiceNow Eyes $7 Billion Deal for Cybersecurity Startup Armis · YouTube Teams With PayPal to Pay Creators With Stablecoins · President Trump's Ban on State AI Rules Faces Legal Pushback ... See More In: Agentic AI Foundation, AI, Anthropic, artificial intelligence, Block, ChatGPT, Featured News, Google, Meta, ...
+  - [Source](https://www.pymnts.com/artificial-intelligence-2/2025/agentic-ai-splits-big-tech-between-open-alliances-and-closed-control/)
 
-- **SOCOM seeks candidates for agentic AI experimentation | DefenseScoop**
-  - The technology areas the command ... autonomous systems. Responses to the RFI are due Jan. 12. ... By Drew F. Lawrence ... By Drew F. Lawrence · By Drew F. Lawrence ... Officials seek tools that enable simulations to be conducted at “super real-time speeds,” according to a new RFI. ... U.S. Army Soldiers assigned to the 91st and 96th Civil Affairs Battalions (Special Operations) (Airborne) receives a briefing about artificial intelligence model used ...
-  - [Source](https://defensescoop.com/2025/12/12/socom-agentic-ai-sof-special-operations-forces)
+- **Anthropic AI Releases Bloom: An Open-Source Agentic Framework for Automated Behavioral Evaluations of Frontier AI Models - MarkTechPost**
+  - His most recent endeavor is the launch of an Artificial Intelligence Media Platform, Marktechpost, which stands out for its in-depth coverage of machine learning and deep learning news that is both technically sound and easily understandable by a wide audience. The platform boasts of over 2 million monthly views, illustrating its popularity among audiences. ... Anthropic AI Releases Bloom: An Open-Source Agentic ...
+  - [Source](https://www.marktechpost.com/2025/12/21/anthropic-ai-releases-bloom-an-open-source-agentic-framework-for-automated-behavioral-evaluations-of-frontier-ai-models/)
 
-- **Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md**
-  - The advent of agentic AI represents a new era of autonomous decision making and coordination across AI systems that will transform and revolutionize entire industries. The AAIF provides a neutral, open foundation to ensure this critical capability evolves transparently, collaboratively, and ...
-  - [Source](https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation)
+### Notable Innovations
+
+- **Agentic AI Swarm Optimization using Artificial Bee Colonization (ABC) | Towards Data Science**
+  - With the incredible innovation going on around Agentic AI, I wanted to get hands‑on with a project that integrates LLM prompts into a Data Science workflow. The Artificial Bee Colony (ABC) algorithm is inspired by honey bees’ foraging behavior and works remarkably well in nature. It belongs to the family of swarm intelligence algorithms, designed for decentralized decision‑making processes whereby “bee agents” pursue their individual goals autonomously...
+  - [Source](https://towardsdatascience.com/agentic-ai-swarm-optimization-using-artificial-bee-colonization-abc/)
+
+- **25+ Greatest AI Innovations and New Technologies in 2025**
+  - Big tech also pushed new chips, autonomous agents, and tools that make computers faster and more efficient than ever. Governments and industries worldwide are using AI to improve security, productivity, and creativity. These innovations are reshaping how we live, work, and learn. In this article, we'll take a look at the 25+ greatest AI innovations and new technologies of 2025 and what they mean for our future. Artificial intelligence ...
+  - [Source](https://www.jagranjosh.com/general-knowledge/list-of-greatest-ai-innovations-and-new-technologies-in-2025-1820005089-1)
+
+- **Agentic RAG Explained: How Autonomous Retrieval Systems Work**
+  - Discover how autonomous retrieval systems use agents and reasoning to deliver more accurate, reliable, context-aware AI responses.
+  - [Source](https://www.xcubelabs.com/blog/agentic-rag-explained-how-autonomous-retrieval-systems-work/)
 
 ### Market Trends
 
-- **Perplexity: AI agents are taking over complex enterprise tasks**
-  - New adoption data from Perplexity reveals how AI agents are driving workflow efficiency gains by taking over complex enterprise tasks.
-  - [Source](https://www.artificialintelligence-news.com/news/perplexity-ai-agents-taking-over-complex-enterprise-tasks/)
+- **6 Scary Predictions for AI in 2026 | WIRED**
+  - Could the AI industry be on the verge of its first major layoffs? Will China spread propaganda to slow the US data-center building boom? Where are AI agents headed?
+  - [Source](https://wired.com/story/backchannel-2026-predictions-tech-robots-ai)
 
-- **GAO on AI agents: Lead with intelligent AI adoption**
-  - Agentic AI will undeniably become a core piece of agencies’ technology toolsets — now is the time to prepare.
-  - [Source](https://federalnewsnetwork.com/commentary/2025/12/gao-on-ai-agents-lead-with-intelligent-ai-adoption)
+- **Agentic AI in 2026: More mixed than mainstream | CIO**
+  - The potential and reality of AI agents have become a polarizing topic. In 2026, agents will inch toward broader adoption in the enterprise, experts say, with missteps and hurdles ahead.
+  - [Source](https://www.cio.com/article/4107315/agentic-ai-in-2026-more-mixed-than-mainstream.html)
 
-- **Agentic AI smartphones: ByteDance signals opportunity beyond consumer hype**
-  - The ByteDance-ZTE agentic AI smartphone sold out immediately—then sparked privacy concerns. What does this reveal about enterprise adoption of autonomous mobile AI agents?
-  - [Source](https://artificialintelligence-news.com/news/agentic-ai-smartphones-enterprise-adoption)
+- **AVs, agentic, and AI will reshape internet investing in 2026 -- Wedbush (DASH:NASDAQ) | Seeking Alpha**
+  - Progress in autonomous vehicles, artificial intelligence, and agentic adoption will drive performance. Amazon's consumer-facing AI has driven billions in sales, and margin expansion is expected from efficiencies and a shift to advertising and AWS revenue.
+  - [Source](https://seekingalpha.com/news/4533708-avs-agentic-and-ai-will-reshape-internet-investing-in-2026---wedbush)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-12-22](./history/2025-12-22_news.md)
 - [News from 2025-12-15](./history/2025-12-15_news.md)
 - [News from 2025-12-08](./history/2025-12-08_news.md)
 - [News from 2025-12-01](./history/2025-12-01_news.md)
 - [News from 2025-11-24](./history/2025-11-24_news.md)
-- [News from 2025-11-17](./history/2025-11-17_news.md)
 
 
 ## Contributing
