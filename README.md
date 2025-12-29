@@ -2,64 +2,60 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (December 22, 2025)
+## Latest Updates (December 29, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **Building the Architecture for Agentic AI**
-  - Agentic AI isn’t a trend or the next version of a model. It’s a shift in how intelligence gets embedded into the systems that run businesses.
-  - [Source](https://rtinsights.com/from-automation-to-autonomy-building-the-architecture-for-agentic-ai)
+- **NVIDIA AI Researchers Release NitroGen: An Open Vision Action Foundation Model For Generalist Gaming Agents - MarkTechPost**
+  - NVIDIA AI Researchers Release NitroGen: An Open Vision Action Foundation Model For Generalist Gaming Agents
+  - [Source](https://www.marktechpost.com/2025/12/28/nvidia-ai-researchers-release-nitrogen-an-open-vision-action-foundation-model-for-generalist-gaming-agents/)
 
-- **FinancialContent - From Hype to Harvest: How Corporate America is Re-Engineering for the Agentic AI Era**
-  - As 2025 draws to a close, the frantic "gold rush" of artificial intelligence that dominated the early 2020s has matured into a calculated, structural overhaul of the American business model. No longer satisfied with mere chatbots or experimental pilots, the nation’s largest enterprises have spent the past year pivoting toward "Agentic AI"—autonomous ...
-  - [Source](https://markets.financialcontent.com/stocks/article/marketminute-2025-12-19-from-hype-to-harvest-how-corporate-america-is-re-engineering-for-the-agentic-ai-era)
-
-- **Agentic AI Splits Big Tech Between Open Alliances and Closed Control | PYMNTS.com**
-  - The near-simultaneous launches ... for autonomous research agents. ServiceNow Eyes $7 Billion Deal for Cybersecurity Startup Armis · YouTube Teams With PayPal to Pay Creators With Stablecoins · President Trump's Ban on State AI Rules Faces Legal Pushback ... See More In: Agentic AI Foundation, AI, Anthropic, artificial intelligence, Block, ChatGPT, Featured News, Google, Meta, ...
-  - [Source](https://www.pymnts.com/artificial-intelligence-2/2025/agentic-ai-splits-big-tech-between-open-alliances-and-closed-control/)
-
-- **Anthropic AI Releases Bloom: An Open-Source Agentic Framework for Automated Behavioral Evaluations of Frontier AI Models - MarkTechPost**
-  - His most recent endeavor is the launch of an Artificial Intelligence Media Platform, Marktechpost, which stands out for its in-depth coverage of machine learning and deep learning news that is both technically sound and easily understandable by a wide audience. The platform boasts of over 2 million monthly views, illustrating its popularity among audiences. ... Anthropic AI Releases Bloom: An Open-Source Agentic ...
-  - [Source](https://www.marktechpost.com/2025/12/21/anthropic-ai-releases-bloom-an-open-source-agentic-framework-for-automated-behavioral-evaluations-of-frontier-ai-models/)
+- **Google's year in review: 8 areas with research breakthroughs in 2025**
+  - This year saw new AI models, transformative products and new breakthroughs in science and robotics.
+  - [Source](https://blog.google/technology/ai/2025-research-breakthroughs/)
 
 ### Notable Innovations
 
-- **Agentic AI Swarm Optimization using Artificial Bee Colonization (ABC) | Towards Data Science**
-  - With the incredible innovation going on around Agentic AI, I wanted to get hands‑on with a project that integrates LLM prompts into a Data Science workflow. The Artificial Bee Colony (ABC) algorithm is inspired by honey bees’ foraging behavior and works remarkably well in nature. It belongs to the family of swarm intelligence algorithms, designed for decentralized decision‑making processes whereby “bee agents” pursue their individual goals autonomously...
-  - [Source](https://towardsdatascience.com/agentic-ai-swarm-optimization-using-artificial-bee-colonization-abc/)
+- **Year Ender 2025: From DeepSeek to Agentic AI, 10 major developments that changed Artificial Intelligence in 2025 - The Economic Times**
+  - From open-source breakthroughs that disrupted global power balances to autonomous systems executing multi-step tasks, 2025 fundamentally altered expectations about what AI can do—and how quickly its influence is expanding. Artificial intelligence reached a defining inflection point in 2025.
+  - [Source](https://m.economictimes.com/news/new-updates/year-ender-2025-major-ai-breakthroughs-that-changed-the-world-from-deepseek-to-agentic-artificial-intelligence/articleshow/126203764.cms)
 
-- **25+ Greatest AI Innovations and New Technologies in 2025**
-  - Big tech also pushed new chips, autonomous agents, and tools that make computers faster and more efficient than ever. Governments and industries worldwide are using AI to improve security, productivity, and creativity. These innovations are reshaping how we live, work, and learn. In this article, we'll take a look at the 25+ greatest AI innovations and new technologies of 2025 and what they mean for our future. Artificial intelligence ...
-  - [Source](https://www.jagranjosh.com/general-knowledge/list-of-greatest-ai-innovations-and-new-technologies-in-2025-1820005089-1)
+- **Agentic AI Takes the Wheel in Travel Planning and Booking | PYMNTS.com**
+  - Travel commerce is evolving from a discovery-based marketplace into an execution-driven economy, especially as AI agents step in.
+  - [Source](https://www.pymnts.com/news/artificial-intelligence/2025/agentic-ai-takes-the-wheel-in-travel-planning-and-booking/)
 
-- **Agentic RAG Explained: How Autonomous Retrieval Systems Work**
-  - Discover how autonomous retrieval systems use agents and reasoning to deliver more accurate, reliable, context-aware AI responses.
-  - [Source](https://www.xcubelabs.com/blog/agentic-rag-explained-how-autonomous-retrieval-systems-work/)
+- **Tech in 2025: Rise of Agentic AI, hardware shifts and breakthroughs that redefined the year - The Times of India**
+  - Tech News News: 2025 was a year when technology didn't just move forward. It accelerated in ways how people learn, work, and build. If the past few years were about t.
+  - [Source](https://timesofindia.indiatimes.com/technology/tech-news/tech-in-2025-rise-of-agentic-ai-hardware-shifts-and-breakthroughs-that-redefined-the-year/articleshow/126184606.cms)
 
 ### Market Trends
 
-- **6 Scary Predictions for AI in 2026 | WIRED**
-  - Could the AI industry be on the verge of its first major layoffs? Will China spread propaganda to slow the US data-center building boom? Where are AI agents headed?
-  - [Source](https://wired.com/story/backchannel-2026-predictions-tech-robots-ai)
+- **LTIMindtree saw $60 million in H1 incremental revenue via agentic AI, says CEO - The Economic Times**
+  - The IT services provider expects short-term headwinds to persist in 2026 when macroeconomic conditions are likely to remain tough for the industry. But there are pockets of optimism as well.
+  - [Source](https://m.economictimes.com/tech/information-tech/ltimindtree-saw-60m-in-h1-incremental-revenue-via-agentic-ai-says-chief-executive/articleshow/126177741.cms)
 
-- **Agentic AI in 2026: More mixed than mainstream | CIO**
-  - The potential and reality of AI agents have become a polarizing topic. In 2026, agents will inch toward broader adoption in the enterprise, experts say, with missteps and hurdles ahead.
-  - [Source](https://www.cio.com/article/4107315/agentic-ai-in-2026-more-mixed-than-mainstream.html)
+- **Autonomy Isn’t Binary: How Agentic AI Fits into the Pharma Landscape | Pharmaceutical Technology**
+  - In an expansion of his written three-part series for PharmTech, Jason Bryant of ArisGlobal explains the interplay between autonomy and accountability that is essential for AI agents assisting the pharmaceutical industry.
+  - [Source](https://www.pharmtech.com/view/autonomy-isn-t-binary-how-agentic-ai-fits-into-the-pharma-landscape)
 
-- **AVs, agentic, and AI will reshape internet investing in 2026 -- Wedbush (DASH:NASDAQ) | Seeking Alpha**
-  - Progress in autonomous vehicles, artificial intelligence, and agentic adoption will drive performance. Amazon's consumer-facing AI has driven billions in sales, and margin expansion is expected from efficiencies and a shift to advertising and AWS revenue.
-  - [Source](https://seekingalpha.com/news/4533708-avs-agentic-and-ai-will-reshape-internet-investing-in-2026---wedbush)
+- **Agentic AI Adoption in Enterprises: The Human-in-the-Loop Advantage**
+  - Agentic AI refers to artificial intelligence systems designed to act as autonomous agents – they don’t just respond to prompts, but can set goals, make decisions, take actions, and adapt over time to achieve desired outcomes, often with minimal human intervention.
+  - [Source](https://www.uctoday.com/workplace-management/agentic-ai-workplace-trust-2/)
+
+- **5 Key Trends Shaping Agentic Development in 2026 - The New Stack**
+  - Five trends in AI development for 2026, including MCP management, parallel running, CLI vs. desktop tools, and challenges with VS Code forks.
+  - [Source](https://thenewstack.io/5-key-trends-shaping-agentic-development-in-2026/)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2025-12-29](./history/2025-12-29_news.md)
 - [News from 2025-12-22](./history/2025-12-22_news.md)
 - [News from 2025-12-15](./history/2025-12-15_news.md)
 - [News from 2025-12-08](./history/2025-12-08_news.md)
 - [News from 2025-12-01](./history/2025-12-01_news.md)
-- [News from 2025-11-24](./history/2025-11-24_news.md)
 
 
 ## Contributing
