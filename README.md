@@ -2,54 +2,56 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (January 12, 2026)
+## Latest Updates (January 19, 2026)
 
+
+### Major Model Releases & Improvements
+
+- **AI Agents Drive First Large-Scale Autonomous Cyberattack | Cyber Magazine**
+  - Chinese state-backed hackers used Anthropic’s Claude Code to carry out a largely AI-driven cyber espionage campaign targeting 30 organisations
+  - [Source](https://cybermagazine.com/news/ai-agents-drive-first-large-scale-autonomous-cyberattack)
+
+- **How to Build a Self-Evaluating Agentic AI System with LlamaIndex and OpenAI Using Retrieval, Tool Use, and Automated Quality Checks - MarkTechPost**
+  - His most recent endeavor is the launch of an Artificial Intelligence Media Platform, Marktechpost, which stands out for its in-depth coverage of machine learning and deep learning news that is both technically sound and easily understandable by a wide audience. The platform boasts of over 2 million monthly views, illustrating its popularity among audiences. ... How to Build a Self-Evaluating Agentic AI ...
+  - [Source](https://www.marktechpost.com/2026/01/17/how-to-build-a-self-evaluating-agentic-ai-system-with-llamaindex-and-openai-using-retrieval-tool-use-and-automated-quality-checks/)
+
+- **AI agents: the future is getting complicated | by Amelia Woodward | Amelia’s blog | Jan, 2026 | Medium**
+  - AI agents: the future is getting complicated I talk to my computer all day. Claude, ChatGPT, Zapier, various automations. I often ride around San Francisco in Waymos, driverless cars navigating city …
+  - [Source](https://medium.com/amelias-blog/ai-agents-the-future-is-getting-complicated-71675ee5a2ba)
+
+- **Agentic AI Is Rewriting Business Models for Ad Agencies: S4 Capital’s Sir Martin Sorrell – Beet.TV**
+  - As artificial intelligence matures from generative creative tools into autonomous transaction capabilities, the machinery of media trading is beginning to mimic the speed of high-frequency finance. But while […] LAS VEGAS – Agentic AI and self-serve tools took center stage at CES in Las ...
+  - [Source](https://www.beet.tv/2026/01/agentic-ai-is-rewriting-business-models-for-ad-agencies-s4-capitals-sir-martin-sorrell.html)
 
 ### Notable Innovations
 
-- **New Research Finds Agentic AI Is Becoming a Strategic Necessity for Revenue Teams**
-  - Outreach, the AI Revenue Workflow Platform, shared findings from a new independent white paper conducted by International Data Corporation (IDC), sponsored b...
-  - [Source](https://www.businesswire.com/news/home/20260108174117/en/New-Research-Finds-Agentic-AI-Is-Becoming-a-Strategic-Necessity-for-Revenue-Teams)
+- **An agentic AI framework for ingestion and standardization of single-cell RNA-seq data analysis | npj Artificial Intelligence**
+  - The proliferation of publicly available single-cell RNA sequencing (scRNA-seq) data has created significant opportunities in biomedical research. However, the reuse of these resources is constrained by a series of preparatory steps, including metadata extraction from primary literature, retrieval ...
+  - [Source](https://www.nature.com/articles/s44387-025-00064-0)
 
-- **The AI Shift: Agentic AI is coming for quantitative research**
-  - The real value of an analyst now lies in the quality and quantity of their ideas
-  - [Source](https://www.ft.com/content/91836acb-ab0c-4680-9dcf-c4de9e9917c5)
+- **Gartner: 60% of brands will use agentic AI for one-to-one engagement**
+  - New research from Gartner indicates two-thirds of brands will use agentic artificial intelligence (AI) to deliver personalized, one-to-one customer interactions by 2028. In a Jan. 15 report, Gartner said autonomous, agentic AI systems that can act on a user’s behalf — will increasingly ...
+  - [Source](https://www.digitalcommerce360.com/2026/01/16/gartner-research-agentic-ai-marketing/)
 
-- **What AI Agents Can Teach Us About NHI Governance**
-  - Agentic AI is a stress test for non-human identity governance. Discover how and why identity, trust, and access control must evolve to keep automation safe.
-  - [Source](https://blog.gitguardian.com/what-ai-agents-can-teach-us-about-nhi-governance/)
+- **AI agents: Here is what happened in 2025 and the challenges ahead in 2026 | Tech News - Business Standard**
+  - Home / Technology / Tech News / AI agents: Here is what happened in 2025 and the challenges ahead in 2026 ... In artificial intelligence, 2025 marked a decisive shift. Systems once confined to research labs and prototypes began to appear as everyday tools.
+  - [Source](https://www.business-standard.com/technology/tech-news/ai-agents-tech-recap-what-happened-2025-challenges-in-2026-126011500209_1.html)
 
 ### Market Trends
 
-- **Will Demand for Agentic AI Evaluation Boost Innodata's 2026 Growth?**
-  - INOD's early lead in agentic AI evaluation may fuel 2026 growth as enterprises demand safer, scalable AI systems.
-  - [Source](https://finance.yahoo.com/news/demand-agentic-ai-evaluation-boost-154100947.html)
-
-- **Microsoft propels retail forward with agentic AI capabilities that power intelligent automation for every retail function - Source**
-  - Store operations agent template ... while autonomously orchestrating workflows, flagging exceptions and recommending next best actions. By analyzing internal signals like sales trends and foot traffic alongside external factors such as weather, local events and holidays, it delivers contextual recommendations for staffing, KPIs and operational priorities. The intelligent agent helps leaders ...
-  - [Source](https://news.microsoft.com/source/2026/01/08/microsoft-propels-retail-forward-with-agentic-ai-capabilities-that-power-intelligent-automation-for-every-retail-function/)
-
-- **CES 2026 wrapped: AI agents execute ad buys, platforms chase outcomes and vertical video arrives - NCS | NewscastStudio**
-  - The advertising industry spent CES 2026 promising to automate itself out of existence, or at ... Read More
-  - [Source](https://newscaststudio.com/2026/01/09/ces-2026-wrapped-ai-agents-execute-ad-buys-platforms-chase-outcomes-and-vertical-video-arrives)
-
-- **NIST Asking Insights Into Agentic AI Security**
-  - Gain a deeper understanding of ... 2026 Artificial Intelligence Summit on March 19. Experts from across industry and government will be present at the event to share insights into the rapidly evolving technology. Click here to join. ... NIST explained in the RFI that AI agents can autonomously plan and take ...
-  - [Source](https://www.executivegov.com/articles/nist-rfi-agentic-ai-risks-security)
-
-- **Bidgely Redefines Energy AI in 2025: From Machine Learning to Agentic AI**
-  - Bidgely solidified its position as the premier provider of machine learning (ML) and artificial intelligence (AI) solutions for the utility industry in 2025,...
-  - [Source](https://www.businesswire.com/news/home/20260108284426/en/Bidgely-Redefines-Energy-AI-in-2025-From-Machine-Learning-to-Agentic-AI)
+- **Agentic AI deployments more than doubled over 2025 | Accounting Today**
+  - The number of organizations that have deployed AI agents grew twofold in the past year, sparking changes in hiring patterns and market dynamics.
+  - [Source](https://www.accountingtoday.com/news/agentic-ai-deployments-more-than-doubled-over-2025)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-01-19](./history/2026-01-19_news.md)
 - [News from 2026-01-12](./history/2026-01-12_news.md)
 - [News from 2026-01-05](./history/2026-01-05_news.md)
 - [News from 2025-12-29](./history/2025-12-29_news.md)
 - [News from 2025-12-22](./history/2025-12-22_news.md)
-- [News from 2025-12-15](./history/2025-12-15_news.md)
 
 
 ## Contributing
