@@ -2,56 +2,52 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (January 19, 2026)
+## Latest Updates (January 26, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **AI Agents Drive First Large-Scale Autonomous Cyberattack | Cyber Magazine**
-  - Chinese state-backed hackers used Anthropic’s Claude Code to carry out a largely AI-driven cyber espionage campaign targeting 30 organisations
-  - [Source](https://cybermagazine.com/news/ai-agents-drive-first-large-scale-autonomous-cyberattack)
+- **Chinese tech giants enter the 'agentic commerce' race as AI reshapes super apps**
+  - China's tech giants are jostling to gain an edge in the AI race, as firms seek to develop models capable of coordinating and performing functions across sites.
+  - [Source](https://www.cnbc.com/2026/01/21/china-tech-ai-agentic-commerce-super-apps-alibaba-taobao-qwen-tencent-wechat-doubbao-weixin.html)
 
-- **How to Build a Self-Evaluating Agentic AI System with LlamaIndex and OpenAI Using Retrieval, Tool Use, and Automated Quality Checks - MarkTechPost**
-  - His most recent endeavor is the launch of an Artificial Intelligence Media Platform, Marktechpost, which stands out for its in-depth coverage of machine learning and deep learning news that is both technically sound and easily understandable by a wide audience. The platform boasts of over 2 million monthly views, illustrating its popularity among audiences. ... How to Build a Self-Evaluating Agentic AI ...
-  - [Source](https://www.marktechpost.com/2026/01/17/how-to-build-a-self-evaluating-agentic-ai-system-with-llamaindex-and-openai-using-retrieval-tool-use-and-automated-quality-checks/)
+- **Multi‑Agent AI Raises New Legal and Governance Risks**
+  - Artificial intelligence is moving beyond standalone large language model wrappers toward collections of specialized AI agents that reason, act, and collaborate to achieve complex outcomes. This multi-agent vision, articulated in Google’s Introduction to Agents whitepaper,[1] marks a subtle, ...
+  - [Source](https://natlawreview.com/article/agentic-ais-next-iteration-super-ais-teams-specialized-agents-and-what-it-means-law)
 
-- **AI agents: the future is getting complicated | by Amelia Woodward | Amelia’s blog | Jan, 2026 | Medium**
-  - AI agents: the future is getting complicated I talk to my computer all day. Claude, ChatGPT, Zapier, various automations. I often ride around San Francisco in Waymos, driverless cars navigating city …
-  - [Source](https://medium.com/amelias-blog/ai-agents-the-future-is-getting-complicated-71675ee5a2ba)
+- **AI’s 2030 Takeover: Enterprises Bet Big on Agents and Quantum**
+  - By 2030, AI becomes the enterprise business model, per IBM's survey of 2,000 executives forecasting 150% spending surges, 42% productivity gains, and quantum shifts. Agentic systems and custom models will drive trillions in value amid reskilling demands.
+  - [Source](https://webpronews.com/ais-2030-takeover-enterprises-bet-big-on-agents-and-quantum)
 
-- **Agentic AI Is Rewriting Business Models for Ad Agencies: S4 Capital’s Sir Martin Sorrell – Beet.TV**
-  - As artificial intelligence matures from generative creative tools into autonomous transaction capabilities, the machinery of media trading is beginning to mimic the speed of high-frequency finance. But while […] LAS VEGAS – Agentic AI and self-serve tools took center stage at CES in Las ...
-  - [Source](https://www.beet.tv/2026/01/agentic-ai-is-rewriting-business-models-for-ad-agencies-s4-capitals-sir-martin-sorrell.html)
+- **Deloitte BrandVoice: How Agentic, Physical And Sovereign AI Are Rewriting The Rules Of Enterprise Innovation**
+  - Agentic artificial intelligence (AI) adoption is accelerating but enterprises should redesign workflows and governance models to effectively integrate and orchestrate autonomous systems.
+  - [Source](https://www.forbes.com/sites/deloitte/2026/01/21/how-agentic-physical-and-sovereign-ai-are-rewriting-the-rules-of-enterprise-innovation/)
 
 ### Notable Innovations
 
-- **An agentic AI framework for ingestion and standardization of single-cell RNA-seq data analysis | npj Artificial Intelligence**
-  - The proliferation of publicly available single-cell RNA sequencing (scRNA-seq) data has created significant opportunities in biomedical research. However, the reuse of these resources is constrained by a series of preparatory steps, including metadata extraction from primary literature, retrieval ...
-  - [Source](https://www.nature.com/articles/s44387-025-00064-0)
+- **Agentic Shift: Mastering Mobile Development in the AI Trust Era**
+  - Mobile app development in 2026 demands agentic optimization and Trust Graph integration over legacy coding. Developers must master AI tools, native stacks, and entity validation to thrive amid Zero Click dominance and AI discovery.
+  - [Source](https://www.webpronews.com/agentic-shift-mastering-mobile-development-in-the-ai-trust-era/)
 
-- **Gartner: 60% of brands will use agentic AI for one-to-one engagement**
-  - New research from Gartner indicates two-thirds of brands will use agentic artificial intelligence (AI) to deliver personalized, one-to-one customer interactions by 2028. In a Jan. 15 report, Gartner said autonomous, agentic AI systems that can act on a user’s behalf — will increasingly ...
-  - [Source](https://www.digitalcommerce360.com/2026/01/16/gartner-research-agentic-ai-marketing/)
-
-- **AI agents: Here is what happened in 2025 and the challenges ahead in 2026 | Tech News - Business Standard**
-  - Home / Technology / Tech News / AI agents: Here is what happened in 2025 and the challenges ahead in 2026 ... In artificial intelligence, 2025 marked a decisive shift. Systems once confined to research labs and prototypes began to appear as everyday tools.
-  - [Source](https://www.business-standard.com/technology/tech-news/ai-agents-tech-recap-what-happened-2025-challenges-in-2026-126011500209_1.html)
+- **AI agents race ahead of governance, security & trust**
+  - IT Brief Asia - Technology news for CIOs & IT decision-makers ... Artificial intelligence agents are moving into mainstream use in large organisations without matching investment in safety and oversight. This is exposing gaps in governance, security and accountability frameworks, according to industry executives responding to new research and policy debates this week. Deloitte's latest survey on AI ...
+  - [Source](https://itbrief.asia/story/ai-agents-race-ahead-of-governance-security-trust)
 
 ### Market Trends
 
-- **Agentic AI deployments more than doubled over 2025 | Accounting Today**
-  - The number of organizations that have deployed AI agents grew twofold in the past year, sparking changes in hiring patterns and market dynamics.
-  - [Source](https://www.accountingtoday.com/news/agentic-ai-deployments-more-than-doubled-over-2025)
+- **Companies are already using agentic AI to make decisions, but governance is lagging behind**
+  - Businesses are acting fast to adopt agentic AI—artificial intelligence systems that work without human guidance—but have been much slower to put governance in place to oversee them, a new survey shows. That mismatch is a major source of risk in AI adoption.
+  - [Source](https://techxplore.com/news/2026-01-companies-agentic-ai-decisions-lagging.html)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-01-26](./history/2026-01-26_news.md)
 - [News from 2026-01-19](./history/2026-01-19_news.md)
 - [News from 2026-01-12](./history/2026-01-12_news.md)
 - [News from 2026-01-05](./history/2026-01-05_news.md)
 - [News from 2025-12-29](./history/2025-12-29_news.md)
-- [News from 2025-12-22](./history/2025-12-22_news.md)
 
 
 ## Contributing
