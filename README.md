@@ -2,52 +2,54 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (January 26, 2026)
+## Latest Updates (February 02, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Chinese tech giants enter the 'agentic commerce' race as AI reshapes super apps**
-  - China's tech giants are jostling to gain an edge in the AI race, as firms seek to develop models capable of coordinating and performing functions across sites.
-  - [Source](https://www.cnbc.com/2026/01/21/china-tech-ai-agentic-commerce-super-apps-alibaba-taobao-qwen-tencent-wechat-doubbao-weixin.html)
+- **AI agents have found each other, and humans are no longer in charge| Business News**
+  - Moltbook is a social network for ... autonomous personal AI assistant software project called OpenClaw, developed by software engineer Peter Steinberger and released in late 2025. Digital assistants, also called agents, can talk to each other. It is, for now, not very clear how these agents discover each other on Moltbook, or how the topics of conversation come about. Humanity may well be on the cusp of artificial general intelligence (AGI) that ...
+  - [Source](https://www.hindustantimes.com/business/ai-agents-have-found-each-other-and-humans-are-no-longer-in-charge-101769843493246.html)
 
-- **Multi‑Agent AI Raises New Legal and Governance Risks**
-  - Artificial intelligence is moving beyond standalone large language model wrappers toward collections of specialized AI agents that reason, act, and collaborate to achieve complex outcomes. This multi-agent vision, articulated in Google’s Introduction to Agents whitepaper,[1] marks a subtle, ...
-  - [Source](https://natlawreview.com/article/agentic-ais-next-iteration-super-ais-teams-specialized-agents-and-what-it-means-law)
+- **Dynatrace unveils agentic AI push with new platform tools**
+  - Dynatrace launches Intelligence platform with agentic AI, deeper cloud hooks and next-gen RUM to tackle escalating data and ops complexity.
+  - [Source](https://securitybrief.news/story/dynatrace-unveils-agentic-ai-push-with-new-platform-tools)
 
-- **AI’s 2030 Takeover: Enterprises Bet Big on Agents and Quantum**
-  - By 2030, AI becomes the enterprise business model, per IBM's survey of 2,000 executives forecasting 150% spending surges, 42% productivity gains, and quantum shifts. Agentic systems and custom models will drive trillions in value amid reskilling demands.
-  - [Source](https://webpronews.com/ais-2030-takeover-enterprises-bet-big-on-agents-and-quantum)
+- **‘Godfather of AI’ Yann LeCun calls AGI overrated, says scaling AI won’t work | Technology News - The Indian Express**
+  - Yann LeCun, professor at New York University and former chief AI scientist at Meta, says current AI systems lack the ability to model the real world, a limitation he believes cannot be solved by simply making large language models bigger.
+  - [Source](https://indianexpress.com/article/technology/artificial-intelligence/godfather-of-ai-yann-lecun-calls-agi-overrated-says-scaling-ai-wont-work-10503183/)
 
-- **Deloitte BrandVoice: How Agentic, Physical And Sovereign AI Are Rewriting The Rules Of Enterprise Innovation**
-  - Agentic artificial intelligence (AI) adoption is accelerating but enterprises should redesign workflows and governance models to effectively integrate and orchestrate autonomous systems.
-  - [Source](https://www.forbes.com/sites/deloitte/2026/01/21/how-agentic-physical-and-sovereign-ai-are-rewriting-the-rules-of-enterprise-innovation/)
-
-### Notable Innovations
-
-- **Agentic Shift: Mastering Mobile Development in the AI Trust Era**
-  - Mobile app development in 2026 demands agentic optimization and Trust Graph integration over legacy coding. Developers must master AI tools, native stacks, and entity validation to thrive amid Zero Click dominance and AI discovery.
-  - [Source](https://www.webpronews.com/agentic-shift-mastering-mobile-development-in-the-ai-trust-era/)
-
-- **AI agents race ahead of governance, security & trust**
-  - IT Brief Asia - Technology news for CIOs & IT decision-makers ... Artificial intelligence agents are moving into mainstream use in large organisations without matching investment in safety and oversight. This is exposing gaps in governance, security and accountability frameworks, according to industry executives responding to new research and policy debates this week. Deloitte's latest survey on AI ...
-  - [Source](https://itbrief.asia/story/ai-agents-race-ahead-of-governance-security-trust)
+- **The new era of browsing: Putting Gemini to work in Chrome**
+  - Learn more about new agentic capabilities coming to Chrome, powered by Gemini 3.
+  - [Source](https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/)
 
 ### Market Trends
 
-- **Companies are already using agentic AI to make decisions, but governance is lagging behind**
-  - Businesses are acting fast to adopt agentic AI—artificial intelligence systems that work without human guidance—but have been much slower to put governance in place to oversee them, a new survey shows. That mismatch is a major source of risk in AI adoption.
-  - [Source](https://techxplore.com/news/2026-01-companies-agentic-ai-decisions-lagging.html)
+- **Descartes drives the future of visibility with agentic AI**
+  - The industry-wide push for better visibility has fundamentally reshaped the way freight moves. Freight visibility platforms have built networks with millions of users, promising real-time insights. The post Descartes drives the future of visibility with agentic AI appeared first on FreightWaves.
+  - [Source](https://finance.yahoo.com/news/descartes-drives-future-visibility-agentic-180000955.html)
+
+- **NTT Data, AWS tie-up for agentic AI push - Mobile World Live**
+  - NTT Data and AWS inked a multi-year pact targeting enterprises modernising their systems, focused on increasing adoption of cloud and AI.
+  - [Source](https://www.mobileworldlive.com/ai-cloud/ntt-data-aws-tie-up-for-agentic-ai-push/)
+
+- **FINRA flags rise of agentic AI, seeks member firms' feedback - InvestmentNews**
+  - Regulator outlines early use cases for autonomous AI tools, urges governance frameworks while it continues to shape guidance around emerging technology. ... The Financial Industry Regulatory Authority is sharpening its focus on “agentic” artificial intelligence as more broker-dealers and ...
+  - [Source](https://investmentnews.com/regulation-and-legislation/finra-flags-rise-of-agentic-ai-seeks-member-firms-feedback/264996)
+
+- **Cisco Foundation AI Advances Agentic Security Systems for the AI Era**
+  - As artificial intelligence becomes increasingly autonomous and embedded across enterprise environments, securing AI systems has emerged as a defining challenge for the industry. Cisco is addressing this challenge by advancing agentic security systems that combine reasoning, adaptive retrieval, ...
+  - [Source](https://blogs.cisco.com/security/foundation-ai-advances-agentic-security-systems-for-ai-era)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-02-02](./history/2026-02-02_news.md)
 - [News from 2026-01-26](./history/2026-01-26_news.md)
 - [News from 2026-01-19](./history/2026-01-19_news.md)
 - [News from 2026-01-12](./history/2026-01-12_news.md)
 - [News from 2026-01-05](./history/2026-01-05_news.md)
-- [News from 2025-12-29](./history/2025-12-29_news.md)
 
 
 ## Contributing
