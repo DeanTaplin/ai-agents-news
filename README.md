@@ -2,46 +2,56 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (February 09, 2026)
+## Latest Updates (February 16, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Scope3 cuts engineering and sales staff again as agentic AI pivot hits reality**
-  - The company launched this strategic ... execute autonomous decisions at the impression level. O'Kelley, who previously founded AppNexus, has positioned Scope3 at the forefront of an emerging category that uses artificial intelligence agents to automate media buying decisions. The company's transformation reflects broader industry trends. The Interactive Advertising Bureau projects that 66% of advertisers now prioritize agentic AI for campaign ...
-  - [Source](https://ppc.land/scope3-cuts-engineering-and-sales-staff-again-as-agentic-ai-pivot-hits-reality/)
+- **State Department is gearing up to ‘roll out agentic AI’ | FedScoop**
+  - State Department CIO Kelly Fletcher, left, speaks during AI Talks in Washington, D.C., on April 18, 2024, while State CAIO Matthew Graviss looks on. (Scoop News Group photo) After successfully launching its own internal chatbot and normalizing the use of artificial intelligence tools for translation, summarization and other diplomatically beneficial uses, the State Department is eyeing the next step in its journey with the emerging technology. “We’re going to roll out agentic ...
+  - [Source](https://fedscoop.com/state-department-agentic-ai-statechat-chatbots)
 
-- **Kentico Unveils Major AI Leap Bringing Agentic AI Workflows to Marketing Teams**
-  - The new suite introduces specialized agents designed to execute defined marketing and content tasks, underscoring Kentico’s belief that AI should be operational, transparent, and embedded directly into how teams work. ... Launched in 2025, AIRA (Artificial Intelligence Recommendations & ...
-  - [Source](https://natlawreview.com/press-releases/kentico-unveils-major-ai-leap-bringing-agentic-ai-workflows-marketing-teams)
+- **Banks Shift AI From Chatbots to Autonomous Money Movement | PYMNTS.com**
+  - See More In: artificial intelligence, banking, Banks, fraud, Insurance, News, PYMNTS News · Anthropic Fast-Tracks Next Generation of Coders Into Claude Ecosystem · Banks Shift AI From Chatbots to Autonomous Money Movement · Legora Targets $6 Billion Valuation as Law Firms Rush to AI · AI Agents ...
+  - [Source](https://www.pymnts.com/news/artificial-intelligence/2026/banks-shift-ai-from-chatbots-autonomous-money-movement)
 
-- **ai.com launches autonomous AI agents that act for users, not just chat - CoinJournal**
-  - Home Latest Cryptocurrency News ai.com launches autonomous AI agents that act for users, not just chat · ai.com lets users create a personal AI agent in about 60 seconds, with no coding required. Agents can execute tasks across apps and build new capabilities when needed. Improvements are shared across the network, boosting overall agent performance. The race to move artificial intelligence ...
-  - [Source](https://coinjournal.net/news/ai-com-launches-autonomous-ai-agents-that-act-for-users-not-just-chat/)
+- **The Rise of Artificial Intelligence From "Copilots" to "Teammates" - TechBullion**
+  - The most significant shift in 2026 is the transition from Generative Artificial Intelligence (which creates content) to Agentic AI (which executes tasks). Autonomous Workflows: Unlike the “chat-and-response” models of 2024, AI agents today can plan, reason, and execute multi-step projects ...
+  - [Source](https://techbullion.com/the-rise-of-artificial-intelligence-from-copilots-to-teammates/)
 
-- **Goldman Sachs Lets AI Agents Do Accounting and Compliance Work | PYMNTS.com**
-  - Goldman Sachs is deploying autonomous artificial intelligence (AI) agents built with Anthropic’s Claude model to automate core accounting, compliance and
-  - [Source](https://www.pymnts.com/artificial-intelligence-2/2026/goldman-sachs-lets-ai-agents-do-accounting-and-compliance-work/)
+### Notable Innovations
 
-- **ai.com debuts autonomous AI agents for mainstream consumer use — TradingView News**
-  - ai.com, a new artificial intelligence platform founded by Kris Marszalek, co-founder and CEO of Crypto.com, has announced the launch of its Autonomous AI agent offering for consumers.The platform allows users to create a private, personal AI agent in just a few clicks.
-  - [Source](https://www.tradingview.com/news/invezz:119e5416c094b:0-ai-com-debuts-autonomous-ai-agents-for-mainstream-consumer-use/)
+- **Adopting Agentic AI is a Priority for 87% of Security Teams, According to Ivanti's Research**
+  - /PRNewswire/ -- Ivanti, a global enterprise IT and security software company, announced the findings of its 2026 State of Cybersecurity Report: Bridging the...
+  - [Source](https://www.prnewswire.com/news-releases/adopting-agentic-ai-is-a-priority-for-87-of-security-teams-according-to-ivantis-research-302685530.html)
+
+- **AI and Bitcoin: The quiet scenario changing the game**
+  - The debate is growing on social ... artificial intelligences discovered the interest of bitcoin by themselves? This hypothesis, long relegated to the realm of science fiction, is gaining ground among experts. An unprecedented race could begin between humans and machines to control a resource that has become strategic. ... Autonomous AI agents might favor ...
+  - [Source](https://www.cointribune.com/en/ai-accelerates-bitcoin-adoption-faster-than-expected)
+
+- **Appier Delivers Record Results Driven by Agentic AI Innovation**
+  - /PRNewswire/ -- Highlights and achievements for fiscal year 2025 Delivered record high revenue of JPY 43.7 billion, up 28% YoY. (JPY 45.0 billion, up 32% YoY...
+  - [Source](https://www.prnewswire.com/apac/news-releases/appier-delivers-record-results-driven-by-agentic-ai-innovation-302687512.html)
 
 ### Market Trends
 
-- **Unchecked AI agents raise serious safety concerns: Sajjanar - Telangana Today**
-  - Hyderabad Police Commissioner VC ... or autonomous AI, warning that unchecked digital agents could endanger public safety, financial markets, and critical infrastructure. ... Hyderabad: City Police Commissioner VC Sajjanar has cautioned on the rapid rise of the ‘Agentic Artificial Intelligence,’ warning ...
-  - [Source](https://telanganatoday.com/unchecked-ai-agents-raise-serious-safety-concerns-sajjanar)
+- **Nebius To Acquire Tavily To Add Agentic Search**
+  - Nebius, a Nasdaq-listed AI cloud company, announced it has signed an agreement to acquire Tavily, positioning the deal as a move to embed real-time web search infrastructure directly into its AI cloud platform as enterprises accelerate adoption of autonomous, agentic systems.
+  - [Source](https://pulse2.com/nebius-to-acquire-tavily-to-add-agentic-search/)
+
+- **Nebius Acquires Tavily to Bolster Agentic AI Search Capabilities | PYMNTS.com**
+  - 10), is designed to combine real-time ... artificial intelligence (AI) cloud platform amid rapid enterprise adoption of agentic AI. “This acquisition advances Nebius’s strategy to build a unified platform where vertical AI companies and enterprises can build, tune, and run autonomous agents,” the company said in a news ...
+  - [Source](https://www.pymnts.com/acquisitions/2026/nebius-acquires-tavily-to-bolster-agentic-ai-search-capabilities/)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-02-16](./history/2026-02-16_news.md)
 - [News from 2026-02-09](./history/2026-02-09_news.md)
 - [News from 2026-02-02](./history/2026-02-02_news.md)
 - [News from 2026-01-26](./history/2026-01-26_news.md)
 - [News from 2026-01-19](./history/2026-01-19_news.md)
-- [News from 2026-01-12](./history/2026-01-12_news.md)
 
 
 ## Contributing
