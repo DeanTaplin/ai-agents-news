@@ -2,56 +2,72 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (February 16, 2026)
+## Latest Updates (February 23, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **State Department is gearing up to ‘roll out agentic AI’ | FedScoop**
-  - State Department CIO Kelly Fletcher, left, speaks during AI Talks in Washington, D.C., on April 18, 2024, while State CAIO Matthew Graviss looks on. (Scoop News Group photo) After successfully launching its own internal chatbot and normalizing the use of artificial intelligence tools for translation, summarization and other diplomatically beneficial uses, the State Department is eyeing the next step in its journey with the emerging technology. “We’re going to roll out agentic ...
-  - [Source](https://fedscoop.com/state-department-agentic-ai-statechat-chatbots)
+- **Amazon's Blundering AI Caused Multiple AWS Outages**
+  - At least two outages at Amazon Web Services occurred after one of the company's AI models made changes to code.
+  - [Source](https://futurism.com/artificial-intelligence/amazon-ai-aws-outages)
 
-- **Banks Shift AI From Chatbots to Autonomous Money Movement | PYMNTS.com**
-  - See More In: artificial intelligence, banking, Banks, fraud, Insurance, News, PYMNTS News · Anthropic Fast-Tracks Next Generation of Coders Into Claude Ecosystem · Banks Shift AI From Chatbots to Autonomous Money Movement · Legora Targets $6 Billion Valuation as Law Firms Rush to AI · AI Agents ...
-  - [Source](https://www.pymnts.com/news/artificial-intelligence/2026/banks-shift-ai-from-chatbots-autonomous-money-movement)
+- **Workshop launches Cici, an agentic AI assistant built for modern internal communications**
+  - Workshop, the intelligent and delightful internal communications platform, announced the launch of Cici, a new agentic AI assistant designed specifically for internal communicators.
+  - [Source](https://martechseries.com/predictive-ai/ai-platforms-machine-learning/workshop-launches-cici-an-agentic-ai-assistant-built-for-modern-internal-communications/)
 
-- **The Rise of Artificial Intelligence From "Copilots" to "Teammates" - TechBullion**
-  - The most significant shift in 2026 is the transition from Generative Artificial Intelligence (which creates content) to Agentic AI (which executes tasks). Autonomous Workflows: Unlike the “chat-and-response” models of 2024, AI agents today can plan, reason, and execute multi-step projects ...
-  - [Source](https://techbullion.com/the-rise-of-artificial-intelligence-from-copilots-to-teammates/)
+- **AI agents are fast, loose and out of control, MIT study finds | ZDNET**
+  - Agentic artificial intelligence is a branch of machine learning that has emerged in the past three years to enhance the capabilities of large language models and chatbots. Rather than simply being assigned a single task dictated by a text prompt, agents are AI programs that have been plugged into external resources, such as databases, and that have been granted a measure of "autonomy...
+  - [Source](https://www.zdnet.com/article/ai-agents-are-fast-loose-and-out-of-control-mit-study-find/)
+
+- **Anthropic shipped Claude Cowork with a known security flaw — then gave it to millions anyway**
+  - That’s the current state of agentic AI security. So here’s the tension Anthropic won’t resolve: Cowork is astonishingly effective at autonomous file work, but the same researchers praising its capability are warning that malicious documents “want computers.” Both things are true. And you have to decide which one matters more when you click “Allow folder access.” ... I write about artificial intelligence ...
+  - [Source](https://ucstrategies.com/news/anthropic-shipped-claude-cowork-with-a-known-security-flaw-then-gave-it-to-millions-anyway/)
 
 ### Notable Innovations
 
-- **Adopting Agentic AI is a Priority for 87% of Security Teams, According to Ivanti's Research**
-  - /PRNewswire/ -- Ivanti, a global enterprise IT and security software company, announced the findings of its 2026 State of Cybersecurity Report: Bridging the...
-  - [Source](https://www.prnewswire.com/news-releases/adopting-agentic-ai-is-a-priority-for-87-of-security-teams-according-to-ivantis-research-302685530.html)
+- **NIST agentic AI initiative looks to get handle on security | Federal News Network**
+  - Justin Doubleday covers cybersecurity, homeland security and the intelligence community for Federal News Network. ... Agentic AI AI Action Plan All News Artificial Intelligence Center for AI Standards and Innovation Cybersecurity Michael Kratsios National Institute of Standards and Technology ...
+  - [Source](https://federalnewsnetwork.com/cybersecurity/2026/02/nist-agentic-ai-initiative-looks-to-get-handle-on-security/)
 
-- **AI and Bitcoin: The quiet scenario changing the game**
-  - The debate is growing on social ... artificial intelligences discovered the interest of bitcoin by themselves? This hypothesis, long relegated to the realm of science fiction, is gaining ground among experts. An unprecedented race could begin between humans and machines to control a resource that has become strategic. ... Autonomous AI agents might favor ...
-  - [Source](https://www.cointribune.com/en/ai-accelerates-bitcoin-adoption-faster-than-expected)
+- **New Research Shows AI Agents Are Running Wild Online, With Few Guardrails in Place**
+  - In the last month, an open-source ... autonomous capabilities (and major security concerns). But we don’t really have a sense of the scale of AI agent operations, and whether all the talk is matched by actual deployment. The MIT Computer Science and Artificial Intelligence Laboratory ...
+  - [Source](https://gizmodo.com/new-research-shows-ai-agents-are-running-wild-online-with-few-guardrails-in-place-2000724181)
 
-- **Appier Delivers Record Results Driven by Agentic AI Innovation**
-  - /PRNewswire/ -- Highlights and achievements for fiscal year 2025 Delivered record high revenue of JPY 43.7 billion, up 28% YoY. (JPY 45.0 billion, up 32% YoY...
-  - [Source](https://www.prnewswire.com/apac/news-releases/appier-delivers-record-results-driven-by-agentic-ai-innovation-302687512.html)
+- **Multi-Agent Systems Move Business AI From Chatbot to Operations | PYMNTS.com**
+  - For all PYMNTS AI coverage, subscribe to the daily AI Newsletter. Multi-Agent Systems Move Business AI From Chatbot to Operations · Saks Global Pledges $600 Million to Vendors After Court Win · Consumer Spending Persists Despite Slower Income Gains · Ripple CEO Brad Garlinghouse Sees 90% Chance for Crypto Bill Breakthrough · See More In: artificial intelligence...
+  - [Source](https://pymnts.com/news/artificial-intelligence/2026/multi-agent-systems-move-business-ai-chatbot-operations)
+
+- **Etsy Looks to Agentic AI and Mobile to Restart Growth | PYMNTS.com**
+  - Etsy agreed to sell Depop to eBay for $1.2 billion in cash as it accelerates investment in AI-driven personalization and mobile discovery.
+  - [Source](https://www.pymnts.com/earnings/2026/etsy-sells-depop-pushes-ai-and-mobile-to-restart-growth/)
 
 ### Market Trends
 
-- **Nebius To Acquire Tavily To Add Agentic Search**
-  - Nebius, a Nasdaq-listed AI cloud company, announced it has signed an agreement to acquire Tavily, positioning the deal as a move to embed real-time web search infrastructure directly into its AI cloud platform as enterprises accelerate adoption of autonomous, agentic systems.
-  - [Source](https://pulse2.com/nebius-to-acquire-tavily-to-add-agentic-search/)
+- **US dominance of agentic AI at the heart of new NIST initiative | CSO Online**
+  - The standards body is soliciting industry views on agentic security risks while ‘cementing US dominance at the technological frontier.’
+  - [Source](https://www.csoonline.com/article/4134743/us-dominance-of-agentic-ai-at-the-heart-of-new-nist-initiative.html)
 
-- **Nebius Acquires Tavily to Bolster Agentic AI Search Capabilities | PYMNTS.com**
-  - 10), is designed to combine real-time ... artificial intelligence (AI) cloud platform amid rapid enterprise adoption of agentic AI. “This acquisition advances Nebius’s strategy to build a unified platform where vertical AI companies and enterprises can build, tune, and run autonomous agents,” the company said in a news ...
-  - [Source](https://www.pymnts.com/acquisitions/2026/nebius-acquires-tavily-to-bolster-agentic-ai-search-capabilities/)
+- **Agentic Commerce Shifts B2B Marketplaces From Intermediaries to Infrastructure | PYMNTS.com**
+  - For all PYMNTS B2B and AI coverage, subscribe to the daily B2B and AI Newsletters. Agentic Commerce Shifts B2B Marketplaces From Intermediaries to Infrastructure ... See More In: agentic commerce, artificial intelligence, B2B, B2B Payments, ecommerce, News, PYMNTS News, Retail
+  - [Source](https://www.pymnts.com/news/b2b-payments/2026/agentic-commerce-shifts-b2b-marketplaces-intermediaries-infrastructure/)
+
+- **Regulatory Concerns Temper Agentic AI Adoption Across the Tech Sector, PYMNTS Finds | PYMNTS.com**
+  - Regulatory Concerns Temper Agentic AI Adoption Across the Tech Sector, PYMNTS Finds · AI Cuts Booking Holdings Customer Service Costs 10% as Volumes Rise · Carvana’s Comeback Narrative Tested by Accounting Scrutiny, Profitability Metrics · See More In: artificial intelligence, Featured News, ...
+  - [Source](https://www.pymnts.com/news/artificial-intelligence/2026/regulatory-concerns-temper-agentic-ai-adoption-across-the-tech-sector-pymnts-finds/)
+
+- **AI agent invasion has people trying to pick winners | National | keybiscayneportal.com**
+  - An onslaught of artificial intelligence agents that handle tasks from writing code to dispensing tax advice has the tech world and financial markets scrambling to pick winners and shed losers.
+  - [Source](https://www.keybiscayneportal.com/news/national/ai-agent-invasion-has-people-trying-to-pick-winners/article_0fdcff8f-0acb-5356-ad03-f5f20b4ac8a2.html)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-02-23](./history/2026-02-23_news.md)
 - [News from 2026-02-16](./history/2026-02-16_news.md)
 - [News from 2026-02-09](./history/2026-02-09_news.md)
 - [News from 2026-02-02](./history/2026-02-02_news.md)
 - [News from 2026-01-26](./history/2026-01-26_news.md)
-- [News from 2026-01-19](./history/2026-01-19_news.md)
 
 
 ## Contributing
