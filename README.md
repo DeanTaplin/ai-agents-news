@@ -2,72 +2,64 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (February 23, 2026)
+## Latest Updates (March 02, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Amazon's Blundering AI Caused Multiple AWS Outages**
-  - At least two outages at Amazon Web Services occurred after one of the company's AI models made changes to code.
-  - [Source](https://futurism.com/artificial-intelligence/amazon-ai-aws-outages)
+- **Agentic AI and the rise of in silico team science in biomedical research | Nature Biotechnology**
+  - Agentic artificial intelligence (AI) systems are emerging as teams of intelligent computational experts capable of rivaling human performance in labor-intensive tasks, including literature review, hypothesis formulation, data analysis and model interpretation. These systems are poised to accelerate labor-intensive biomedical research by making autonomous ...
+  - [Source](https://www.nature.com/articles/s41587-026-03035-1)
 
-- **Workshop launches Cici, an agentic AI assistant built for modern internal communications**
-  - Workshop, the intelligent and delightful internal communications platform, announced the launch of Cici, a new agentic AI assistant designed specifically for internal communicators.
-  - [Source](https://martechseries.com/predictive-ai/ai-platforms-machine-learning/workshop-launches-cici-an-agentic-ai-assistant-built-for-modern-internal-communications/)
+- **NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models | NVIDIA Blog**
+  - New open source large telco model and NVIDIA Blueprints enable telecom operators to use their own data to train AI agents and build autonomous networks.
+  - [Source](https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/)
 
-- **AI agents are fast, loose and out of control, MIT study finds | ZDNET**
+- **AI agents are fast, loose, and out of control, MIT study finds | ZDNET**
   - Agentic artificial intelligence is a branch of machine learning that has emerged in the past three years to enhance the capabilities of large language models and chatbots. Rather than simply being assigned a single task dictated by a text prompt, agents are AI programs that have been plugged into external resources, such as databases, and that have been granted a measure of "autonomy...
-  - [Source](https://www.zdnet.com/article/ai-agents-are-fast-loose-and-out-of-control-mit-study-find/)
+  - [Source](https://zdnet.com/article/ai-agents-are-out-of-control-mit-study)
 
-- **Anthropic shipped Claude Cowork with a known security flaw — then gave it to millions anyway**
-  - That’s the current state of agentic AI security. So here’s the tension Anthropic won’t resolve: Cowork is astonishingly effective at autonomous file work, but the same researchers praising its capability are warning that malicious documents “want computers.” Both things are true. And you have to decide which one matters more when you click “Allow folder access.” ... I write about artificial intelligence ...
-  - [Source](https://ucstrategies.com/news/anthropic-shipped-claude-cowork-with-a-known-security-flaw-then-gave-it-to-millions-anyway/)
+- **Agentic AI Can Complete Whole Courses. Now What?**
+  - Three-plus years after the debut of ChatGPT sparked new academic integrity fears, artificial intelligence–enabled tools can do far more than write a student’s research paper. These days, autonomous AI agents can complete entire online courses—and it’s raising questions about the future ...
+  - [Source](https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/02/26/agentic-ai-can-complete-whole-courses-now)
+
+- **Alchemy Unveils Autonomous Infrastructure Access for AI Agents via x402 Standard**
+  - Alchemy has launched a new “agentic” gateway that allows artificial intelligence (AI) agents to independently purchase compute credits and access
+  - [Source](https://bitcoinethereumnews.com/tech/alchemy-unveils-autonomous-infrastructure-access-for-ai-agents-via-x402-standard/)
 
 ### Notable Innovations
 
-- **NIST agentic AI initiative looks to get handle on security | Federal News Network**
-  - Justin Doubleday covers cybersecurity, homeland security and the intelligence community for Federal News Network. ... Agentic AI AI Action Plan All News Artificial Intelligence Center for AI Standards and Innovation Cybersecurity Michael Kratsios National Institute of Standards and Technology ...
-  - [Source](https://federalnewsnetwork.com/cybersecurity/2026/02/nist-agentic-ai-initiative-looks-to-get-handle-on-security/)
-
-- **New Research Shows AI Agents Are Running Wild Online, With Few Guardrails in Place**
-  - In the last month, an open-source ... autonomous capabilities (and major security concerns). But we don’t really have a sense of the scale of AI agent operations, and whether all the talk is matched by actual deployment. The MIT Computer Science and Artificial Intelligence Laboratory ...
-  - [Source](https://gizmodo.com/new-research-shows-ai-agents-are-running-wild-online-with-few-guardrails-in-place-2000724181)
-
-- **Multi-Agent Systems Move Business AI From Chatbot to Operations | PYMNTS.com**
-  - For all PYMNTS AI coverage, subscribe to the daily AI Newsletter. Multi-Agent Systems Move Business AI From Chatbot to Operations · Saks Global Pledges $600 Million to Vendors After Court Win · Consumer Spending Persists Despite Slower Income Gains · Ripple CEO Brad Garlinghouse Sees 90% Chance for Crypto Bill Breakthrough · See More In: artificial intelligence...
-  - [Source](https://pymnts.com/news/artificial-intelligence/2026/multi-agent-systems-move-business-ai-chatbot-operations)
-
-- **Etsy Looks to Agentic AI and Mobile to Restart Growth | PYMNTS.com**
-  - Etsy agreed to sell Depop to eBay for $1.2 billion in cash as it accelerates investment in AI-driven personalization and mobile discovery.
-  - [Source](https://www.pymnts.com/earnings/2026/etsy-sells-depop-pushes-ai-and-mobile-to-restart-growth/)
+- **Agentic AI: Bridging the Widening Gap Between Ambition and Execution | AWS Executive in Residence Blog**
+  - AWS recently partnered with Harvard Business Review Analytic Services to understand the current state of agentic AI in organisations.1 The results were exciting and informative: While expectations are high, the path to value at scale has yet to be discovered.
+  - [Source](https://aws.amazon.com/blogs/enterprise-strategy/agentic-ai-bridging-the-widening-gap-between-ambition-and-execution/)
 
 ### Market Trends
 
-- **US dominance of agentic AI at the heart of new NIST initiative | CSO Online**
-  - The standards body is soliciting industry views on agentic security risks while ‘cementing US dominance at the technological frontier.’
-  - [Source](https://www.csoonline.com/article/4134743/us-dominance-of-agentic-ai-at-the-heart-of-new-nist-initiative.html)
+- **PubMatic Is All In On Agentic AI | AdExchanger**
+  - PubMatic says adoption of its AgenticOS, combined with strong CTV and mobile demand, set the stage for double digit growth in the second half of this year.
+  - [Source](https://www.adexchanger.com/programmatic/pubmatic-is-all-in-on-agentic-ai/)
 
-- **Agentic Commerce Shifts B2B Marketplaces From Intermediaries to Infrastructure | PYMNTS.com**
-  - For all PYMNTS B2B and AI coverage, subscribe to the daily B2B and AI Newsletters. Agentic Commerce Shifts B2B Marketplaces From Intermediaries to Infrastructure ... See More In: agentic commerce, artificial intelligence, B2B, B2B Payments, ecommerce, News, PYMNTS News, Retail
-  - [Source](https://www.pymnts.com/news/b2b-payments/2026/agentic-commerce-shifts-b2b-marketplaces-intermediaries-infrastructure/)
+- **Agentic AI in Investment Banking: How Autonomous Intelligence Is Redefining High-Stakes Finance | The AI Journal**
+  - Artificial intelligence has already transformed marketing, healthcare, manufacturing, and retail. But one of the most fascinating, and high-impact,
+  - [Source](https://aijourn.com/agentic-ai-in-investment-banking-how-autonomous-intelligence-is-redefining-high-stakes-finance/)
 
-- **Regulatory Concerns Temper Agentic AI Adoption Across the Tech Sector, PYMNTS Finds | PYMNTS.com**
-  - Regulatory Concerns Temper Agentic AI Adoption Across the Tech Sector, PYMNTS Finds · AI Cuts Booking Holdings Customer Service Costs 10% as Volumes Rise · Carvana’s Comeback Narrative Tested by Accounting Scrutiny, Profitability Metrics · See More In: artificial intelligence, Featured News, ...
-  - [Source](https://www.pymnts.com/news/artificial-intelligence/2026/regulatory-concerns-temper-agentic-ai-adoption-across-the-tech-sector-pymnts-finds/)
+- **Nokia and AWS showcase industry-first agentic AI-powered network slicing with du and Orange #MWC26**
+  - The end-to-end advanced network ... Bedrock Artificial Intelligence platform. The integrated solution uses agentic AI to coordinate data analytics, inferencing, and RAN policies. These AI agents leverage open internet data—including events, timetables, incidents, traffic, locations, maps, and weather—for different network slicing use cases. The agentic AI modules operate in multiple modes: chatbot, on-demand, scheduled, and autonomous...
+  - [Source](https://www.nokia.com/newsroom/nokia-and-aws-showcase-industry-first-agentic-ai-powered-network-slicing-with-du-and-orange/)
 
-- **AI agent invasion has people trying to pick winners | National | keybiscayneportal.com**
-  - An onslaught of artificial intelligence agents that handle tasks from writing code to dispensing tax advice has the tech world and financial markets scrambling to pick winners and shed losers.
-  - [Source](https://www.keybiscayneportal.com/news/national/ai-agent-invasion-has-people-trying-to-pick-winners/article_0fdcff8f-0acb-5356-ad03-f5f20b4ac8a2.html)
+- **Everyone wants AI agents. Here’s the gap holding businesses back from deployment.**
+  - Agentic AI, the “digital coworker,” is trending. A tech advisor shares practical tips for using it effectively in your business.
+  - [Source](https://technical.ly/workforce/how-to-agentic-ai-guest-post/)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-03-02](./history/2026-03-02_news.md)
 - [News from 2026-02-23](./history/2026-02-23_news.md)
 - [News from 2026-02-16](./history/2026-02-16_news.md)
 - [News from 2026-02-09](./history/2026-02-09_news.md)
 - [News from 2026-02-02](./history/2026-02-02_news.md)
-- [News from 2026-01-26](./history/2026-01-26_news.md)
 
 
 ## Contributing
