@@ -2,72 +2,72 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (March 09, 2026)
+## Latest Updates (March 16, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **'Agents of Chaos': Autonomous Artificial Intelligence Can Leak Data, Delete Files, Study Finds**
-  - Agents leaked sensitive data, erased files, repeated loops, and followed unauthorized user commands · Did our AI summary help? Let us know. ... A new study has revealed that the large language models (LLMs) can behave unpredictably when given autonomous access to digital tools. Researchers placed AI (artificial intelligence...
-  - [Source](https://www.ndtv.com/world-news/agents-of-chaos-autonomous-artificial-intelligence-can-leak-data-delete-files-study-finds-11180559)
+- **Goldman: Software giants face ‘radical transformation’ as agentic AI rises**
+  - Investing.com -- The software sector, ... a significant challenge as "agentic" artificial intelligence tools threaten to disrupt established business models. According to a new Goldman Sachs "Top of Mind" report, the rise of AI capable of autonomous software development has fueled ...
+  - [Source](https://finance.yahoo.com/news/goldman-software-giants-face-radical-101354280.html)
 
-- **Teramind launches agentic AI visibility and policy platform for AI tools - SiliconANGLE**
-  - Workforce intelligence and user behavior analytics leader Teramind Inc. today announced the launch of its AI Governance platform, a platform that provides behavioral oversight to artificial intelligence agents and tools for workforces.
-  - [Source](https://siliconangle.com/2026/03/03/teramind-launches-agentic-ai-visibility-policy-platform-ai-tools/)
+- **Appier Releases Whitepaper on the Future of Autonomous Marketing with Agentic AI**
+  - /PRNewswire/ -- Appier, an AI-native AaaS (Agentic AI as a Service) company, today announced the release of its latest whitepaper, "The Future of Autonomous...
+  - [Source](https://www.prnewswire.com/apac/news-releases/appier-releases-whitepaper-on-the-future-of-autonomous-marketing-with-agentic-ai-302713258.html)
 
-- **Agentic Payments: When Artificial Intelligence Begins to Spend on Your Behalf - The420.in**
-  - As artificial intelligence systems gain the ability to make financial decisions autonomously, companies are beginning to explore “agentic payments” — a model in which AI agents can initiate and complete transactions without direct human intervention. While the concept promises efficiency ...
-  - [Source](https://the420.in/ai-agentic-payments-autonomous-transactions-digital-commerce-security-risks/)
+- **Alibaba Debuts OpenClaw App to Feed China’s Agentic AI Addiction - Bloomberg**
+  - Alibaba Group Holding Ltd. launched a dedicated mobile app claiming to help users install and deploy OpenClaw within minutes, stepping up a battle between China’s tech leaders to profit off the viral agentic AI assistant.
+  - [Source](https://www.bloomberg.com/news/articles/2026-03-13/alibaba-debuts-openclaw-app-to-feed-china-s-agentic-ai-addiction)
 
-- **Why Navigating Agentic AI Adoption Is Now a Decision Leadership Test for CIOs - The National CIO Review**
-  - For agentic AI systems, technology only amplifies the decision model already in place. Bad decisions scale faster than ever. That’s why governance must be intentional, not accidental. Modern CIOs must deliberately define boundaries for autonomous action, and they must align those boundaries ...
-  - [Source](https://nationalcioreview.com/articles-insights/why-navigating-agentic-ai-adoption-is-now-a-decision-leadership-test-for-cios/)
+- **Alibaba Rolls Out JVS Claw App to Power Agentic AI in China**
+  - Alibaba is strengthening its push into agentic artificial intelligence. The Chinese tech giant has recently launched JVS Claw. This mobile application is designed to help users quickly deploy and operate the open-source AI agent platform OpenClaw. This move has established Alibaba’s effort to make autonomous ...
+  - [Source](https://www.analyticsinsight.net/artificial-intelligence/alibaba-rolls-out-jvs-claw-app-to-power-agentic-ai-in-china)
+
+- **Agentic AI and the Death of SaaS - RTInsights**
+  - Domain-specific LLMs are how businesses move from AI curiosity to AI utility where outcomes are measurable, adoption actually sticks, and teams trust what the model tells them. ... Artificial intelligence technologies Engineering the Agentic Enterprise: Building Smarter, Adaptive, Autonomous Systems
+  - [Source](https://www.rtinsights.com/agentic-ai-and-the-death-of-saas/)
 
 ### Notable Innovations
 
-- **The train has left the station: Agentic AI and the future of social science research | Brookings**
-  - A new era of agentic AI agents has begun. What does it mean for social scientists? Solomon Messing and Joshua Tucker discuss.
-  - [Source](https://www.brookings.edu/articles/the-train-has-left-the-station-agentic-ai-and-the-future-of-social-science-research/)
+- **Operationalizing Agentic AI Part 1: A Stakeholder’s Guide | Artificial Intelligence**
+  - The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In this post, we share guidance for leaders across the C-suite: CTOs, CISOs, CDOs, and Chief Data Science/AI officers, as well as business owners ...
+  - [Source](https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/)
 
-- **How agentic AI is shifting the digital shopping landscape | CX Dive**
-  - Agentic AI is throwing a wrench into the brand-customer relationship, as customers increasingly seek out third-party AI tools to research brands and services and shop.
-  - [Source](https://www.customerexperiencedive.com/news/how-agentic-ai-shifts-digital-shopping-experience/813983/)
+- **‘Exploit every vulnerability’: rogue AI agents published passwords and overrode anti-virus software | AI (artificial intelligence) | The Guardian**
+  - The rogue AI agents appeared to act together to smuggle sensitive information out of supposedly secure cyber-systems. Illustration: Andrey Kryuchkov/Alamy ... Exclusive: Lab tests discover ‘new form of insider risk’ with artificial intelligence agents engaging in autonomous, even ...
+  - [Source](https://www.theguardian.com/technology/ng-interactive/2026/mar/12/lab-test-mounting-concern-over-rogue-ai-agents-artificial-intelligence)
 
-- **Agentic Research Assistants: Architecture, Workflow, And Strategic Impact**
-  - Agentic research assistants are autonomous AI systems that plan, execute, and refine research tasks. Learn how they work, their architecture, risks, and real-world applications.
-  - [Source](https://aicompetence.org/agentic-research-assistants/)
+- **These Autonomous AI Agents Quickly Became Agents of Chaos**
+  - A group of 20 researchers at ... AI agents were easily manipulated into divulging private information. Photo by Matthew Modoono/Northeastern University ... Copy Link Link Copied! ... When a group of researchers at Northeastern University’s Bau Lab began toying with a new kind of autonomous artificial intelligence “agent,” ...
+  - [Source](https://news.northeastern.edu/2026/03/09/autonomous-ai-agents-of-chaos/)
+
+- **From Intelligent Agents to Adaptive A*: Exploring Modern AI Research - DEV Community**
+  - Introduction Artificial Intelligence is rapidly evolving, especially in the fields of intelligent...
+  - [Source](https://dev.to/tanveer_ulhaq_4fa69e6afba/from-intelligent-agents-to-adaptive-a-exploring-modern-ai-research-29d7)
 
 ### Market Trends
 
-- **FinancialContent - Blue-Chip Resilience: Salesforce and IBM Outpace High-Growth Rivals as Market Pivot Prioritizes Profitability**
-  - As the broader Nasdaq Composite ... artificial intelligence (AI) strategies. The rally comes at a critical juncture for the market. While high-flying software-as-a-service (SaaS) names have seen their multiples compressed by nearly 30% since the start of the year, Salesforce and IBM are finding favor by positioning themselves as the "adults in the room." By leveraging their massive enterprise footprints to deploy autonomous AI agents, both companies ...
-  - [Source](https://markets.financialcontent.com/stocks/article/marketminute-2026-3-6-blue-chip-resilience-salesforce-and-ibm-outpace-high-growth-rivals-as-market-pivot-prioritizes-profitability)
+- **OpenClaw Frenzy Drives China’s Agentic AI Adoption, Raises Security Concerns - Bloomberg**
+  - The wave of excitement may catapult the country to the forefront of the technology as US companies struggle to gain traction among users.
+  - [Source](https://www.bloomberg.com/news/articles/2026-03-12/openclaw-frenzy-drives-china-s-agentic-ai-adoption-raises-security-concerns)
 
-- **BMO says this cloud stock is an early winner of agentic artificial intelligence boom**
-  - BMO Capital Markets sees shares of Okta rising 22% from here.
-  - [Source](https://www.cnbc.com/2026/03/06/bmo-sees-okta-as-an-early-winner-of-agentic-artificial-intelligence-boom.html)
+- **The AI-Driven Decision Ecosystem | 1BusinessWorld**
+  - Categories: 1ArtificialIntelligence, ... Trends, Artificial Intelligence News ... The AI-Driven Decision Ecosystem (3/14/2026) - The AI-Driven Decision Ecosystem The global business landscape has crossed… Read more... The Great AI ROI Reckoning: What Separates the 5% of Enterprises Achieving Transformational Returns from the 95% That Don’t (3/14/2026) - The Great AI ROI Reckoning: What Separates the 5% of… Read more... Agentic AI 2026: How Autonomous Agents Are ...
+  - [Source](https://1businessworld.com/2026/03/1artificialintelligence/the-ai-driven-decision-ecosystem/)
 
-- **ArmorCode Raises $16 Million to Expand Agentic AI Platform**
-  - ArmorCode raises $16M funding to expand Agentic AI platform, enhance AI risk management, and support global enterprise growth.
-  - [Source](https://ventureburn.com/armorcode-raises-16m-agentic-ai/)
-
-- **Why AI agents could become the most widely adopted enterprise AI solution in 2026**
-  - AI agents are emerging as the next major phase of enterprise AI adoption, enabling autonomous decision-making, workflow automation, and deep integration with business systems.
-  - [Source](https://roboticsandautomationnews.com/2026/03/06/what-will-be-the-most-widely-adopted-ai-solution-in-2026/99304)
-
-- **Stablecoin Companies Target AI Agent Payment Market**
-  - Several cryptocurrency and fintech ... transact autonomously, even though the technology enabling such machine-to-machine commerce is still largely theoretical. According to a Bloomberg report, companies including Circle and Stripe are building payment systems aimed at a future where AI agents rather than humans handle transactions online. The idea is tied to the emerging concept of agentic commerce, where artificial intelligence programs can ...
-  - [Source](https://www.techbooky.com/stablecoin-companies-target-ai-agent-payment-market/)
+- **NVIDIA’s Nemotron 3 Super May Serve as the Catalyst for Rapid Growth in Agentic AI Adoption | Bitget News**
+  - Nemotron 3 Super: Pioneering the Next Wave of Agentic AINemotron 3 Super signals NVIDIA’s strategic commitment to advancing agentic artificial intelligence | Bitget crypto news!
+  - [Source](https://www.bitget.com/news/detail/12560605266334)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-03-16](./history/2026-03-16_news.md)
 - [News from 2026-03-09](./history/2026-03-09_news.md)
 - [News from 2026-03-02](./history/2026-03-02_news.md)
 - [News from 2026-02-23](./history/2026-02-23_news.md)
 - [News from 2026-02-16](./history/2026-02-16_news.md)
-- [News from 2026-02-09](./history/2026-02-09_news.md)
 
 
 ## Contributing
