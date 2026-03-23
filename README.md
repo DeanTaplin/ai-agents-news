@@ -2,72 +2,60 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (March 16, 2026)
+## Latest Updates (March 23, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Goldman: Software giants face ‘radical transformation’ as agentic AI rises**
-  - Investing.com -- The software sector, ... a significant challenge as "agentic" artificial intelligence tools threaten to disrupt established business models. According to a new Goldman Sachs "Top of Mind" report, the rise of AI capable of autonomous software development has fueled ...
-  - [Source](https://finance.yahoo.com/news/goldman-software-giants-face-radical-101354280.html)
+- **Meet GitAgent: The Docker for AI Agents that is Finally Solving the Fragmentation between LangChain, AutoGen, and Claude Code - MarkTechPost**
+  - Meet GitAgent: The Docker for AI Agents that is Finally Solving the Fragmentation between LangChain, AutoGen, and Claude Code
+  - [Source](https://www.marktechpost.com/2026/03/22/meet-gitagent-the-docker-for-ai-agents-that-is-finally-solving-the-fragmentation-between-langchain-autogen-and-claude-code/)
 
-- **Appier Releases Whitepaper on the Future of Autonomous Marketing with Agentic AI**
-  - /PRNewswire/ -- Appier, an AI-native AaaS (Agentic AI as a Service) company, today announced the release of its latest whitepaper, "The Future of Autonomous...
-  - [Source](https://www.prnewswire.com/apac/news-releases/appier-releases-whitepaper-on-the-future-of-autonomous-marketing-with-agentic-ai-302713258.html)
+- **Okta Unveils 'Okta for AI Agents,' Sets April 30 Launch - San Francisco Today**
+  - Okta used its Showcase event to announce the general availability of its new 'Okta for AI Agents' product on April 30, while also outlining a blueprint for securing 'agentic' AI systems. CEO Todd McKinnon framed the shift toward autonomous AI agents as a broad technology transformation that ...
+  - [Source](https://nationaltoday.com/us/ca/san-francisco/news/2026/03/22/okta-unveils-okta-for-ai-agents-sets-april-30-launch/)
 
-- **Alibaba Debuts OpenClaw App to Feed China’s Agentic AI Addiction - Bloomberg**
-  - Alibaba Group Holding Ltd. launched a dedicated mobile app claiming to help users install and deploy OpenClaw within minutes, stepping up a battle between China’s tech leaders to profit off the viral agentic AI assistant.
-  - [Source](https://www.bloomberg.com/news/articles/2026-03-13/alibaba-debuts-openclaw-app-to-feed-china-s-agentic-ai-addiction)
-
-- **Alibaba Rolls Out JVS Claw App to Power Agentic AI in China**
-  - Alibaba is strengthening its push into agentic artificial intelligence. The Chinese tech giant has recently launched JVS Claw. This mobile application is designed to help users quickly deploy and operate the open-source AI agent platform OpenClaw. This move has established Alibaba’s effort to make autonomous ...
-  - [Source](https://www.analyticsinsight.net/artificial-intelligence/alibaba-rolls-out-jvs-claw-app-to-power-agentic-ai-in-china)
-
-- **Agentic AI and the Death of SaaS - RTInsights**
-  - Domain-specific LLMs are how businesses move from AI curiosity to AI utility where outcomes are measurable, adoption actually sticks, and teams trust what the model tells them. ... Artificial intelligence technologies Engineering the Agentic Enterprise: Building Smarter, Adaptive, Autonomous Systems
-  - [Source](https://www.rtinsights.com/agentic-ai-and-the-death-of-saas/)
+- **Alibaba launches agentic AI tool for businesses with Slack, Teams integration plans**
+  - AI tokens refer to units of data or value used within AI systems, including inputs, outputs or usage tied to computing. In an internal memo published Monday on Alizila, the company's news portal, Wu described the changes as a "historic opportunity" as the company stands at the "threshold of an [artificial general intelligence] inflection point." The shakeup also follows the departure of key personnel involved in developing Alibaba's popular agentic ...
+  - [Source](https://www.cnbc.com/2026/03/17/alibaba-wukong-ai-enterprise-tool-restructuring-qwen-exits.html)
 
 ### Notable Innovations
 
-- **Operationalizing Agentic AI Part 1: A Stakeholder’s Guide | Artificial Intelligence**
-  - The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In this post, we share guidance for leaders across the C-suite: CTOs, CISOs, CDOs, and Chief Data Science/AI officers, as well as business owners ...
-  - [Source](https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/)
-
-- **‘Exploit every vulnerability’: rogue AI agents published passwords and overrode anti-virus software | AI (artificial intelligence) | The Guardian**
-  - The rogue AI agents appeared to act together to smuggle sensitive information out of supposedly secure cyber-systems. Illustration: Andrey Kryuchkov/Alamy ... Exclusive: Lab tests discover ‘new form of insider risk’ with artificial intelligence agents engaging in autonomous, even ...
-  - [Source](https://www.theguardian.com/technology/ng-interactive/2026/mar/12/lab-test-mounting-concern-over-rogue-ai-agents-artificial-intelligence)
-
-- **These Autonomous AI Agents Quickly Became Agents of Chaos**
-  - A group of 20 researchers at ... AI agents were easily manipulated into divulging private information. Photo by Matthew Modoono/Northeastern University ... Copy Link Link Copied! ... When a group of researchers at Northeastern University’s Bau Lab began toying with a new kind of autonomous artificial intelligence “agent,” ...
-  - [Source](https://news.northeastern.edu/2026/03/09/autonomous-ai-agents-of-chaos/)
-
-- **From Intelligent Agents to Adaptive A*: Exploring Modern AI Research - DEV Community**
-  - Introduction Artificial Intelligence is rapidly evolving, especially in the fields of intelligent...
-  - [Source](https://dev.to/tanveer_ulhaq_4fa69e6afba/from-intelligent-agents-to-adaptive-a-exploring-modern-ai-research-29d7)
+- **Secure agentic AI end-to-end | Microsoft Security Blog**
+  - Discover how to secure agentic AI and protect against threats with new capabilities across Microsoft Agent 365, Microsoft Entra, Microsoft Defender, and more.
+  - [Source](https://www.microsoft.com/en-us/security/blog/2026/03/20/secure-agentic-ai-end-to-end/)
 
 ### Market Trends
 
-- **OpenClaw Frenzy Drives China’s Agentic AI Adoption, Raises Security Concerns - Bloomberg**
-  - The wave of excitement may catapult the country to the forefront of the technology as US companies struggle to gain traction among users.
-  - [Source](https://www.bloomberg.com/news/articles/2026-03-12/openclaw-frenzy-drives-china-s-agentic-ai-adoption-raises-security-concerns)
+- **Nutanix Unveils Nutanix Agentic AI, Full Stack Software Solution for Enterprise AI Factories - BigDATAwire**
+  - SAN JOSE, Calif., March 20, 2026 — Nutanix has announced the Nutanix Agentic AI solution, a full software stack purpose built to help customers accelerate adoption of Agentic AI for […]
+  - [Source](https://www.hpcwire.com/bigdatawire/this-just-in/nutanix-unveils-nutanix-agentic-ai-full-stack-software-solution-for-enterprise-ai-factories/)
 
-- **The AI-Driven Decision Ecosystem | 1BusinessWorld**
-  - Categories: 1ArtificialIntelligence, ... Trends, Artificial Intelligence News ... The AI-Driven Decision Ecosystem (3/14/2026) - The AI-Driven Decision Ecosystem The global business landscape has crossed… Read more... The Great AI ROI Reckoning: What Separates the 5% of Enterprises Achieving Transformational Returns from the 95% That Don’t (3/14/2026) - The Great AI ROI Reckoning: What Separates the 5% of… Read more... Agentic AI 2026: How Autonomous Agents Are ...
-  - [Source](https://1businessworld.com/2026/03/1artificialintelligence/the-ai-driven-decision-ecosystem/)
+- **0G Positions as the Blockchain for AI Agents as Industry Moves Toward $1 Trillion Agentic AI Economy - San Francisco Today**
+  - As the AI industry converges on autonomous agents as the next major computing paradigm, 0G (Zero Gravity) is staking its position as the blockchain purpose-built for AI agents. 0G's Aristotle Mainnet provides the three key capabilities every autonomous AI agent needs to operate independently: ...
+  - [Source](https://nationaltoday.com/us/ca/san-francisco/news/2026/03/21/0g-positions-as-the-blockchain-for-ai-agents-as-industry-moves-toward-1-trillion-agentic-ai-economy/)
 
-- **NVIDIA’s Nemotron 3 Super May Serve as the Catalyst for Rapid Growth in Agentic AI Adoption | Bitget News**
-  - Nemotron 3 Super: Pioneering the Next Wave of Agentic AINemotron 3 Super signals NVIDIA’s strategic commitment to advancing agentic artificial intelligence | Bitget crypto news!
-  - [Source](https://www.bitget.com/news/detail/12560605266334)
+- **Prediction: The Agentic AI Market Could Grow 10X by 2030. This Stock Is Leading the Charge. | The Motley Fool**
+  - You don't have to look too hard to find an early winner in the AI agent market.
+  - [Source](https://www.fool.com/investing/2026/03/19/prediction-the-agentic-ai-market-could-grow-10x-by/)
+
+- **Autonomous AI adoption is on the rise, but it’s risky | CIO**
+  - Autonomous agentic AI can bring new efficiencies, but concerns about security and consistent outputs aren’t yet resolved.
+  - [Source](https://cio.com/article/4146658/autonomous-ai-adoption-is-on-the-rise-but-its-risky.html)
+
+- **The multi-billion dollar market is exploding: What "Agentic AI" is and why waiting is no longer an option**
+  - The multi-billion dollar market is exploding: What “Agentic AI” is and why waiting is no longer an option – Image: Xpert.Digital · The silent revolution that nobody saw coming – and that is now changing everything · Artificial intelligence is currently undergoing a radical transformation that will forever change the foundations of modern business management: away from passive chatbots and towards autonomous ...
+  - [Source](https://xpert.digital/en/the-multi-billion-dollar-market-is-exploding)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-03-23](./history/2026-03-23_news.md)
 - [News from 2026-03-16](./history/2026-03-16_news.md)
 - [News from 2026-03-09](./history/2026-03-09_news.md)
 - [News from 2026-03-02](./history/2026-03-02_news.md)
 - [News from 2026-02-23](./history/2026-02-23_news.md)
-- [News from 2026-02-16](./history/2026-02-16_news.md)
 
 
 ## Contributing
