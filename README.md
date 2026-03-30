@@ -2,60 +2,64 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (March 23, 2026)
+## Latest Updates (March 30, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Meet GitAgent: The Docker for AI Agents that is Finally Solving the Fragmentation between LangChain, AutoGen, and Claude Code - MarkTechPost**
-  - Meet GitAgent: The Docker for AI Agents that is Finally Solving the Fragmentation between LangChain, AutoGen, and Claude Code
-  - [Source](https://www.marktechpost.com/2026/03/22/meet-gitagent-the-docker-for-ai-agents-that-is-finally-solving-the-fragmentation-between-langchain-autogen-and-claude-code/)
+- **This Week In Generative AI: $7T Impact & Growth**
+  - The primary events that currently shape artificial intelligence development during this week include major product releases and worldwide policy dialogues. This week experienced its most significant development through the emergence of agentic AI systems which developed their own capacity to perform autonomous ...
+  - [Source](https://bostoninstituteofanalytics.org/blog/this-week-in-generative-ai-21st-27th-march-2026-7-trillion-impact-explosive-growth-trends/)
 
-- **Okta Unveils 'Okta for AI Agents,' Sets April 30 Launch - San Francisco Today**
-  - Okta used its Showcase event to announce the general availability of its new 'Okta for AI Agents' product on April 30, while also outlining a blueprint for securing 'agentic' AI systems. CEO Todd McKinnon framed the shift toward autonomous AI agents as a broad technology transformation that ...
-  - [Source](https://nationaltoday.com/us/ca/san-francisco/news/2026/03/22/okta-unveils-okta-for-ai-agents-sets-april-30-launch/)
+- **Alibaba launches latest agentic AI platform with international unit's Accio Work | Reuters**
+  - Alibaba has ​pushed further into the global race for agentic artificial intelligence, with its ‌international commerce division launching Accio Work, a plug‑and‑play “AI taskforce” it says can autonomously run complex business operations for small and medium-sized enterprises.
+  - [Source](https://www.reuters.com/business/finance/alibaba-launches-latest-agentic-ai-platform-with-international-units-accio-work-2026-03-23/)
 
-- **Alibaba launches agentic AI tool for businesses with Slack, Teams integration plans**
-  - AI tokens refer to units of data or value used within AI systems, including inputs, outputs or usage tied to computing. In an internal memo published Monday on Alizila, the company's news portal, Wu described the changes as a "historic opportunity" as the company stands at the "threshold of an [artificial general intelligence] inflection point." The shakeup also follows the departure of key personnel involved in developing Alibaba's popular agentic ...
-  - [Source](https://www.cnbc.com/2026/03/17/alibaba-wukong-ai-enterprise-tool-restructuring-qwen-exits.html)
+- **I Tried 20+ CrewAI Courses: Here Are My Top 5 Recommendations for 2026 | Java Prorgram Examples**
+  - Hello guys, Artificial Intelligence is evolving faster than ever — and we’re now entering the era of Agentic AI. Instead of static chatbots or single-task models, AI agents can now reason, collaborate, and execute complex tasks autonomously.
+  - [Source](https://javarevisited.wordpress.com/2026/03/28/i-tried-20-crewai-courses-here-are-my-top-5-recommendations-for-2026/)
+
+- **Is Palo Alto Networks Setting the New Security Baseline for Agentic AI?**
+  - Palo Alto Networks launches new security products for agentic AI, setting enterprise standards for securing autonomous AI agents and complex workflows.
+  - [Source](https://futurumgroup.com/insights/agentic-ai-7/)
+
+- **Cisco goes all in on agentic AI security | Network World**
+  - New offerings include DefenseClaw, an open-source agent framework designed to automate security and inventory, and AI Defense: Explorer Edition, which provides self-service tools for developers to test model and application resilience.
+  - [Source](https://www.networkworld.com/article/4148823/cisco-goes-all-in-on-agentic-ai-security.html)
 
 ### Notable Innovations
 
-- **Secure agentic AI end-to-end | Microsoft Security Blog**
-  - Discover how to secure agentic AI and protect against threats with new capabilities across Microsoft Agent 365, Microsoft Entra, Microsoft Defender, and more.
-  - [Source](https://www.microsoft.com/en-us/security/blog/2026/03/20/secure-agentic-ai-end-to-end/)
+- **Agentic AI: risk versus opportunity - News**
+  - Also increasingly popular is agentic ... that are autonomous and self-directed, working proactively to make decisions and act unprompted. These AI agents may have a lot to offer, but the question people often ask is, “At what cost?” · On her latest research, Dr. Xiahua Wei’s explores the risks and opportunities of agentic AI. Wei first became interested in artificial intelligence as a college ...
+  - [Source](https://www.uwb.edu/news/2026/03/27/agentic-ai-risk-versus-opportunity)
+
+- **Agentic AI 2026: From Assistants to High-Productivity Digital Peers**
+  - Discover how autonomous agents go beyond Q&A to solve complex tasks, amplifying employee productivity through strategic human-in-the-loop collaboration.
+  - [Source](https://sdggroup.com/en/insights/blog/agentic-ai-2026-from-assistants-to-high-productivity-digital-peers)
+
+- **Agentic AI Tools Market 2026 enabling autonomous enterprise ecosystems, reaching $94.90 billion**
+  - The Business Research Company's Agentic AI Tools Market Report 2026 – Market Size, Trends, And Global Forecast 2026-2035
+  - [Source](https://www.einpresswire.com/article/901598758/agentic-ai-tools-market-2026-enabling-autonomous-enterprise-ecosystems-reaching-94-90-billion)
 
 ### Market Trends
 
-- **Nutanix Unveils Nutanix Agentic AI, Full Stack Software Solution for Enterprise AI Factories - BigDATAwire**
-  - SAN JOSE, Calif., March 20, 2026 — Nutanix has announced the Nutanix Agentic AI solution, a full software stack purpose built to help customers accelerate adoption of Agentic AI for […]
-  - [Source](https://www.hpcwire.com/bigdatawire/this-just-in/nutanix-unveils-nutanix-agentic-ai-full-stack-software-solution-for-enterprise-ai-factories/)
+- **In the AI industry, ‘agentic’ takes on a life of its own | CNN**
+  - Instead of merely automating a task, “agentic” AI automates an entire process, with minimal intervention by the user. But as CNN explores in “Word of the Week,” the term “agentic” has multiple meanings.
+  - [Source](https://www.cnn.com/2026/03/25/us/word-of-week-agentic-ai-cec)
 
-- **0G Positions as the Blockchain for AI Agents as Industry Moves Toward $1 Trillion Agentic AI Economy - San Francisco Today**
-  - As the AI industry converges on autonomous agents as the next major computing paradigm, 0G (Zero Gravity) is staking its position as the blockchain purpose-built for AI agents. 0G's Aristotle Mainnet provides the three key capabilities every autonomous AI agent needs to operate independently: ...
-  - [Source](https://nationaltoday.com/us/ca/san-francisco/news/2026/03/21/0g-positions-as-the-blockchain-for-ai-agents-as-industry-moves-toward-1-trillion-agentic-ai-economy/)
-
-- **Prediction: The Agentic AI Market Could Grow 10X by 2030. This Stock Is Leading the Charge. | The Motley Fool**
-  - You don't have to look too hard to find an early winner in the AI agent market.
-  - [Source](https://www.fool.com/investing/2026/03/19/prediction-the-agentic-ai-market-could-grow-10x-by/)
-
-- **Autonomous AI adoption is on the rise, but it’s risky | CIO**
-  - Autonomous agentic AI can bring new efficiencies, but concerns about security and consistent outputs aren’t yet resolved.
-  - [Source](https://cio.com/article/4146658/autonomous-ai-adoption-is-on-the-rise-but-its-risky.html)
-
-- **The multi-billion dollar market is exploding: What "Agentic AI" is and why waiting is no longer an option**
-  - The multi-billion dollar market is exploding: What “Agentic AI” is and why waiting is no longer an option – Image: Xpert.Digital · The silent revolution that nobody saw coming – and that is now changing everything · Artificial intelligence is currently undergoing a radical transformation that will forever change the foundations of modern business management: away from passive chatbots and towards autonomous ...
-  - [Source](https://xpert.digital/en/the-multi-billion-dollar-market-is-exploding)
+- **Agentic AI Integrated Systems Market to Reach USD 47.2 Billion by 2035 as Autonomous AI Agents & Cloud-Native Platforms Accelerate Enterprise Adoption**
+  - Wilmington, DE, USA, 27th March ... evolving artificial intelligence ecosystem. The global agentic AI integrated systems market is valued at USD 3.1 billion in 2025 and is projected to reach USD 47.2 billion by 2035, expanding at a CAGR of 31.2% during the forecast period. Growth is driven by the increasing complexity of business operations, rising demand for autonomous decision-making, ...
+  - [Source](https://www.openpr.com/news/4443635/agentic-ai-integrated-systems-market-to-reach-usd-47-2-billion)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-03-30](./history/2026-03-30_news.md)
 - [News from 2026-03-23](./history/2026-03-23_news.md)
 - [News from 2026-03-16](./history/2026-03-16_news.md)
 - [News from 2026-03-09](./history/2026-03-09_news.md)
 - [News from 2026-03-02](./history/2026-03-02_news.md)
-- [News from 2026-02-23](./history/2026-02-23_news.md)
 
 
 ## Contributing
