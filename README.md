@@ -2,64 +2,56 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (March 30, 2026)
+## Latest Updates (April 06, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **This Week In Generative AI: $7T Impact & Growth**
-  - The primary events that currently shape artificial intelligence development during this week include major product releases and worldwide policy dialogues. This week experienced its most significant development through the emergence of agentic AI systems which developed their own capacity to perform autonomous ...
-  - [Source](https://bostoninstituteofanalytics.org/blog/this-week-in-generative-ai-21st-27th-march-2026-7-trillion-impact-explosive-growth-trends/)
+- **Cursor updates its platform with a focus on autonomous AI agents - Techzine Global**
+  - Also read: Cursor’s advanced AI coding model has Chinese origins · An Anthropic employee has (seemingly) inadvertently shared Claude Cod... As artificial intelligence agents are set to become more autonomous i...
+  - [Source](https://www.techzine.eu/news/devops/140209/cursor-updates-its-platform-with-a-focus-on-autonomous-ai-agents/)
 
-- **Alibaba launches latest agentic AI platform with international unit's Accio Work | Reuters**
-  - Alibaba has ​pushed further into the global race for agentic artificial intelligence, with its ‌international commerce division launching Accio Work, a plug‑and‑play “AI taskforce” it says can autonomously run complex business operations for small and medium-sized enterprises.
-  - [Source](https://www.reuters.com/business/finance/alibaba-launches-latest-agentic-ai-platform-with-international-units-accio-work-2026-03-23/)
+- **Google Gemma 4 Launches With Multimodal AI, Flexible Licensing, and Scalable Model Sizes | Tech Magazine**
+  - Google launches Gemma 4, an open AI model family with multimodal support, Apache 2.0 licensing, and scalable models for mobile devices and high-performance systems.
+  - [Source](https://www.techmagazines.net/google-gemma-4-launches-with-multimodal-ai/)
 
-- **I Tried 20+ CrewAI Courses: Here Are My Top 5 Recommendations for 2026 | Java Prorgram Examples**
-  - Hello guys, Artificial Intelligence is evolving faster than ever — and we’re now entering the era of Agentic AI. Instead of static chatbots or single-task models, AI agents can now reason, collaborate, and execute complex tasks autonomously.
-  - [Source](https://javarevisited.wordpress.com/2026/03/28/i-tried-20-crewai-courses-here-are-my-top-5-recommendations-for-2026/)
+- **Kyndryl launches Agentic Service Management to power AI-native infrastructure services and intelligent workflows**
+  - /PRNewswire/ -- Kyndryl (NYSE: KD), a leading provider of mission-critical enterprise technology services, today launched its Agentic Service Management, which...
+  - [Source](https://www.prnewswire.com/news-releases/kyndryl-launches-agentic-service-management-to-power-ai-native-infrastructure-services-and-intelligent-workflows-302731945.html)
 
-- **Is Palo Alto Networks Setting the New Security Baseline for Agentic AI?**
-  - Palo Alto Networks launches new security products for agentic AI, setting enterprise standards for securing autonomous AI agents and complex workflows.
-  - [Source](https://futurumgroup.com/insights/agentic-ai-7/)
+- **Google's Gemma 4 model goes fully open-source and unlocks powerful local AI - even on phones | ZDNET**
+  - Now open-source under Apache 2.0, Gemma 4 brings offline, multimodal AI to servers, phones, and Raspberry Pi - giving developers total local control over edge and on-premises deployments.
+  - [Source](https://www.zdnet.com/article/google-gemma-4-fully-open-source-powerful-local-ai/)
 
-- **Cisco goes all in on agentic AI security | Network World**
-  - New offerings include DefenseClaw, an open-source agent framework designed to automate security and inventory, and AI Defense: Explorer Edition, which provides self-service tools for developers to test model and application resilience.
-  - [Source](https://www.networkworld.com/article/4148823/cisco-goes-all-in-on-agentic-ai-security.html)
+- **‘First they copy…’ OpenClaw creator hits back at Anthropic policy charging extra for third-party use | Technology News - The Indian Express**
+  - Amid growing buzz around OpenClaw, Anthropic has moved quickly to roll out its own alternatives, unleashing a wave of new features and upgrades across Claude.
+  - [Source](https://indianexpress.com/article/technology/artificial-intelligence/openclaw-creator-hits-back-anthropic-policy-third-party-tools-10619696/)
 
 ### Notable Innovations
 
-- **Agentic AI: risk versus opportunity - News**
-  - Also increasingly popular is agentic ... that are autonomous and self-directed, working proactively to make decisions and act unprompted. These AI agents may have a lot to offer, but the question people often ask is, “At what cost?” · On her latest research, Dr. Xiahua Wei’s explores the risks and opportunities of agentic AI. Wei first became interested in artificial intelligence as a college ...
-  - [Source](https://www.uwb.edu/news/2026/03/27/agentic-ai-risk-versus-opportunity)
-
-- **Agentic AI 2026: From Assistants to High-Productivity Digital Peers**
-  - Discover how autonomous agents go beyond Q&A to solve complex tasks, amplifying employee productivity through strategic human-in-the-loop collaboration.
-  - [Source](https://sdggroup.com/en/insights/blog/agentic-ai-2026-from-assistants-to-high-productivity-digital-peers)
-
-- **Agentic AI Tools Market 2026 enabling autonomous enterprise ecosystems, reaching $94.90 billion**
-  - The Business Research Company's Agentic AI Tools Market Report 2026 – Market Size, Trends, And Global Forecast 2026-2035
-  - [Source](https://www.einpresswire.com/article/901598758/agentic-ai-tools-market-2026-enabling-autonomous-enterprise-ecosystems-reaching-94-90-billion)
+- **Agentic AI Could Be the Next Big Breakthrough -- and This Tech Giant May Already Be Ahead | The Motley Fool**
+  - The next phase of AI may not be about smarter chatbots, but about software that can actually run parts of a business.
+  - [Source](https://www.fool.com/investing/2026/03/31/agentic-ai-could-be-the-next-big-breakthrough-and/)
 
 ### Market Trends
 
-- **In the AI industry, ‘agentic’ takes on a life of its own | CNN**
-  - Instead of merely automating a task, “agentic” AI automates an entire process, with minimal intervention by the user. But as CNN explores in “Word of the Week,” the term “agentic” has multiple meanings.
-  - [Source](https://www.cnn.com/2026/03/25/us/word-of-week-agentic-ai-cec)
+- **Got $1,000? This Agentic AI Growth Stock Is Down 87% From Its Highs | The Motley Fool**
+  - If you hear the experts talk about ... for agentic artificial intelligence (AI) -- programs that can make decisions and perform tasks on their own. Nvidia CEO Jensen Huang calls it an "inflection point" for AI. A survey of business executives conducted by International Business Machines projects expectations that fully autonomous robotic systems ...
+  - [Source](https://fool.com/investing/2026/04/05/got-1000-this-agentic-ai-growth-stock-is-down-87-f)
 
-- **Agentic AI Integrated Systems Market to Reach USD 47.2 Billion by 2035 as Autonomous AI Agents & Cloud-Native Platforms Accelerate Enterprise Adoption**
-  - Wilmington, DE, USA, 27th March ... evolving artificial intelligence ecosystem. The global agentic AI integrated systems market is valued at USD 3.1 billion in 2025 and is projected to reach USD 47.2 billion by 2035, expanding at a CAGR of 31.2% during the forecast period. Growth is driven by the increasing complexity of business operations, rising demand for autonomous decision-making, ...
-  - [Source](https://www.openpr.com/news/4443635/agentic-ai-integrated-systems-market-to-reach-usd-47-2-billion)
+- **The leadership dilemma: Governing the “Agentic AI” workforce | TechRadar**
+  - Artificial intelligence is no longer a back office enabler or a set of isolated automation software tools. It is becoming a core component of how organizations operate, compete, and deliver value. As businesses accelerate their adoption of increasingly autonomous systems, often referred to as agentic AI...
+  - [Source](https://www.techradar.com/pro/the-leadership-dilemma-governing-the-agentic-ai-workforce)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-04-06](./history/2026-04-06_news.md)
 - [News from 2026-03-30](./history/2026-03-30_news.md)
 - [News from 2026-03-23](./history/2026-03-23_news.md)
 - [News from 2026-03-16](./history/2026-03-16_news.md)
 - [News from 2026-03-09](./history/2026-03-09_news.md)
-- [News from 2026-03-02](./history/2026-03-02_news.md)
 
 
 ## Contributing
