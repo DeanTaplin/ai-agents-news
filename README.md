@@ -2,56 +2,52 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (April 06, 2026)
+## Latest Updates (April 13, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Cursor updates its platform with a focus on autonomous AI agents - Techzine Global**
-  - Also read: Cursor’s advanced AI coding model has Chinese origins · An Anthropic employee has (seemingly) inadvertently shared Claude Cod... As artificial intelligence agents are set to become more autonomous i...
-  - [Source](https://www.techzine.eu/news/devops/140209/cursor-updates-its-platform-with-a-focus-on-autonomous-ai-agents/)
+- **MiniMax M2.7 Advances Scalable Agentic Workflows on NVIDIA Platforms for Complex AI Applications | NVIDIA Technical Blog**
+  - The release of MiniMax M2.7 adds enhancements to the popular MiniMax M2.5 model, built for agentic harnesses, and other complex use cases in fields such as reasoning, ML research workflows, software…
+  - [Source](https://developer.nvidia.com/blog/minimax-m2-7-advances-scalable-agentic-workflows-on-nvidia-platforms-for-complex-ai-applications/)
 
-- **Google Gemma 4 Launches With Multimodal AI, Flexible Licensing, and Scalable Model Sizes | Tech Magazine**
-  - Google launches Gemma 4, an open AI model family with multimodal support, Apache 2.0 licensing, and scalable models for mobile devices and high-performance systems.
-  - [Source](https://www.techmagazines.net/google-gemma-4-launches-with-multimodal-ai/)
+- **Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos | VentureBeat**
+  - The age of agentic AI is upon us — whether we like it or not. What started with an innocent question-answer banter with ChatGPT back in 2022 has become an existential debate on job security and the rise of the machines. More recently, fears of reaching artificial general intelligence (AGI) have become more real with the advent of powerful autonomous ...
+  - [Source](https://venturebeat.com/technology/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos)
 
-- **Kyndryl launches Agentic Service Management to power AI-native infrastructure services and intelligent workflows**
-  - /PRNewswire/ -- Kyndryl (NYSE: KD), a leading provider of mission-critical enterprise technology services, today launched its Agentic Service Management, which...
-  - [Source](https://www.prnewswire.com/news-releases/kyndryl-launches-agentic-service-management-to-power-ai-native-infrastructure-services-and-intelligent-workflows-302731945.html)
+- **EY launches enterprise-scale agentic AI to redefine the audit experience for the AI era | EY - US**
+  - LONDON, 7 APRIL 2026. The EY organization today announced the global roll-out of enterprise-scale agentic AI in Assurance, marking a fundamental shift toward AI-transformed audits.
+  - [Source](https://ey.com/en_us/newsroom/2026/04/ey-launches-enterprise-scale-agentic-ai-to-redefine-the-audit-experience-for-the-ai-era)
 
-- **Google's Gemma 4 model goes fully open-source and unlocks powerful local AI - even on phones | ZDNET**
-  - Now open-source under Apache 2.0, Gemma 4 brings offline, multimodal AI to servers, phones, and Raspberry Pi - giving developers total local control over edge and on-premises deployments.
-  - [Source](https://www.zdnet.com/article/google-gemma-4-fully-open-source-powerful-local-ai/)
-
-- **‘First they copy…’ OpenClaw creator hits back at Anthropic policy charging extra for third-party use | Technology News - The Indian Express**
-  - Amid growing buzz around OpenClaw, Anthropic has moved quickly to roll out its own alternatives, unleashing a wave of new features and upgrades across Claude.
-  - [Source](https://indianexpress.com/article/technology/artificial-intelligence/openclaw-creator-hits-back-anthropic-policy-third-party-tools-10619696/)
+- **Z.AI Introduces GLM-5.1: An Open-Weight 754B Agentic Model That Achieves SOTA on SWE-Bench Pro and Sustains 8-Hour Autonomous Execution - MarkTechPost**
+  - Z.AI Releases GLM-5.1: A Next-Generation Agentic Model Built for Long-Horizon Engineering Tasks and Rewrites CUDA Kernels
+  - [Source](https://www.marktechpost.com/2026/04/08/z-ai-introduces-glm-5-1-an-open-weight-754b-agentic-model-that-achieves-sota-on-swe-bench-pro-and-sustains-8-hour-autonomous-execution/)
 
 ### Notable Innovations
 
-- **Agentic AI Could Be the Next Big Breakthrough -- and This Tech Giant May Already Be Ahead | The Motley Fool**
-  - The next phase of AI may not be about smarter chatbots, but about software that can actually run parts of a business.
-  - [Source](https://www.fool.com/investing/2026/03/31/agentic-ai-could-be-the-next-big-breakthrough-and/)
+- **Rezolve AI CEO on the Future of Agentic Commerce | PYMNTS.com**
+  - Webster is also the author of the NEXT newsletter and a co-founder of Market Platform Dynamics, specializing in driving and monetizing innovation across industries. Dan Wagner is founder and CEO Rezolve AI, which offers AI-first solutions for retailers that create seamless, personalized experiences. ... See More In: agentic commerce, AI, artificial intelligence...
+  - [Source](https://www.pymnts.com/artificial-intelligence-2/2026/rezolve-ceo-sees-growing-competition-over-control-of-ai-shopping/)
 
 ### Market Trends
 
-- **Got $1,000? This Agentic AI Growth Stock Is Down 87% From Its Highs | The Motley Fool**
-  - If you hear the experts talk about ... for agentic artificial intelligence (AI) -- programs that can make decisions and perform tasks on their own. Nvidia CEO Jensen Huang calls it an "inflection point" for AI. A survey of business executives conducted by International Business Machines projects expectations that fully autonomous robotic systems ...
-  - [Source](https://fool.com/investing/2026/04/05/got-1000-this-agentic-ai-growth-stock-is-down-87-f)
+- **As AI agents take on more tasks, governance becomes a priority**
+  - AI agents are becoming more autonomous, but governance is lagging as adoption rises and safeguards remain limited.
+  - [Source](https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/)
 
-- **The leadership dilemma: Governing the “Agentic AI” workforce | TechRadar**
-  - Artificial intelligence is no longer a back office enabler or a set of isolated automation software tools. It is becoming a core component of how organizations operate, compete, and deliver value. As businesses accelerate their adoption of increasingly autonomous systems, often referred to as agentic AI...
-  - [Source](https://www.techradar.com/pro/the-leadership-dilemma-governing-the-agentic-ai-workforce)
+- **Oracle Brings Autonomous AI Agents to Enterprise CX Workflows**
+  - Oracle's new Fusion Agentic Applications for CX promise autonomous execution across sales, service and marketing workflows.
+  - [Source](https://www.cmswire.com/customer-experience/oracle-launches-5-agentic-ai-applications-for-customer-experience/)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-04-13](./history/2026-04-13_news.md)
 - [News from 2026-04-06](./history/2026-04-06_news.md)
 - [News from 2026-03-30](./history/2026-03-30_news.md)
 - [News from 2026-03-23](./history/2026-03-23_news.md)
 - [News from 2026-03-16](./history/2026-03-16_news.md)
-- [News from 2026-03-09](./history/2026-03-09_news.md)
 
 
 ## Contributing
