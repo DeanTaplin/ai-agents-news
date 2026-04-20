@@ -2,52 +2,60 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (April 13, 2026)
+## Latest Updates (April 20, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **MiniMax M2.7 Advances Scalable Agentic Workflows on NVIDIA Platforms for Complex AI Applications | NVIDIA Technical Blog**
-  - The release of MiniMax M2.7 adds enhancements to the popular MiniMax M2.5 model, built for agentic harnesses, and other complex use cases in fields such as reasoning, ML research workflows, software…
-  - [Source](https://developer.nvidia.com/blog/minimax-m2-7-advances-scalable-agentic-workflows-on-nvidia-platforms-for-complex-ai-applications/)
+- **Deterministic + Agentic AI: The Architecture Exposure Validation Requires**
+  - All CISOs use AI in 2026 survey, Pentera report shows, driving hybrid deterministic security validation models.
+  - [Source](https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html)
 
-- **Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos | VentureBeat**
-  - The age of agentic AI is upon us — whether we like it or not. What started with an innocent question-answer banter with ChatGPT back in 2022 has become an existential debate on job security and the rise of the machines. More recently, fears of reaching artificial general intelligence (AGI) have become more real with the advent of powerful autonomous ...
-  - [Source](https://venturebeat.com/technology/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos)
+- **Expanding Agent Governance with Unity AI Gateway | Databricks Blog**
+  - Centralize governance for AI agents with Databricks AI Gateway—control LLM access, enforce guardrails, track usage, and gain full visibility across models, tools, and APIs.
+  - [Source](https://www.databricks.com/blog/ai-gateway-governance-layer-agentic-ai)
 
-- **EY launches enterprise-scale agentic AI to redefine the audit experience for the AI era | EY - US**
-  - LONDON, 7 APRIL 2026. The EY organization today announced the global roll-out of enterprise-scale agentic AI in Assurance, marking a fundamental shift toward AI-transformed audits.
-  - [Source](https://ey.com/en_us/newsroom/2026/04/ey-launches-enterprise-scale-agentic-ai-to-redefine-the-audit-experience-for-the-ai-era)
+- **Athena Launches FabOrchestrator™ -- Agentic AI for Manufacturing**
+  - Athena Technology Solutions, a premier provider of advanced MES solutions, today announced FabOrchestrator™, the manufacturing industry's first Agentic AI Foundry designed to transform factory operations.
+  - [Source](https://finance.yahoo.com/sectors/technology/articles/athena-launches-faborchestrator-agentic-ai-170300322.html)
 
-- **Z.AI Introduces GLM-5.1: An Open-Weight 754B Agentic Model That Achieves SOTA on SWE-Bench Pro and Sustains 8-Hour Autonomous Execution - MarkTechPost**
-  - Z.AI Releases GLM-5.1: A Next-Generation Agentic Model Built for Long-Horizon Engineering Tasks and Rewrites CUDA Kernels
-  - [Source](https://www.marktechpost.com/2026/04/08/z-ai-introduces-glm-5-1-an-open-weight-754b-agentic-model-that-achieves-sota-on-swe-bench-pro-and-sustains-8-hour-autonomous-execution/)
+- **5 Best Books for Building Agentic AI Systems in 2026 - KDnuggets**
+  - By Nahla Davies, KDnuggets on April 13, 2026 in Artificial Intelligence ... There’s no denying that agentic AI is moving fast. A year ago, most teams were still figuring out retrieval-augmented generation (RAG) pipelines and basic large language model (LLM) wrappers. Now there is multi-agent orchestration, tool-calling, memory management, and autonomous ...
+  - [Source](https://www.kdnuggets.com/5-best-books-for-building-agentic-ai-systems-in-2026)
+
+- **Spanish startup Openchip targets 2028 launch on agentic AI wave**
+  - Openchip's growth and product roadmap could reshape AI computing supply chains and deployment costs globally, offering lower-power alternatives and CPU-independent modules that could ease constraints for data centers, research institutions, and defense contractors.
+  - [Source](https://www.digitimes.com/news/a20260417PD210/startup-shipments-growth-roadmap-accelerator.html)
 
 ### Notable Innovations
 
-- **Rezolve AI CEO on the Future of Agentic Commerce | PYMNTS.com**
-  - Webster is also the author of the NEXT newsletter and a co-founder of Market Platform Dynamics, specializing in driving and monetizing innovation across industries. Dan Wagner is founder and CEO Rezolve AI, which offers AI-first solutions for retailers that create seamless, personalized experiences. ... See More In: agentic commerce, AI, artificial intelligence...
-  - [Source](https://www.pymnts.com/artificial-intelligence-2/2026/rezolve-ceo-sees-growing-competition-over-control-of-ai-shopping/)
+- **Agentic AI in Retail: Bridging the Gap Between Innovation and Consumer Trust**
+  - Discover how agentic AI is transforming retail with autonomous systems, personalized shopping assistants, and operational efficiency.
+  - [Source](https://wwd.com/sourcing-journal/industry-news/bridging-the-gap-between-innovation-and-consumer-trust-1238912533/)
 
 ### Market Trends
 
-- **As AI agents take on more tasks, governance becomes a priority**
-  - AI agents are becoming more autonomous, but governance is lagging as adoption rises and safeguards remain limited.
-  - [Source](https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/)
+- **OpenAI Updates Agents SDK, Aims at Building Secure Agents**
+  - Related:Anthropic Tool Speeds up AI Agent Development for Enterprises ... Esther Shittu brings four years of expertise covering artificial intelligence technologies and industry trends. As co-host of the "Targeting AI" podcast, she talks to thought leaders and practitioners exploring critical AI developments. Previous to AI Business, she wrote for several publications including the New York Daily News...
+  - [Source](https://aibusiness.com/agentic-ai/openai-updates-agents-sdk-aims-building-secure-agents)
 
-- **Oracle Brings Autonomous AI Agents to Enterprise CX Workflows**
-  - Oracle's new Fusion Agentic Applications for CX promise autonomous execution across sales, service and marketing workflows.
-  - [Source](https://www.cmswire.com/customer-experience/oracle-launches-5-agentic-ai-applications-for-customer-experience/)
+- **Agentic AI growth will give this cybersecurity stock a big boost, Raymond James says**
+  - The investment bank upgraded the identity and access management stock to outperform from market perform.
+  - [Source](https://www.cnbc.com/2026/04/16/agentic-ai-growth-will-give-this-cybersecurity-stock-a-big-boost-raymond-james-says.html)
+
+- **AI Trends Business 2026: 10 Key Developments Set to Transform Companies and Decision-Making**
+  - SDG Group outlines 10 AI trends for 2026, including vertical AI, context engineering and edge AI shaping business strategy.
+  - [Source](https://the-european.eu/story-59243/these-are-the-10-ai-trends-to-watch-in-2026-that-will-drive-business-forward.html)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-04-20](./history/2026-04-20_news.md)
 - [News from 2026-04-13](./history/2026-04-13_news.md)
 - [News from 2026-04-06](./history/2026-04-06_news.md)
 - [News from 2026-03-30](./history/2026-03-30_news.md)
 - [News from 2026-03-23](./history/2026-03-23_news.md)
-- [News from 2026-03-16](./history/2026-03-16_news.md)
 
 
 ## Contributing
