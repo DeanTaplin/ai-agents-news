@@ -2,48 +2,56 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (April 27, 2026)
+## Latest Updates (May 04, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Deloitte Launches Agentic AI Practice With Google Cloud**
-  - Deloitte's new practice will combine the company's Ascend with its suite of Google AI and agentic assets to support clients.
-  - [Source](https://www.executivebiz.com/articles/deloitte-google-cloud-agentic-ai-practice)
+- **Agentic AI Exposes the Limits of Static Governance Models, Warns Info-Tech Research Group**
+  - /PRNewswire/ - Traditional AI governance models are becoming less effective as organizations adopt agentic AI systems that can reason, act, and adapt with...
+  - [Source](https://www.prnewswire.com/news-releases/agentic-ai-exposes-the-limits-of-static-governance-models-warns-info-tech-research-group-302760441.html)
 
-- **xAI Launches grok-voice-think-fast-1.0: Topping τ-voice Bench at 67.3%, Outperforming Gemini, GPT Realtime, and More - MarkTechPost**
-  - xAI Launches grok-voice-think-fast-1.0: Topping τ-voice Bench at 67.3%, Outperforming Gemini, GPT Realtime, and More
-  - [Source](https://www.marktechpost.com/2026/04/25/xai-launches-grok-voice-think-fast-1-0-topping-%CF%84-voice-bench-at-67-3-outperforming-gemini-gpt-realtime-and-more/)
+- **Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation - MarkTechPost**
+  - Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation
+  - [Source](https://www.marktechpost.com/2026/05/01/meta-introduces-autodata-an-agentic-framework-that-turns-ai-models-into-autonomous-data-scientists-for-high-quality-training-data-creation/)
 
-- **I put GPT-5.5 through a 10-round test: It scored 93/100, losing points only for exuberance | ZDNET**
-  - OpenAI's latest model delivers powerful results but sometimes ignores simple directions, creating a tension between intelligence and control.
-  - [Source](https://www.zdnet.com/article/i-put-openai-gpt-5-5-through-a-10-round-test/)
+- **Mistral AI Launches Remote Agents in Vibe and Mistral Medium 3.5 with 77.6% SWE-Bench Verified Score - MarkTechPost**
+  - Mistral AI's latest release brings async cloud-based coding sessions, a new 128B flagship model, and an agentic Work mode to Le Chat — a meaningful step forward for developers building with AI agents.
+  - [Source](https://www.marktechpost.com/2026/05/02/mistral-ai-launches-remote-agents-in-vibe-and-mistral-medium-3-5-with-77-6-swe-bench-verified-score/)
+
+- **Is Agentic Commerce Going Mainstream? Experian And Visa Think So**
+  - Experian announces the launch of a solution to verify the humans behind AI agents, as interest in agentic commerce grows.
+  - [Source](https://www.forbes.com/sites/timkeary/2026/05/01/is-agentic-commerce-going-mainstream-experian-and-visa-think-so/)
+
+- **NSA joins the ASD’s ACSC and Others to Release Guidance on Agentic Artificial Intelligence Systems > National Security Agency/Central Security Service > Press Release View**
+  - FORT MEADE, Md. – Today, the National Security Agency (NSA) joins the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and others to release the
+  - [Source](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4475134/nsa-joins-the-asds-acsc-and-others-to-release-guidance-on-agentic-artificial-in/)
 
 ### Notable Innovations
 
-- **Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP**
-  - Creative AI agents, secured by the NVIDIA OpenShell runtime, generate on-brand content, transforming how brands create, personalize and activate content.
-  - [Source](https://blogs.nvidia.com/blog/adobe-ai-agents-nvidia-wpp/)
+- **Gartner sees untamed growth in agentic AI – Computerworld**
+  - The research firm expects the number of agents in use per company to blow up from 15 in 2025 to as many as 150,000 per company by 2028.
+  - [Source](https://www.computerworld.com/article/4165686/gartner-sees-untamed-growth-in-agentic-ai.html)
 
-- **Agentic AI Liability: Managing Accountability in Autonomous Legal Workflows | Association of Certified E-Discovery Specialists (ACEDS) - JDSupra**
-  - As legal AI evolves from chatbots to autonomous agents that work toward objectives, make decisions, and adjust their actions based on real-time feedback, the question is no longer who is...
-  - [Source](https://www.jdsupra.com/legalnews/agentic-ai-liability-managing-7749648/)
+- **Noma Security Deepens Focus on Agentic AI Risks and Governance Frameworks - TipRanks.com**
+  - Noma Security spent the week sharpening its positioning as a specialist in securing autonomous and “agentic” AI environments. Across several research-driven posts, ...
+  - [Source](https://www.tipranks.com/news/private-companies/noma-security-deepens-focus-on-agentic-ai-risks-and-governance-frameworks)
 
 ### Market Trends
 
-- **AI Applied: How Intelligent Automation and Agentic AI Are Reshaping the Enterprise**
-  - NORTHAMPTON, MA / ACCESS Newswire / April 24, 2026 / Authored by Baker Tilly'sChris Wagner ,David Hickey As organizations accelerate their adoption ofartificial intelligence (AI) , many are moving beyond experimentation and into execution. What began ...
-  - [Source](https://finance.yahoo.com/sectors/technology/articles/ai-applied-intelligent-automation-agentic-155000689.html)
+- **US and allies urge ‘careful adoption’ of AI agents | Cybersecurity Dive**
+  - New guidance from a coalition of Western governments underscores the difficult-to-predict risks of still-evolving agentic tools.
+  - [Source](https://www.cybersecuritydive.com/news/ai-agents-security-guidance-australia-us/819076/)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-05-04](./history/2026-05-04_news.md)
 - [News from 2026-04-27](./history/2026-04-27_news.md)
 - [News from 2026-04-20](./history/2026-04-20_news.md)
 - [News from 2026-04-13](./history/2026-04-13_news.md)
 - [News from 2026-04-06](./history/2026-04-06_news.md)
-- [News from 2026-03-30](./history/2026-03-30_news.md)
 
 
 ## Contributing
