@@ -2,56 +2,42 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (May 04, 2026)
+## Latest Updates (May 11, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Agentic AI Exposes the Limits of Static Governance Models, Warns Info-Tech Research Group**
-  - /PRNewswire/ - Traditional AI governance models are becoming less effective as organizations adopt agentic AI systems that can reason, act, and adapt with...
-  - [Source](https://www.prnewswire.com/news-releases/agentic-ai-exposes-the-limits-of-static-governance-models-warns-info-tech-research-group-302760441.html)
+- **AI agent identity: how to govern agentic AI in 6 stages**
+  - A Fortune 50 AI agent rewrote its own security policy without being compromised. Cisco's 6-stage identity maturity model shows how to close the gap.
+  - [Source](https://venturebeat.com/security/cisco-crowdstrike-rsac-2026-agent-identity-iam-gap-maturity-model)
 
-- **Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation - MarkTechPost**
-  - Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation
-  - [Source](https://www.marktechpost.com/2026/05/01/meta-introduces-autodata-an-agentic-framework-that-turns-ai-models-into-autonomous-data-scientists-for-high-quality-training-data-creation/)
+- **Guidance Issued on Managing Cyber Risks from Agentic AI**
+  - Key Takeaways AI is accelerating cybersecurity threats by expanding the attack surface and enabling more sophisticated, scalable attacks, even as it offers potential defensive benefits. Last month, the limited release of new AI systems designed for cybersecurity underscored how new and ...
+  - [Source](https://natlawreview.com/article/us-and-allies-release-careful-adoption-guidance-agentic-ai)
 
-- **Mistral AI Launches Remote Agents in Vibe and Mistral Medium 3.5 with 77.6% SWE-Bench Verified Score - MarkTechPost**
-  - Mistral AI's latest release brings async cloud-based coding sessions, a new 128B flagship model, and an agentic Work mode to Le Chat — a meaningful step forward for developers building with AI agents.
-  - [Source](https://www.marktechpost.com/2026/05/02/mistral-ai-launches-remote-agents-in-vibe-and-mistral-medium-3-5-with-77-6-swe-bench-verified-score/)
+- **Eve Security Highlights Shift Toward Runtime Protection for Agentic AI - TipRanks.com**
+  - According to a recent LinkedIn post from Eve Security, industry attention in AI security is shifting from model-centric risks to the runtime behavior of agentic sys...
+  - [Source](https://www.tipranks.com/news/private-companies/eve-security-highlights-shift-toward-runtime-protection-for-agentic-ai)
 
-- **Is Agentic Commerce Going Mainstream? Experian And Visa Think So**
-  - Experian announces the launch of a solution to verify the humans behind AI agents, as interest in agentic commerce grows.
-  - [Source](https://www.forbes.com/sites/timkeary/2026/05/01/is-agentic-commerce-going-mainstream-experian-and-visa-think-so/)
-
-- **NSA joins the ASD’s ACSC and Others to Release Guidance on Agentic Artificial Intelligence Systems > National Security Agency/Central Security Service > Press Release View**
-  - FORT MEADE, Md. – Today, the National Security Agency (NSA) joins the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and others to release the
-  - [Source](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4475134/nsa-joins-the-asds-acsc-and-others-to-release-guidance-on-agentic-artificial-in/)
+- **Google made agentic AI governance a product. Enterprises still have to catch up.**
+  - Google baked agentic AI governance into its new Gemini Enterprise Agent Platform. The enterprise readiness numbers tell a very different story.
+  - [Source](https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/)
 
 ### Notable Innovations
 
-- **Gartner sees untamed growth in agentic AI – Computerworld**
-  - The research firm expects the number of agents in use per company to blow up from 15 in 2025 to as many as 150,000 per company by 2028.
-  - [Source](https://www.computerworld.com/article/4165686/gartner-sees-untamed-growth-in-agentic-ai.html)
-
-- **Noma Security Deepens Focus on Agentic AI Risks and Governance Frameworks - TipRanks.com**
-  - Noma Security spent the week sharpening its positioning as a specialist in securing autonomous and “agentic” AI environments. Across several research-driven posts, ...
-  - [Source](https://www.tipranks.com/news/private-companies/noma-security-deepens-focus-on-agentic-ai-risks-and-governance-frameworks)
-
-### Market Trends
-
-- **US and allies urge ‘careful adoption’ of AI agents | Cybersecurity Dive**
-  - New guidance from a coalition of Western governments underscores the difficult-to-predict risks of still-evolving agentic tools.
-  - [Source](https://www.cybersecuritydive.com/news/ai-agents-security-guidance-australia-us/819076/)
+- **Agentic AI: Navigating The Evolving Frontier**
+  - It is essential to establish secure ... mitigate autonomous faults. The Trump administration’s proposed federal legislative framework for regulating AI systems throughout the U.S. economy is called the National Policy Framework for Artificial Intelligence (March 2026). It seeks to prevent a disjointed patchwork of state AI rules that could impede competitiveness and to promote innovation while ensuring fundamental national protections. See: Agentic AI is accelerating ...
+  - [Source](https://forbes.com/sites/chuckbrooks/2026/05/08/agentic-ai-navigating-the-evolving-frontier)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-05-11](./history/2026-05-11_news.md)
 - [News from 2026-05-04](./history/2026-05-04_news.md)
 - [News from 2026-04-27](./history/2026-04-27_news.md)
 - [News from 2026-04-20](./history/2026-04-20_news.md)
 - [News from 2026-04-13](./history/2026-04-13_news.md)
-- [News from 2026-04-06](./history/2026-04-06_news.md)
 
 
 ## Contributing
