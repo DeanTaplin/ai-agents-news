@@ -2,42 +2,46 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (May 11, 2026)
+## Latest Updates (May 18, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **AI agent identity: how to govern agentic AI in 6 stages**
-  - A Fortune 50 AI agent rewrote its own security policy without being compromised. Cisco's 6-stage identity maturity model shows how to close the gap.
-  - [Source](https://venturebeat.com/security/cisco-crowdstrike-rsac-2026-agent-identity-iam-gap-maturity-model)
+- **Agentic AI era demands new entry-level roles | The Manila Times**
+  - AMID speculation that AI will eliminate entry-level jobs, young professionals are anxious about launching their careers. The World Economic Forum’s Youth Pulse 2026 survey found that two-thirds of youth respondents globally fear that AI will reduce the number of entry-level roles available ...
+  - [Source](https://www.manilatimes.net/2026/05/17/business/sunday-business-it/agentic-ai-era-demands-new-entry-level-roles/2345544)
 
-- **Guidance Issued on Managing Cyber Risks from Agentic AI**
-  - Key Takeaways AI is accelerating cybersecurity threats by expanding the attack surface and enabling more sophisticated, scalable attacks, even as it offers potential defensive benefits. Last month, the limited release of new AI systems designed for cybersecurity underscored how new and ...
-  - [Source](https://natlawreview.com/article/us-and-allies-release-careful-adoption-guidance-agentic-ai)
+- **Digital arson spree by ‘AI Bonnie and Clyde’ raises fears over autonomous tech | AI (artificial intelligence) | The Guardian**
+  - The investigation by the New York company Emergence AI into the long-term behaviour of AI agents ended up like a lovers-on-the-lam movie script. It has prompted fresh questions about the safety of artificial intelligence agents – the version of the technology that can autonomously carry out tasks.
+  - [Source](https://www.theguardian.com/technology/2026/may/14/ai-agents-behaviour-arson-safety)
 
-- **Eve Security Highlights Shift Toward Runtime Protection for Agentic AI - TipRanks.com**
-  - According to a recent LinkedIn post from Eve Security, industry attention in AI security is shifting from model-centric risks to the runtime behavior of agentic sys...
-  - [Source](https://www.tipranks.com/news/private-companies/eve-security-highlights-shift-toward-runtime-protection-for-agentic-ai)
+- **Best AI Agents for Software Development Ranked: A Benchmark-Driven Look at the Current Field - MarkTechPost**
+  - The AI coding agent field in 2026 is more capable, more fragmented, and harder to benchmark than it looks. Claude Code leads on code quality at 87.6% SWE-bench Verified. GPT-5.5 tops Terminal-Bench at 82.7%. But the benchmark OpenAI itself declared contaminated in February 2026 is still being ...
+  - [Source](https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-driven-look-at-the-current-field/)
 
-- **Google made agentic AI governance a product. Enterprises still have to catch up.**
-  - Google baked agentic AI governance into its new Gemini Enterprise Agent Platform. The enterprise readiness numbers tell a very different story.
-  - [Source](https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/)
+- **Eve Security Sharpens Focus on Runtime Protection for Agentic AI Systems - TipRanks.com**
+  - Eve Security is positioning itself as a specialist in securing agentic AI at runtime, arguing that industry focus is shifting from model-centric risks to the live b...
+  - [Source](https://www.tipranks.com/news/private-companies/eve-security-sharpens-focus-on-runtime-protection-for-agentic-ai-systems)
+
+- **Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark | Microsoft Security Blog**
+  - Today Microsoft is announcing a major step forward in AI-powered cyber defense: a new multi-model agentic scanning harness (codenamed MDASH).
+  - [Source](https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/)
 
 ### Notable Innovations
 
-- **Agentic AI: Navigating The Evolving Frontier**
-  - It is essential to establish secure ... mitigate autonomous faults. The Trump administration’s proposed federal legislative framework for regulating AI systems throughout the U.S. economy is called the National Policy Framework for Artificial Intelligence (March 2026). It seeks to prevent a disjointed patchwork of state AI rules that could impede competitiveness and to promote innovation while ensuring fundamental national protections. See: Agentic AI is accelerating ...
-  - [Source](https://forbes.com/sites/chuckbrooks/2026/05/08/agentic-ai-navigating-the-evolving-frontier)
+- **The Agentic AI Divide: 86% of Enterprises Are Running the Wrong Way in the Customer-Centricity Race**
+  - /PRNewswire/ -- Virtusa Corporation, a global leader in product and platform engineering services, today announced the second study in its research series on...
+  - [Source](https://www.prnewswire.com/news-releases/the-agentic-ai-divide-86-of-enterprises-are-running-the-wrong-way-in-the-customer-centricity-race-302771304.html)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-05-18](./history/2026-05-18_news.md)
 - [News from 2026-05-11](./history/2026-05-11_news.md)
 - [News from 2026-05-04](./history/2026-05-04_news.md)
 - [News from 2026-04-27](./history/2026-04-27_news.md)
 - [News from 2026-04-20](./history/2026-04-20_news.md)
-- [News from 2026-04-13](./history/2026-04-13_news.md)
 
 
 ## Contributing
