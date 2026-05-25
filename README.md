@@ -2,46 +2,60 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (May 18, 2026)
+## Latest Updates (May 25, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Agentic AI era demands new entry-level roles | The Manila Times**
-  - AMID speculation that AI will eliminate entry-level jobs, young professionals are anxious about launching their careers. The World Economic Forum’s Youth Pulse 2026 survey found that two-thirds of youth respondents globally fear that AI will reduce the number of entry-level roles available ...
-  - [Source](https://www.manilatimes.net/2026/05/17/business/sunday-business-it/agentic-ai-era-demands-new-entry-level-roles/2345544)
+- **M37Labs releases Agentic AI platform based on NemoClaw and OpenClaw - The Times of India**
+  - Tech News News: M37Labs, an Indian AI-native company, has launched a production-ready, governed agentic AI platform that is built on Nvidia’s NemoClaw and OpenAI’s Op.
+  - [Source](https://timesofindia.indiatimes.com/technology/tech-news/indian-startup-m37labs-releases-governed-agentic-ai-platform-based-on-nemoclaw-and-openclaw/articleshow/131262598.cms)
 
-- **Digital arson spree by ‘AI Bonnie and Clyde’ raises fears over autonomous tech | AI (artificial intelligence) | The Guardian**
-  - The investigation by the New York company Emergence AI into the long-term behaviour of AI agents ended up like a lovers-on-the-lam movie script. It has prompted fresh questions about the safety of artificial intelligence agents – the version of the technology that can autonomously carry out tasks.
-  - [Source](https://www.theguardian.com/technology/2026/may/14/ai-agents-behaviour-arson-safety)
+- **Why Google's Gemini Spark AI agent could be a game changer - CBS News**
+  - AI tools that autonomously perform tasks for users mark a major step forward from chatbots, according to tech experts.
+  - [Source](https://cbsnews.com/news/google-gemini-spark-ai-agent)
 
-- **Best AI Agents for Software Development Ranked: A Benchmark-Driven Look at the Current Field - MarkTechPost**
-  - The AI coding agent field in 2026 is more capable, more fragmented, and harder to benchmark than it looks. Claude Code leads on code quality at 87.6% SWE-bench Verified. GPT-5.5 tops Terminal-Bench at 82.7%. But the benchmark OpenAI itself declared contaminated in February 2026 is still being ...
-  - [Source](https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-driven-look-at-the-current-field/)
+- **The AI agent called, your smartphone is changing - India Today**
+  - The catalyst for this pivotal moment, ... artificial intelligence agent platform called OpenClaw, formerly known as Claudebot and Moltbot. Since bursting onto the scene last November, OpenClaw has captured the imagination of millions by allowing users to chat with autonomous agents via ...
+  - [Source](https://www.indiatoday.in/technology/features/story/ai-agents-smartphones-google-gemini-openclaw-apps-to-intent-2916387-2026-05-24)
 
-- **Eve Security Sharpens Focus on Runtime Protection for Agentic AI Systems - TipRanks.com**
-  - Eve Security is positioning itself as a specialist in securing agentic AI at runtime, arguing that industry focus is shifting from model-centric risks to the live b...
-  - [Source](https://www.tipranks.com/news/private-companies/eve-security-sharpens-focus-on-runtime-protection-for-agentic-ai-systems)
+- **How to use Google’s new AI agents to go beyond your standard searches | TechCrunch**
+  - Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.
+  - [Source](https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/)
 
-- **Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark | Microsoft Security Blog**
-  - Today Microsoft is announcing a major step forward in AI-powered cyber defense: a new multi-model agentic scanning harness (codenamed MDASH).
-  - [Source](https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/)
+- **Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic**
+  - Google made a number of AI announcements at its annual developer conference, rolling out more-advanced models and agentic tools for its expansive user base.
+  - [Source](https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html)
 
 ### Notable Innovations
 
-- **The Agentic AI Divide: 86% of Enterprises Are Running the Wrong Way in the Customer-Centricity Race**
-  - /PRNewswire/ -- Virtusa Corporation, a global leader in product and platform engineering services, today announced the second study in its research series on...
-  - [Source](https://www.prnewswire.com/news-releases/the-agentic-ai-divide-86-of-enterprises-are-running-the-wrong-way-in-the-customer-centricity-race-302771304.html)
+- **How Agentic AI and Automation Are Changing Cybersecurity**
+  - AI isn't a silver bullet. Discover how agentic AI alters the threat landscape and why human risk management remains vital to your layered defense.
+  - [Source](https://blog.knowbe4.com/agentic-ai-cybersecurity-evolution)
+
+### Market Trends
+
+- **Agentic AI Foundation Adds 43 New Members as Enterprise and Government Adoption of Open Agent Standards Accelerates**
+  - /PRNewswire/ -- Open Source Summit North America – The Agentic AI Foundation (AAIF), the neutral home where the open standard agentic AI stack is being built,...
+  - [Source](https://prnewswire.com/news-releases/agentic-ai-foundation-adds-43-new-members-as-enterprise-and-government-adoption-of-open-agent-standards-accelerates-302774361.html)
+
+- **BofA Picks Its ‘Top 2 AI Chip Stocks’ for the Agentic AI Boom - TipRanks.com**
+  - Bank of America ($BAC) has raised its outlook for the server CPU market and named Advanced Micro Devices ($AMD) and Nvidia ($NVDA) as its “top AI chip picks,” sayin...
+  - [Source](https://www.tipranks.com/news/bofa-picks-its-top-2-ai-chip-stocks-for-the-agentic-ai-boom)
+
+- **Agentic AI Security Market Surges to $13.52 billion by 2032 | CAGR 42.0%**
+  - Delray Beach, FL, May 22, 2026 (GLOBE NEWSWIRE) -- According to MarketsandMarkets™, the Agentic AI Security Market is projected to grow from USD 1.65...
+  - [Source](https://globenewswire.com/news-release/2026/05/22/3300197/0/en/Agentic-AI-Security-Market-Surges-to-13-52-billion-by-2032-CAGR-42-0.html)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-05-25](./history/2026-05-25_news.md)
 - [News from 2026-05-18](./history/2026-05-18_news.md)
 - [News from 2026-05-11](./history/2026-05-11_news.md)
 - [News from 2026-05-04](./history/2026-05-04_news.md)
 - [News from 2026-04-27](./history/2026-04-27_news.md)
-- [News from 2026-04-20](./history/2026-04-20_news.md)
 
 
 ## Contributing
