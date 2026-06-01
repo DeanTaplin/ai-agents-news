@@ -2,60 +2,60 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (May 25, 2026)
+## Latest Updates (June 01, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **M37Labs releases Agentic AI platform based on NemoClaw and OpenClaw - The Times of India**
-  - Tech News News: M37Labs, an Indian AI-native company, has launched a production-ready, governed agentic AI platform that is built on Nvidia’s NemoClaw and OpenAI’s Op.
-  - [Source](https://timesofindia.indiatimes.com/technology/tech-news/indian-startup-m37labs-releases-governed-agentic-ai-platform-based-on-nemoclaw-and-openclaw/articleshow/131262598.cms)
+- **Tempus Unveils the Next-Generation of Lens, Expanding its Agentic AI Platform for Oncology Drug Development**
+  - Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced the launch of the next-generati...
+  - [Source](https://www.businesswire.com/news/home/20260531652876/en/Tempus-Unveils-the-Next-Generation-of-Lens-Expanding-its-Agentic-AI-Platform-for-Oncology-Drug-Development)
 
-- **Why Google's Gemini Spark AI agent could be a game changer - CBS News**
-  - AI tools that autonomously perform tasks for users mark a major step forward from chatbots, according to tech experts.
-  - [Source](https://cbsnews.com/news/google-gemini-spark-ai-agent)
+- **Google's Agentic AI Tool Gemini Spark Is Now Available | PCMag**
+  - Gemini Spark is currently only available to Google AI Ultra subscribers in the US, meaning you’ll need to spend at least $100 per month to access it.
+  - [Source](https://www.pcmag.com/news/googles-agentic-ai-tool-gemini-spark-is-now-available)
 
-- **The AI agent called, your smartphone is changing - India Today**
-  - The catalyst for this pivotal moment, ... artificial intelligence agent platform called OpenClaw, formerly known as Claudebot and Moltbot. Since bursting onto the scene last November, OpenClaw has captured the imagination of millions by allowing users to chat with autonomous agents via ...
-  - [Source](https://www.indiatoday.in/technology/features/story/ai-agents-smartphones-google-gemini-openclaw-apps-to-intent-2916387-2026-05-24)
+- **Robinhood Markets (HOOD) Is Up 28.1% After Launching Agentic AI Trading And Credit Card Products - Simply Wall St News**
+  - In late May 2026, Robinhood Markets launched “Agentic Trading” and an “Agentic Credit Card,” letting customers connect third‑party AI agents to dedicated brokerage and virtual card accounts that can autonomously trade equities and make purchases within user‑defined limits and guardrails.
+  - [Source](https://simplywall.st/stocks/us/diversified-financials/nasdaq-hood/robinhood-markets/news/robinhood-markets-hood-is-up-281-after-launching-agentic-ai)
 
-- **How to use Google’s new AI agents to go beyond your standard searches | TechCrunch**
-  - Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.
-  - [Source](https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/)
+- **TD Bank Puts Agentic AI To Work In Core Mortgage Lending**
+  - TD Bank (TSX:TD) has launched its first agentic AI model to automate and speed up mortgage and HELOC applications. The deployment brings autonomous generative AI agents into a core lending process as part of TD's enterprise-wide AI strategy. The new system is aimed at supporting operational ...
+  - [Source](https://finance.yahoo.com/markets/stocks/articles/td-bank-puts-agentic-ai-100500163.html)
 
-- **Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic**
-  - Google made a number of AI announcements at its annual developer conference, rolling out more-advanced models and agentic tools for its expansive user base.
-  - [Source](https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html)
+- **AI Agent Infrastructure: Why Enterprises Need a Control Plane**
+  - Artificial intelligence is advancing beyond standalone large language model (LLM) demonstrations and shifting into AI agents. However, there needs to be a solution for an enterprise-grade control plane before corporations can scale these autonomous agents from demos into live production.
+  - [Source](https://www.etftrends.com/artificial-intelligence-content-hub/ai-agent-infrastructure-enterprises-need-control-plane/)
 
 ### Notable Innovations
 
-- **How Agentic AI and Automation Are Changing Cybersecurity**
-  - AI isn't a silver bullet. Discover how agentic AI alters the threat landscape and why human risk management remains vital to your layered defense.
-  - [Source](https://blog.knowbe4.com/agentic-ai-cybersecurity-evolution)
+- **From idea to AI app: Creating intelligent research assistants with Strands | Artificial Intelligence**
+  - Building an AI app shouldn’t require a PhD in machine learning (ML) or months of wrestling with complex architectures. Yet that’s exactly what happens when you try to orchestrate multiple API calls, manage conversation state, and create agents that can reason on their own.
+  - [Source](https://aws.amazon.com/blogs/machine-learning/from-idea-to-ai-app-creating-intelligent-research-assistants-with-strands/)
 
 ### Market Trends
 
-- **Agentic AI Foundation Adds 43 New Members as Enterprise and Government Adoption of Open Agent Standards Accelerates**
-  - /PRNewswire/ -- Open Source Summit North America – The Agentic AI Foundation (AAIF), the neutral home where the open standard agentic AI stack is being built,...
-  - [Source](https://prnewswire.com/news-releases/agentic-ai-foundation-adds-43-new-members-as-enterprise-and-government-adoption-of-open-agent-standards-accelerates-302774361.html)
+- **Apple’s Agentic AI Plans Could Be Its Biggest Growth Story Yet**
+  - Apple may have looked like an AI laggard earlier in the year, but its ecosystem stranglehold could make it one of the agentic AI era's biggest winners.
+  - [Source](https://finance.yahoo.com/markets/stocks/articles/apple-agentic-ai-plans-could-144500121.html)
 
-- **BofA Picks Its ‘Top 2 AI Chip Stocks’ for the Agentic AI Boom - TipRanks.com**
-  - Bank of America ($BAC) has raised its outlook for the server CPU market and named Advanced Micro Devices ($AMD) and Nvidia ($NVDA) as its “top AI chip picks,” sayin...
-  - [Source](https://www.tipranks.com/news/bofa-picks-its-top-2-ai-chip-stocks-for-the-agentic-ai-boom)
+- **Rethinking organizational design in the age of agentic AI | MIT Technology Review**
+  - Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution. Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change.
+  - [Source](https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/)
 
-- **Agentic AI Security Market Surges to $13.52 billion by 2032 | CAGR 42.0%**
-  - Delray Beach, FL, May 22, 2026 (GLOBE NEWSWIRE) -- According to MarketsandMarkets™, the Agentic AI Security Market is projected to grow from USD 1.65...
-  - [Source](https://globenewswire.com/news-release/2026/05/22/3300197/0/en/Agentic-AI-Security-Market-Surges-to-13-52-billion-by-2032-CAGR-42-0.html)
+- **Robinhood’s Agentic AI And Trump Accounts Shift Growth And Risk Profile**
+  - Robinhood Markets (NasdaqGS:HOOD) has rolled out agentic AI trading tools and AI-powered credit card features for retail customers. The new products allow users to delegate portfolio management and day to day spending decisions to AI agents with embedded safety controls.
+  - [Source](https://finance.yahoo.com/markets/stocks/articles/robinhood-agentic-ai-trump-accounts-060550465.html)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-06-01](./history/2026-06-01_news.md)
 - [News from 2026-05-25](./history/2026-05-25_news.md)
 - [News from 2026-05-18](./history/2026-05-18_news.md)
 - [News from 2026-05-11](./history/2026-05-11_news.md)
 - [News from 2026-05-04](./history/2026-05-04_news.md)
-- [News from 2026-04-27](./history/2026-04-27_news.md)
 
 
 ## Contributing
