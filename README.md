@@ -2,60 +2,48 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (June 01, 2026)
+## Latest Updates (June 08, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Tempus Unveils the Next-Generation of Lens, Expanding its Agentic AI Platform for Oncology Drug Development**
-  - Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced the launch of the next-generati...
-  - [Source](https://www.businesswire.com/news/home/20260531652876/en/Tempus-Unveils-the-Next-Generation-of-Lens-Expanding-its-Agentic-AI-Platform-for-Oncology-Drug-Development)
-
-- **Google's Agentic AI Tool Gemini Spark Is Now Available | PCMag**
-  - Gemini Spark is currently only available to Google AI Ultra subscribers in the US, meaning you’ll need to spend at least $100 per month to access it.
-  - [Source](https://www.pcmag.com/news/googles-agentic-ai-tool-gemini-spark-is-now-available)
-
-- **Robinhood Markets (HOOD) Is Up 28.1% After Launching Agentic AI Trading And Credit Card Products - Simply Wall St News**
-  - In late May 2026, Robinhood Markets launched “Agentic Trading” and an “Agentic Credit Card,” letting customers connect third‑party AI agents to dedicated brokerage and virtual card accounts that can autonomously trade equities and make purchases within user‑defined limits and guardrails.
-  - [Source](https://simplywall.st/stocks/us/diversified-financials/nasdaq-hood/robinhood-markets/news/robinhood-markets-hood-is-up-281-after-launching-agentic-ai)
-
-- **TD Bank Puts Agentic AI To Work In Core Mortgage Lending**
-  - TD Bank (TSX:TD) has launched its first agentic AI model to automate and speed up mortgage and HELOC applications. The deployment brings autonomous generative AI agents into a core lending process as part of TD's enterprise-wide AI strategy. The new system is aimed at supporting operational ...
-  - [Source](https://finance.yahoo.com/markets/stocks/articles/td-bank-puts-agentic-ai-100500163.html)
-
-- **AI Agent Infrastructure: Why Enterprises Need a Control Plane**
-  - Artificial intelligence is advancing beyond standalone large language model (LLM) demonstrations and shifting into AI agents. However, there needs to be a solution for an enterprise-grade control plane before corporations can scale these autonomous agents from demos into live production.
-  - [Source](https://www.etftrends.com/artificial-intelligence-content-hub/ai-agent-infrastructure-enterprises-need-control-plane/)
+- **Perplexity AI Introduces Hybrid Local-Server Inference Orchestrator for Personal Computer: Automatic On-Device and Cloud Task Routing - MarkTechPost**
+  - Perplexity AI's new inference orchestrator splits AI workloads between local hardware and cloud frontier models without manual configuration.
+  - [Source](https://www.marktechpost.com/2026/06/05/perplexity-ai-introduces-hybrid-local-server-inference-orchestrator-for-personal-computer-automatic-on-device-and-cloud-task-routing/)
 
 ### Notable Innovations
 
-- **From idea to AI app: Creating intelligent research assistants with Strands | Artificial Intelligence**
-  - Building an AI app shouldn’t require a PhD in machine learning (ML) or months of wrestling with complex architectures. Yet that’s exactly what happens when you try to orchestrate multiple API calls, manage conversation state, and create agents that can reason on their own.
-  - [Source](https://aws.amazon.com/blogs/machine-learning/from-idea-to-ai-app-creating-intelligent-research-assistants-with-strands/)
+- **Majorana 2, made more reliable with Microsoft Discovery agentic AI**
+  - How Microsoft’s new quantum chip was made 1,000x more reliable with the help of Microsoft Discovery's agentic AI.
+  - [Source](https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/)
+
+- **The AI Update — June 5, 2026: Agents Are Working, Regulation Is Moving, and the Hype Is Over | by Adi Insights and Innovations | Adi Insights & Innovations Collective | Jun, 2026 | Medium**
+  - The weekly signal for builders, founders, and curious minds who want to know what actually matters in AI right now.
+  - [Source](https://medium.com/adi-insights-innovations-collective/the-ai-update-june-5-2026-agents-are-working-regulation-is-moving-and-the-hype-is-over-b475b737bd76)
+
+- **Adaptive, Agentic AI Worms Loom as Next Enterprise Threat**
+  - AI worms, or "viruses with wings and brains," adapt to new environments, seek out vulnerabilities, and will likely strike within a year, researchers say.
+  - [Source](https://www.darkreading.com/cyber-risk/adaptive-agentic-ai-worms-enterprise-cyber-threat)
 
 ### Market Trends
 
-- **Apple’s Agentic AI Plans Could Be Its Biggest Growth Story Yet**
-  - Apple may have looked like an AI laggard earlier in the year, but its ecosystem stranglehold could make it one of the agentic AI era's biggest winners.
-  - [Source](https://finance.yahoo.com/markets/stocks/articles/apple-agentic-ai-plans-could-144500121.html)
+- **Best 5 Agentic Engineering Platforms for 2026**
+  - AI coding tools are no longer just helping developers complete functions faster. The market is moving toward agentic engineering platforms: systems that can und
+  - [Source](https://analyticsinsight.net/amp/story/tech-news/best-5-agentic-engineering-platforms-for-2026)
 
-- **Rethinking organizational design in the age of agentic AI | MIT Technology Review**
-  - Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution. Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change.
-  - [Source](https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/)
-
-- **Robinhood’s Agentic AI And Trump Accounts Shift Growth And Risk Profile**
-  - Robinhood Markets (NasdaqGS:HOOD) has rolled out agentic AI trading tools and AI-powered credit card features for retail customers. The new products allow users to delegate portfolio management and day to day spending decisions to AI agents with embedded safety controls.
-  - [Source](https://finance.yahoo.com/markets/stocks/articles/robinhood-agentic-ai-trump-accounts-060550465.html)
+- **Agentic AI hype races ahead as enterprises remain stuck in pilot mode**
+  - Most orgs remain trapped between flashy demos and real-world deployment, despite 75% saying adoption is racing ahead
+  - [Source](https://www.theregister.com/ai-and-ml/2026/06/05/agentic-ai-hype-races-ahead-as-enterprises-remain-stuck-in-pilot-mode/5251711)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-06-08](./history/2026-06-08_news.md)
 - [News from 2026-06-01](./history/2026-06-01_news.md)
 - [News from 2026-05-25](./history/2026-05-25_news.md)
 - [News from 2026-05-18](./history/2026-05-18_news.md)
 - [News from 2026-05-11](./history/2026-05-11_news.md)
-- [News from 2026-05-04](./history/2026-05-04_news.md)
 
 
 ## Contributing
