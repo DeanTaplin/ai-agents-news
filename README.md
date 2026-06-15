@@ -2,48 +2,60 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (June 08, 2026)
+## Latest Updates (June 15, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Perplexity AI Introduces Hybrid Local-Server Inference Orchestrator for Personal Computer: Automatic On-Device and Cloud Task Routing - MarkTechPost**
-  - Perplexity AI's new inference orchestrator splits AI workloads between local hardware and cloud frontier models without manual configuration.
-  - [Source](https://www.marktechpost.com/2026/06/05/perplexity-ai-introduces-hybrid-local-server-inference-orchestrator-for-personal-computer-automatic-on-device-and-cloud-task-routing/)
+- **InfoComm 2026 Opens Today in Las Vegas: Agentic AI and IPMX Drive 750-Exhibitor Pro AV Show**
+  - InfoComm 2026 opened today in Las Vegas as education sessions began at the Las Vegas Convention Center, launching a seven-day pro AV trade show with 750-plus exhibitors, 46 AI sessions, free IPMX training from AIMS, and keynotes from Microsoft VP Ilya Bukshteyn on agentic AI and Cisco VP Espen
+  - [Source](https://www.techtimes.com/articles/318333/20260613/infocomm-2026-opens-today-las-vegas-agentic-ai-ipmx-drive-750-exhibitor-pro-av-show.htm)
+
+- **Coinbase Launches "Coinbase for Agents", Letting AI Trade and Pay on Your Behalf - NFT Plazas**
+  - Coinbase Global (NASDAQ: COIN) has taken one of its most ambitious steps yet into the convergence of artificial intelligence and cryptocurrency, unveiling a new platform that allows AI agents to connect directly to users’ accounts and carry out financial transactions autonomously.
+  - [Source](https://nftplazas.com/coinbase-for-agents-ai-crypto-trading-platform)
+
+- **Coinbase Launches Coinbase For Agents To Enable AI-Powered Financial Transactions**
+  - Coinbase for Agents is designed to provide developers with the tools needed to build these capabilities. Through the platform, developers can create AI-powered applications that interact with Coinbase services and execute financial operations as part of larger automated processes. The launch builds on Coinbase’s broader efforts surrounding artificial intelligence and autonomous ...
+  - [Source](https://pulse2.com/coinbase-launches-coinbase-for-agents-to-enable-ai-powered-financial-transactions)
+
+- **Streamlinefeed**
+  - We're loading the full news article for you. This includes the article content, images, author information, and related articles. ... Global payments giant Visa has launched a strategic alliance with OpenAI to embed secure transaction infrastructure into autonomous AI agentic commerce. ... Global payments giant Visa has unveiled a strategic collaboration with artificial intelligence ...
+  - [Source](https://streamlinefeed.co.ke/news/visa-partners-with-openai-to-pioneer-next-generation-agentic-commerce)
+
+- **Experian and ServiceNow Launch 'Agent Operating System' to Bring Regulated Agentic AI to Lending Workflows | The Fintech Times**
+  - The launch marks a transition for enterprise AI within regulated financial markets, shifting the industry focus away from single-prompt generative chatbots and toward networks of autonomous software agents authorized to execute high-stakes lending decisions. Despite massive industry-wide budgets flowing into artificial intelligence ...
+  - [Source](https://thefintechtimes.com/experian-and-servicenow-launch-agent-operating-system-to-bring-regulated-agentic-ai-to-lending-workflows)
 
 ### Notable Innovations
 
-- **Majorana 2, made more reliable with Microsoft Discovery agentic AI**
-  - How Microsoft’s new quantum chip was made 1,000x more reliable with the help of Microsoft Discovery's agentic AI.
-  - [Source](https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/)
-
-- **The AI Update — June 5, 2026: Agents Are Working, Regulation Is Moving, and the Hype Is Over | by Adi Insights and Innovations | Adi Insights & Innovations Collective | Jun, 2026 | Medium**
-  - The weekly signal for builders, founders, and curious minds who want to know what actually matters in AI right now.
-  - [Source](https://medium.com/adi-insights-innovations-collective/the-ai-update-june-5-2026-agents-are-working-regulation-is-moving-and-the-hype-is-over-b475b737bd76)
-
-- **Adaptive, Agentic AI Worms Loom as Next Enterprise Threat**
-  - AI worms, or "viruses with wings and brains," adapt to new environments, seek out vulnerabilities, and will likely strike within a year, researchers say.
-  - [Source](https://www.darkreading.com/cyber-risk/adaptive-agentic-ai-worms-enterprise-cyber-threat)
+- **Autonomous AI Agents Pose Crypto Financial Risks**
+  - Autonomous AI and crypto could have “far-reaching consequences for users and the financial system,” IC3 researchers said. Artificial intelligence agents that have autonomous access to crypto wallets could become unstoppable if deployed maliciously or if they escape from sandboxes, experts ...
+  - [Source](https://cointelegraph.com/news/autonomous-ai-agents-with-crypto-access-could-become-unstoppable-warn-experts)
 
 ### Market Trends
 
-- **Best 5 Agentic Engineering Platforms for 2026**
-  - AI coding tools are no longer just helping developers complete functions faster. The market is moving toward agentic engineering platforms: systems that can und
-  - [Source](https://analyticsinsight.net/amp/story/tech-news/best-5-agentic-engineering-platforms-for-2026)
+- **The Tech Download: Mistral's Arthur Mensch on agentic AI, chips and enterprise adoption**
+  - CNBC's Arjun Kharpal sat down with the chief of one of Europe's leading AI companies.
+  - [Source](https://www.cnbc.com/2026/06/12/tech-download-mistral-mensch-agentic-ai-chips.html)
 
-- **Agentic AI hype races ahead as enterprises remain stuck in pilot mode**
-  - Most orgs remain trapped between flashy demos and real-world deployment, despite 75% saying adoption is racing ahead
-  - [Source](https://www.theregister.com/ai-and-ml/2026/06/05/agentic-ai-hype-races-ahead-as-enterprises-remain-stuck-in-pilot-mode/5251711)
+- **NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark | NVIDIA Technical Blog**
+  - AI agents have fundamentally changed the complexity of inference workloads. Until now, the industry has struggled to define a standard for measuring how inference systems perform under these…
+  - [Source](https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark/)
+
+- **Why the finance industry is looking to agentic AI | CNN**
+  - AI agents that can shop for you are moving from concept to reality, with banks and financial technology companies getting on board.
+  - [Source](https://www.cnn.com/world/why-the-finance-industry-is-looking-to-agentic-ai-spc)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-06-15](./history/2026-06-15_news.md)
 - [News from 2026-06-08](./history/2026-06-08_news.md)
 - [News from 2026-06-01](./history/2026-06-01_news.md)
 - [News from 2026-05-25](./history/2026-05-25_news.md)
 - [News from 2026-05-18](./history/2026-05-18_news.md)
-- [News from 2026-05-11](./history/2026-05-11_news.md)
 
 
 ## Contributing
