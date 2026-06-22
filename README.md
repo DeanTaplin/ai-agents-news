@@ -2,60 +2,56 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (June 15, 2026)
+## Latest Updates (June 22, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **InfoComm 2026 Opens Today in Las Vegas: Agentic AI and IPMX Drive 750-Exhibitor Pro AV Show**
-  - InfoComm 2026 opened today in Las Vegas as education sessions began at the Las Vegas Convention Center, launching a seven-day pro AV trade show with 750-plus exhibitors, 46 AI sessions, free IPMX training from AIMS, and keynotes from Microsoft VP Ilya Bukshteyn on agentic AI and Cisco VP Espen
-  - [Source](https://www.techtimes.com/articles/318333/20260613/infocomm-2026-opens-today-las-vegas-agentic-ai-ipmx-drive-750-exhibitor-pro-av-show.htm)
+- **Researchers grow a hypothesis tree for AI coding agents | InfoWorld**
+  - A new framework, Arbor, they claim, preserves hypotheses, experiments, and lessons learned across long-running research tasks, delivering 2.5x better performance than other models under the same budget.
+  - [Source](https://www.infoworld.com/article/4187334/researchers-grow-a-hypothesis-tree-for-ai-coding-agents.html)
 
-- **Coinbase Launches "Coinbase for Agents", Letting AI Trade and Pay on Your Behalf - NFT Plazas**
-  - Coinbase Global (NASDAQ: COIN) has taken one of its most ambitious steps yet into the convergence of artificial intelligence and cryptocurrency, unveiling a new platform that allows AI agents to connect directly to users’ accounts and carry out financial transactions autonomously.
-  - [Source](https://nftplazas.com/coinbase-for-agents-ai-crypto-trading-platform)
+- **Agentic AI Comes to Medicine - by Eric Topol**
+  - Expansion of Capabilities With Two New Medical AI Models
+  - [Source](https://erictopol.substack.com/p/agentic-ai-comes-to-medicine)
 
-- **Coinbase Launches Coinbase For Agents To Enable AI-Powered Financial Transactions**
-  - Coinbase for Agents is designed to provide developers with the tools needed to build these capabilities. Through the platform, developers can create AI-powered applications that interact with Coinbase services and execute financial operations as part of larger automated processes. The launch builds on Coinbase’s broader efforts surrounding artificial intelligence and autonomous ...
-  - [Source](https://pulse2.com/coinbase-launches-coinbase-for-agents-to-enable-ai-powered-financial-transactions)
+- **SEP2 brings Gemini Enterprise agents into managed threat monitoring - TechInformed**
+  - Google Cloud says the UK security provider is using autonomous agents for 24/7 threat monitoring, making outsourced security operations a concrete SMB route for agentic AI
+  - [Source](https://techinformed.com/sep2-brings-gemini-enterprise-agents-into-managed-threat-monitoring/)
 
-- **Streamlinefeed**
-  - We're loading the full news article for you. This includes the article content, images, author information, and related articles. ... Global payments giant Visa has launched a strategic alliance with OpenAI to embed secure transaction infrastructure into autonomous AI agentic commerce. ... Global payments giant Visa has unveiled a strategic collaboration with artificial intelligence ...
-  - [Source](https://streamlinefeed.co.ke/news/visa-partners-with-openai-to-pioneer-next-generation-agentic-commerce)
+- **Veeam and HPE expand private cloud innovation for AI and modern virtualized workloads**
+  - Veeam brings Data and AI Trust capabilities to HPE Private Cloud offerings, delivering validated designs for HPE Private Cloud AI, partner-ready packaging for modern virtualization, and expanded collaboration through Veeam’s new Data and AI Trust Maturity Model
+  - [Source](https://www.zawya.com/en/press-release/companies-news/veeam-and-hpe-expand-private-cloud-innovation-for-ai-and-modern-virtualized-workloads-sn3yeo2h)
 
-- **Experian and ServiceNow Launch 'Agent Operating System' to Bring Regulated Agentic AI to Lending Workflows | The Fintech Times**
-  - The launch marks a transition for enterprise AI within regulated financial markets, shifting the industry focus away from single-prompt generative chatbots and toward networks of autonomous software agents authorized to execute high-stakes lending decisions. Despite massive industry-wide budgets flowing into artificial intelligence ...
-  - [Source](https://thefintechtimes.com/experian-and-servicenow-launch-agent-operating-system-to-bring-regulated-agentic-ai-to-lending-workflows)
+- **What are AI agent loops, and could they soon make prompting obsolete? | Technology News - The Indian Express**
+  - Following the debut of ChatGPT ... with artificial intelligence (AI) revolved around one simple idea: Users write a prompt, share enough context, and the AI model generates a response. In the process, prompt engineering quickly emerged as a coveted skill. The better the prompt, the better the output. For a time, prompting was the interface. Then came AI agents, capable of carrying out tasks autonomously with a little ...
+  - [Source](https://indianexpress.com/article/technology/artificial-intelligence/what-are-ai-agent-loops-prompting-obsolete-10750515/)
 
 ### Notable Innovations
 
-- **Autonomous AI Agents Pose Crypto Financial Risks**
-  - Autonomous AI and crypto could have “far-reaching consequences for users and the financial system,” IC3 researchers said. Artificial intelligence agents that have autonomous access to crypto wallets could become unstoppable if deployed maliciously or if they escape from sandboxes, experts ...
-  - [Source](https://cointelegraph.com/news/autonomous-ai-agents-with-crypto-access-could-become-unstoppable-warn-experts)
+- **Agentic Resource Discovery (ARD) in AI: Solving Key Challenges**
+  - In the rapidly evolving landscape of Artificial Intelligence, the concept of AI agents has moved beyond simple task execution to encompass more complex, autonomous operations. A critical component enabling this advanced functionality is Agentic Resource Discovery (ARD).
+  - [Source](https://aiagentsdirectory.com/blog/solving-the-ard-problem-in-ai-agentic-resource-discovery)
+
+- **Solving an ARD problem in AI: Agentic Resource Discovery | InfoWorld**
+  - Microsoft, Google, Cisco and others propose a new way to help AI agents discover the tools they need to perform the tasks they are assigned.
+  - [Source](https://www.infoworld.com/article/4187305/solving-an-ard-problem-in-ai-agentic-resource-discovery.html)
 
 ### Market Trends
 
-- **The Tech Download: Mistral's Arthur Mensch on agentic AI, chips and enterprise adoption**
-  - CNBC's Arjun Kharpal sat down with the chief of one of Europe's leading AI companies.
-  - [Source](https://www.cnbc.com/2026/06/12/tech-download-mistral-mensch-agentic-ai-chips.html)
-
-- **NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark | NVIDIA Technical Blog**
-  - AI agents have fundamentally changed the complexity of inference workloads. Until now, the industry has struggled to define a standard for measuring how inference systems perform under these…
-  - [Source](https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark/)
-
-- **Why the finance industry is looking to agentic AI | CNN**
-  - AI agents that can shop for you are moving from concept to reality, with banks and financial technology companies getting on board.
-  - [Source](https://www.cnn.com/world/why-the-finance-industry-is-looking-to-agentic-ai-spc)
+- **Stop prompting! Why Anthropic co-founder says the way we talk to AI is already obsolete | Mint**
+  - Boris Cherny argues that the industry's future belongs to loop engineering—a paradigm where AI agents autonomously generate and iterate on their own prompts
+  - [Source](https://www.livemint.com/ai/artificial-intelligence/stop-prompting-why-anthropic-co-founder-says-the-way-we-talk-to-ai-is-already-obsolete-11782056172011.html)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-06-22](./history/2026-06-22_news.md)
 - [News from 2026-06-15](./history/2026-06-15_news.md)
 - [News from 2026-06-08](./history/2026-06-08_news.md)
 - [News from 2026-06-01](./history/2026-06-01_news.md)
 - [News from 2026-05-25](./history/2026-05-25_news.md)
-- [News from 2026-05-18](./history/2026-05-18_news.md)
 
 
 ## Contributing
