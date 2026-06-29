@@ -2,56 +2,58 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (June 22, 2026)
+## Latest Updates (June 29, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Researchers grow a hypothesis tree for AI coding agents | InfoWorld**
-  - A new framework, Arbor, they claim, preserves hypotheses, experiments, and lessons learned across long-running research tasks, delivering 2.5x better performance than other models under the same budget.
-  - [Source](https://www.infoworld.com/article/4187334/researchers-grow-a-hypothesis-tree-for-ai-coding-agents.html)
+- **What Are AI World Models? 5 Powerful Ways They Are Changing AI in 2026**
+  - AI world models are moving from ... autonomous vehicles, scientific research, AI agents, and creative industries. With major players like Google DeepMind, Nvidia, OpenAI, and Yann LeCun’s AMI Labs leading the charge, the pace of development is accelerating rapidly. If you want to stay ahead in the rapidly changing world of artificial intelligence, understanding ...
+  - [Source](https://webtooltip.com/artificial-intelligence/ai-world-models/)
 
-- **Agentic AI Comes to Medicine - by Eric Topol**
-  - Expansion of Capabilities With Two New Medical AI Models
-  - [Source](https://erictopol.substack.com/p/agentic-ai-comes-to-medicine)
+- **AEO and Agentic Commerce Services Target Five B2B Verticals | Press Releases | lincolnjournal.com**
+  - Two-Track AEO and Agentic Commerce Platform Targets RIAs, Law Firms, and B2B SaaS San Diego, United States - June 27,
+  - [Source](https://lincolnjournal.com/online_features/press_releases/aeo-and-agentic-commerce-services-target-five-b2b-verticals/article_a0115ede-4092-5da0-9cb2-930b2e12e841.html)
 
-- **SEP2 brings Gemini Enterprise agents into managed threat monitoring - TechInformed**
-  - Google Cloud says the UK security provider is using autonomous agents for 24/7 threat monitoring, making outsourced security operations a concrete SMB route for agentic AI
-  - [Source](https://techinformed.com/sep2-brings-gemini-enterprise-agents-into-managed-threat-monitoring/)
+- **NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations | NVIDIA Blog**
+  - At DTW Ignite 2026, NVIDIA and its partners are showcasing the data, models, simulation and secure runtime stack enabling telcos to build more secure agentic workflows across autonomous networks and operations.
+  - [Source](https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026)
 
-- **Veeam and HPE expand private cloud innovation for AI and modern virtualized workloads**
-  - Veeam brings Data and AI Trust capabilities to HPE Private Cloud offerings, delivering validated designs for HPE Private Cloud AI, partner-ready packaging for modern virtualization, and expanded collaboration through Veeam’s new Data and AI Trust Maturity Model
-  - [Source](https://www.zawya.com/en/press-release/companies-news/veeam-and-hpe-expand-private-cloud-innovation-for-ai-and-modern-virtualized-workloads-sn3yeo2h)
+- **META Stock Drops For Fourth Session: Meta Recruits Cybersecurity Experts To Fortify AI Agents**
+  - The sudden recruitment of Virtue ... frontier artificial intelligence labs, which are caught between rapid technological pivots and an increasingly assertive federal government. Advertisement|Remove ads. Tech giants are shifting focus away from large language models that simply generate text, moving instead toward agentic AI, which is completely autonomous and works ...
+  - [Source](https://stocktwits.com/news-articles/markets/equity/meta-stock-drops-for-fourth-session-meta-recruits-cybersecurity-experts-to-fortify-ai-agents/cZ1GYA5R7Xj)
 
-- **What are AI agent loops, and could they soon make prompting obsolete? | Technology News - The Indian Express**
-  - Following the debut of ChatGPT ... with artificial intelligence (AI) revolved around one simple idea: Users write a prompt, share enough context, and the AI model generates a response. In the process, prompt engineering quickly emerged as a coveted skill. The better the prompt, the better the output. For a time, prompting was the interface. Then came AI agents, capable of carrying out tasks autonomously with a little ...
-  - [Source](https://indianexpress.com/article/technology/artificial-intelligence/what-are-ai-agent-loops-prompting-obsolete-10750515/)
+- **OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access - MarkTechPost**
+  - OpenAI previews GPT-5.6 with Sol, Terra, and Luna tiers, new max and ultra reasoning modes, pricing, and access.
+  - [Source](https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/)
 
 ### Notable Innovations
 
-- **Agentic Resource Discovery (ARD) in AI: Solving Key Challenges**
-  - In the rapidly evolving landscape of Artificial Intelligence, the concept of AI agents has moved beyond simple task execution to encompass more complex, autonomous operations. A critical component enabling this advanced functionality is Agentic Resource Discovery (ARD).
-  - [Source](https://aiagentsdirectory.com/blog/solving-the-ard-problem-in-ai-agentic-resource-discovery)
+- **SoundHound AI wins 2026 agentic AI award | SOUN Stock News**
+  - AI Breakthrough, a leading market ... global Artificial Intelligence (AI) market today. SoundHound AI's category-defining agentic platform, OASYS (Orchestrated Agent System), is the world's first self-learning AI system where AI builds AI. Unlike traditional build-and-deploy approaches that demand constant manual upkeep, OASYS autonomously creates, ...
+  - [Source](https://www.stocktitan.net/news/SOUN/sound-hound-ai-named-overall-agentic-ai-company-of-the-year-in-2026-qmlbd8a8n5b7.html)
 
-- **Solving an ARD problem in AI: Agentic Resource Discovery | InfoWorld**
-  - Microsoft, Google, Cisco and others propose a new way to help AI agents discover the tools they need to perform the tasks they are assigned.
-  - [Source](https://www.infoworld.com/article/4187305/solving-an-ard-problem-in-ai-agentic-resource-discovery.html)
+- **New AI agents pose ‘existential threat’ to how grants are awarded**
+  - Rapid development of technology outpacing any attempts to reform assessment system, researchers warn
+  - [Source](https://timeshighereducation.com/news/new-ai-agents-pose-existential-threat-how-grants-are-awarded)
 
-### Market Trends
+- **AI is no longer just Assistants: They can now buy products for you | Artificial Intelligence News - News9live**
+  - As AI agents begin influencing purchase decisions, brands must ensure they are not only visible to consumers but also discoverable, understandable, and preferred by the algorithms acting on their behalf.
+  - [Source](https://news9live.com/technology/artificial-intelligence/ai-agents-shopping-agentic-commerce-brands-search-battle-2983757)
 
-- **Stop prompting! Why Anthropic co-founder says the way we talk to AI is already obsolete | Mint**
-  - Boris Cherny argues that the industry's future belongs to loop engineering—a paradigm where AI agents autonomously generate and iterate on their own prompts
-  - [Source](https://www.livemint.com/ai/artificial-intelligence/stop-prompting-why-anthropic-co-founder-says-the-way-we-talk-to-ai-is-already-obsolete-11782056172011.html)
+- **Agentic AI Reaches Lawyers and Recruiters: OpenAI Data Shows 137-Fold Non-Dev Growth**
+  - Agentic AI workplace adoption has reached legal, finance, and recruiting teams, with new OpenAI research data showing non-developer Codex users grew 137-fold since August 2025. One in four users delegated tasks requiring 8-plus hours of human work. Here is what the numbers show about how agentic AI
+  - [Source](https://techtimes.com/articles/319114/20260626/agentic-ai-reaches-lawyers-recruiters-openai-data-shows-137-fold-non-dev-growth.htm)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-06-29](./history/2026-06-29_news.md)
 - [News from 2026-06-22](./history/2026-06-22_news.md)
 - [News from 2026-06-15](./history/2026-06-15_news.md)
 - [News from 2026-06-08](./history/2026-06-08_news.md)
 - [News from 2026-06-01](./history/2026-06-01_news.md)
-- [News from 2026-05-25](./history/2026-05-25_news.md)
 
 
 ## Contributing
