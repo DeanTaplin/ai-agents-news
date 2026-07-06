@@ -2,58 +2,50 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (June 29, 2026)
+## Latest Updates (July 06, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **What Are AI World Models? 5 Powerful Ways They Are Changing AI in 2026**
-  - AI world models are moving from ... autonomous vehicles, scientific research, AI agents, and creative industries. With major players like Google DeepMind, Nvidia, OpenAI, and Yann LeCun’s AMI Labs leading the charge, the pace of development is accelerating rapidly. If you want to stay ahead in the rapidly changing world of artificial intelligence, understanding ...
-  - [Source](https://webtooltip.com/artificial-intelligence/ai-world-models/)
+- **OpenAI's Landmark Study: The Shift to Agentic AI Is Already Here**
+  - OpenAI has released a major new research paper, "The Shift to Agentic AI: Evidence from Codex,"
+  - [Source](https://quasa.io/media/openai-s-landmark-study-the-shift-to-agentic-ai-is-already-here)
 
-- **AEO and Agentic Commerce Services Target Five B2B Verticals | Press Releases | lincolnjournal.com**
-  - Two-Track AEO and Agentic Commerce Platform Targets RIAs, Law Firms, and B2B SaaS San Diego, United States - June 27,
-  - [Source](https://lincolnjournal.com/online_features/press_releases/aeo-and-agentic-commerce-services-target-five-b2b-verticals/article_a0115ede-4092-5da0-9cb2-930b2e12e841.html)
+- **Meta’s AI chief says new Muse Spark update will sharpen coding, agentic AI**
+  - Alexandr Wang said the upcoming Muse Spark update will significantly improve coding and agentic capabilities, while analysts say the model could give enterprises a lower-cost alternative to OpenAI and Anthropic.
+  - [Source](https://www.computerworld.com/article/4192733/metas-ai-chief-says-new-muse-spark-update-will-sharpen-coding-agentic-ai-2.html)
 
-- **NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations | NVIDIA Blog**
-  - At DTW Ignite 2026, NVIDIA and its partners are showcasing the data, models, simulation and secure runtime stack enabling telcos to build more secure agentic workflows across autonomous networks and operations.
-  - [Source](https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026)
+- **LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools - MarkTechPost**
+  - LlamaIndex releases legal-kb, a reference app exposing Index v2 retrieval as agent tools: retrieve, find, read, and grep.
+  - [Source](https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/)
 
-- **META Stock Drops For Fourth Session: Meta Recruits Cybersecurity Experts To Fortify AI Agents**
-  - The sudden recruitment of Virtue ... frontier artificial intelligence labs, which are caught between rapid technological pivots and an increasingly assertive federal government. Advertisement|Remove ads. Tech giants are shifting focus away from large language models that simply generate text, moving instead toward agentic AI, which is completely autonomous and works ...
-  - [Source](https://stocktwits.com/news-articles/markets/equity/meta-stock-drops-for-fourth-session-meta-recruits-cybersecurity-experts-to-fortify-ai-agents/cZ1GYA5R7Xj)
+- **Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines - MarkTechPost**
+  - Anthropic released Claude Science, a beta multi-agent AI workbench that runs end-to-end research pipelines and checks every citation.
+  - [Source](https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/)
 
-- **OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access - MarkTechPost**
-  - OpenAI previews GPT-5.6 with Sol, Terra, and Luna tiers, new max and ultra reasoning modes, pricing, and access.
-  - [Source](https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/)
+### Market Trends
 
-### Notable Innovations
+- **OpenClaw Skill Marketplace: Security Risks and Supply Chain Threats in Agentic AI Platforms – Rescana**
+  - Executive SummaryPublication Date: June 2026The rapid evolution of agentic AI platforms has introduced both unprecedented opportunities and significant risks to enterprise environments. OpenClaw, an o
+  - [Source](https://www.rescana.com/post/openclaw-skill-marketplace-security-risks-and-supply-chain-threats-in-agentic-ai-platforms)
 
-- **SoundHound AI wins 2026 agentic AI award | SOUN Stock News**
-  - AI Breakthrough, a leading market ... global Artificial Intelligence (AI) market today. SoundHound AI's category-defining agentic platform, OASYS (Orchestrated Agent System), is the world's first self-learning AI system where AI builds AI. Unlike traditional build-and-deploy approaches that demand constant manual upkeep, OASYS autonomously creates, ...
-  - [Source](https://www.stocktitan.net/news/SOUN/sound-hound-ai-named-overall-agentic-ai-company-of-the-year-in-2026-qmlbd8a8n5b7.html)
+- **Why Agentic AI Testing Is Redefining the Future of Software Quality - GIS user technology news**
+  - This shift is driving the adoption of Agentic AI testing, a new approach that combines artificial intelligence, autonomous decision-making, and intelligent automation to transform how software quality is managed.
+  - [Source](https://gisuser.com/2026/07/why-agentic-ai-testing-is-redefining-the-future-of-software-quality)
 
-- **New AI agents pose ‘existential threat’ to how grants are awarded**
-  - Rapid development of technology outpacing any attempts to reform assessment system, researchers warn
-  - [Source](https://timeshighereducation.com/news/new-ai-agents-pose-existential-threat-how-grants-are-awarded)
-
-- **AI is no longer just Assistants: They can now buy products for you | Artificial Intelligence News - News9live**
-  - As AI agents begin influencing purchase decisions, brands must ensure they are not only visible to consumers but also discoverable, understandable, and preferred by the algorithms acting on their behalf.
-  - [Source](https://news9live.com/technology/artificial-intelligence/ai-agents-shopping-agentic-commerce-brands-search-battle-2983757)
-
-- **Agentic AI Reaches Lawyers and Recruiters: OpenAI Data Shows 137-Fold Non-Dev Growth**
-  - Agentic AI workplace adoption has reached legal, finance, and recruiting teams, with new OpenAI research data showing non-developer Codex users grew 137-fold since August 2025. One in four users delegated tasks requiring 8-plus hours of human work. Here is what the numbers show about how agentic AI
-  - [Source](https://techtimes.com/articles/319114/20260626/agentic-ai-reaches-lawyers-recruiters-openai-data-shows-137-fold-non-dev-growth.htm)
+- **Agentic AI Architecture - InfoQ**
+  - In this eMag, we try to establish agentic AI architecture as a new type of software architecture that will likely dominate the industry for years to come. The articles, written by industry experts, cover various elements and aspects of agentic AI architecture.
+  - [Source](https://www.infoq.com/minibooks/agentic-ai-architecture/)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-07-06](./history/2026-07-06_news.md)
 - [News from 2026-06-29](./history/2026-06-29_news.md)
 - [News from 2026-06-22](./history/2026-06-22_news.md)
 - [News from 2026-06-15](./history/2026-06-15_news.md)
 - [News from 2026-06-08](./history/2026-06-08_news.md)
-- [News from 2026-06-01](./history/2026-06-01_news.md)
 
 
 ## Contributing
