@@ -2,50 +2,46 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (July 06, 2026)
+## Latest Updates (July 13, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **OpenAI's Landmark Study: The Shift to Agentic AI Is Already Here**
-  - OpenAI has released a major new research paper, "The Shift to Agentic AI: Evidence from Codex,"
-  - [Source](https://quasa.io/media/openai-s-landmark-study-the-shift-to-agentic-ai-is-already-here)
+- **Can AI agents become the enterprise's next digital workforce? - Data and Analytics - iTnews Asia**
+  - A key value of agentic AI comes from building the operating model for enterprises to manage both opportunities and risks at scale.
+  - [Source](https://www.itnews.asia/news/can-ai-agents-become-the-enterprises-next-digital-workforce-627278)
 
-- **Meta’s AI chief says new Muse Spark update will sharpen coding, agentic AI**
-  - Alexandr Wang said the upcoming Muse Spark update will significantly improve coding and agentic capabilities, while analysts say the model could give enterprises a lower-cost alternative to OpenAI and Anthropic.
-  - [Source](https://www.computerworld.com/article/4192733/metas-ai-chief-says-new-muse-spark-update-will-sharpen-coding-agentic-ai-2.html)
+- **AI Agent Conducts First Fully Autonomous Ransomware Attack**
+  - Researchers have identified what they believe to be the first agentic ransomware attack. An autonomous large language model (LLM) agent conducted an Researchers have identified what they believe to be the first agentic ransomware attack. An autonomous AI agent identified and exploited a ...
+  - [Source](https://hipaajournal.com/ai-agent-conducts-first-fully-autonomous-ransomware-attack)
 
-- **LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools - MarkTechPost**
-  - LlamaIndex releases legal-kb, a reference app exposing Index v2 retrieval as agent tools: retrieve, find, read, and grep.
-  - [Source](https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/)
+- **OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC**
+  - The company is rolling out GPT-5.6 Sol, Terra and Luna after an initial limited launch.
+  - [Source](https://cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html)
 
-- **Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines - MarkTechPost**
-  - Anthropic released Claude Science, a beta multi-agent AI workbench that runs end-to-end research pipelines and checks every citation.
-  - [Source](https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/)
+- **GPT-5.6 Sol Review: Faster Coding, Half Fable 5 Cost, and a Benchmark Problem**
+  - GPT-5.6 Sol review: OpenAI’s parallel sub-agent model leads Terminal-Bench 2.1 at 91.9% ultra and costs half of Claude Fable 5, but independent evaluator METR found Sol gamed its agentic benchmark at the highest rate ever recorded, making scores unreliable. No confirmed GA date; access limited to
+  - [Source](https://www.techtimes.com/articles/319808/20260707/gpt-56-sol-review-faster-coding-half-fable-5-cost-benchmark-problem.htm)
 
-### Market Trends
+- **Abrigo launches agentic AI platform - US Press Center**
+  - AI agents help financial institutions scale operations with greater speed, consistency, and governance
+  - [Source](https://press.aboutamazon.com/aws/2026/7/abrigo-launches-agentic-ai-platform)
 
-- **OpenClaw Skill Marketplace: Security Risks and Supply Chain Threats in Agentic AI Platforms – Rescana**
-  - Executive SummaryPublication Date: June 2026The rapid evolution of agentic AI platforms has introduced both unprecedented opportunities and significant risks to enterprise environments. OpenClaw, an o
-  - [Source](https://www.rescana.com/post/openclaw-skill-marketplace-security-risks-and-supply-chain-threats-in-agentic-ai-platforms)
+### Notable Innovations
 
-- **Why Agentic AI Testing Is Redefining the Future of Software Quality - GIS user technology news**
-  - This shift is driving the adoption of Agentic AI testing, a new approach that combines artificial intelligence, autonomous decision-making, and intelligent automation to transform how software quality is managed.
-  - [Source](https://gisuser.com/2026/07/why-agentic-ai-testing-is-redefining-the-future-of-software-quality)
-
-- **Agentic AI Architecture - InfoQ**
-  - In this eMag, we try to establish agentic AI architecture as a new type of software architecture that will likely dominate the industry for years to come. The articles, written by industry experts, cover various elements and aspects of agentic AI architecture.
-  - [Source](https://www.infoq.com/minibooks/agentic-ai-architecture/)
+- **Agentic AI widens cyber risk as attackers speed up**
+  - IT Brief Asia - Technology news for CIOs & IT decision-makers ... Security researchers and industry executives are warning that agentic artificial intelligence is reshaping cyber risk on both sides of the attack-defence divide. Recent incidents and legal disputes are exposing governance gaps across software development pipelines and cloud environments. A string of disclosures in recent weeks has shown how attackers already use AI ...
+  - [Source](https://itbrief.asia/story/agentic-ai-widens-cyber-risk-as-attackers-speed-up)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-07-13](./history/2026-07-13_news.md)
 - [News from 2026-07-06](./history/2026-07-06_news.md)
 - [News from 2026-06-29](./history/2026-06-29_news.md)
 - [News from 2026-06-22](./history/2026-06-22_news.md)
 - [News from 2026-06-15](./history/2026-06-15_news.md)
-- [News from 2026-06-08](./history/2026-06-08_news.md)
 
 
 ## Contributing
