@@ -2,76 +2,50 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (July 20, 2026)
+## Latest Updates (July 27, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Nvidia unveils new AI model and expands Japan’s physical AI ecosystem**
-  - Nvidia announces new AI model, Cosmos 3 Edge, and expansion of its physical AI ecosystems in Japan.
-  - [Source](https://cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html)
+- **OpenAI cyber models broke out of training environment to hack Hugging Face**
+  - The incident is unique because it was "driven, end to end, by an autonomous AI agent system," according to Hugging Face. ... OpenAI said that its artificial intelligence models were behind an "unprecedented cyber incident" that affected the open-source developer platform Hugging Face, rattling ...
+  - [Source](https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html)
 
-- **Fueling Agentic AI: Why Autonomous Agents Struggle with Single-Model Pipelines and How AI.cc Provides the Solution**
-  - AiThority - Artificial Intelligence | News | Insights | AiThority ... The transition from conversational chat interfaces to true autonomous systems represents the next major paradigm shift in enterprise software. Today, fortune 500 companies and visionary tech startups are racing to build AI agents ...
-  - [Source](https://aithority.com/machine-learning/fueling-agentic-ai-why-autonomous-agents-struggle-with-single-model-pipelines-and-how-ai-cc-provides-the-solution/)
+- **OpenAI agent goes rogue and hacks popular AI community — left escape plans for future models inside the company's infrastructure | Tom's Hardware**
+  - OpenAI tests multiple autonomous AI agents at once and has difficulty identifying the threats each of them represents, if a new report from Reuters is accurate.
+  - [Source](https://tomshardware.com/tech-industry/artificial-intelligence/openai-agent-goes-rogue-and-hacks-popular-ai-community-left-escape-plans-for-future-models-inside-the-companys-infrastructure)
 
-- **AI agents employ $24M market to act smarter as agentic crypto payments spread online**
-  - Agentic payments are turning every AI task into a live decision about what data, models and tools are worth buying.
-  - [Source](https://cryptoslate.com/agentic-payments-could-put-a-price-on-every-step-of-ai-reasoning)
+- **AI agent went rogue and hacked startup by itself, OpenAI reveals | OpenAI | The Guardian**
+  - Company behind ChatGPT says agent ‘cheated’ an evaluation by attacking a Hugging Face database
+  - [Source](https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident)
 
-- **Injective launches AI Agent SDK for onchain autonomous agents**
-  - Injective launches the iAgent SDK, enabling developers to build onchain autonomous AI agents that execute trades and deploy contracts using natural
-  - [Source](https://cryptobriefing.com/injective-ai-agent-sdk-launch)
+- **Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat - MarkTechPost**
+  - Andrew Ng released OpenWorker, an MIT-licensed local-first desktop AI agent that delivers finished work across 35 app connectors
+  - [Source](https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/)
 
-- **Fighting AI with AI requires enduring, new approaches | Federal News Network**
-  - Federal and industry experts say continuous monitoring, evaluation and red teaming can help organizations ensure their AI models are safe and secure.
-  - [Source](https://federalnewsnetwork.com/federal-insights/2026/07/fighting-ai-with-ai-requires-enduring-new-approaches)
-
-### Notable Innovations
-
-- **Opinion | Agentic AI: the next battleground for Chinese brands | South China Morning Post**
-  - Now, they must learn to win the trust of artificial intelligence (AI) agents that will increasingly shape what consumers discover, consider and ultimately buy. These personal concierges are starting to determine the best choices for each user by balancing price, quality, reliability, sustainability and individual preferences. Tell an AI agent you want to go “somewhere”, and it can autonomously ...
-  - [Source](https://scmp.com/opinion/china-opinion/article/3360497/agentic-ai-next-battleground-chinese-brands)
-
-- **Nous Research Targets $1.5B Valuation in $75M Funding Round | AIToolly**
-  - Nous Research is raising $75M at a $1.5B valuation led by Robot. Learn how this funding impacts the Hermes agent maker and the broader AI industry.
-  - [Source](https://aitoolly.com/ai-news/article/2026-07-14-nous-research-in-talks-for-75-million-funding-round-at-15-billion-valuation)
-
-- **7 Agentic AI Use Cases Transforming Enterprise Operations**
-  - Discover 7 agentic AI use cases transforming enterprise operations from AIOps to autonomous supply chains.
-  - [Source](https://www.cloud-kinetics.com/blog/7-agentic-ai-use-cases-transforming-enterprise-operations/)
-
-- **Agentic AI: The Future of Enterprise AI in 2026**
-  - Discover why Agentic AI is redefining enterprise AI in 2026 and how autonomous AI agents are transforming workflows, productivity, and business outcomes.
-  - [Source](https://nicesoftwaresolutions.com/agentic-ai-workforce)
+- **Autonomous AI agent hacks startup in unprecedented security breach – Deseret News**
+  - Art is an award-winning reporter ... Deseret News' special projects team. ... AI software developer OpenAI released details of a data breach caused by an autonomous AI program. The test of the so-called AI "agent" was designed to be isolated from internet access but thwarted OpenAI security. The program hacked tech startup Hugging Face in an attempt to complete a cybersecurity test task. Artificial intelligence development ...
+  - [Source](https://deseret.com/business/2026/07/22/openai-artificial-intelligence-agents-security-breach-website-hack-hugging-face-regulation-oversight)
 
 ### Market Trends
 
-- **The Company Brain and the future of go-to-market strategy**
-  - Founders eagerly bought into the promise of autonomous agents over the past year, and software usage skyrocketed across the industry as teams rushed to adopt the latest tools. Despite this massive investment in new technology, sales pipelines remained completely flat. This is the ultimate paradox facing modern revenue teams today. The average business-to-business go-to-market team currently runs software from 23 separate vendors. Teams deployed artificial intelligence ...
-  - [Source](https://thenextweb.com/news/company-brain-future-go-to-market-strategy)
+- **OpenAI agents hack Hugging Face, sparking fears of autonomous AI attacks**
+  - Washington and the technology industry are on high alert this week after OpenAI revealed that some of its AI agents went rogue and hacked into the systems of technology startup Hugging Face. The incident bore out years of warnings from the tech and cybersecurity community about the growing ...
+  - [Source](https://thehill.com/policy/technology/5987397-openai-hugging-face-hack/)
 
-- **Salesforce's woes underline marketing's agentic AI problems | MarTech**
-  - Slow Agentforce adoption highlights the poor data quality and operational readiness limiting enterprise AI adoption.
-  - [Source](https://martech.org/salesforces-woes-underline-marketings-agentic-ai-problems/)
-
-- **NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry | NVIDIA Blog**
-  - NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.
-  - [Source](https://blogs.nvidia.com/blog/japan-ecosystem-2026)
-
-- **Exclusive: 34 CEOs on what thrills and terrifies them about agentic AI**
-  - Nobody is ready, but that doesn't matter. Leaders from defense to marketing share what they're doing now and why.
-  - [Source](https://fastcompany.com/91549056/ceo-survey-agentic-ai-promise-fears)
+- **Interview: Agentic AI to drive blockchain adoption, says Animoca Brands' Evan Auyang**
+  - Artificial intelligence, meanwhile, is expected to amplify these trends by automating transactions and enabling software agents to participate directly in financial systems. "Agents ultimately are going to use the blockchain to find investment opportunities, to facilitate payments, and that will accelerate use cases." Invezz: Why do you think blockchain is a natural fit for AI agents? Auyang argued that autonomous ...
+  - [Source](https://invezz.com/news/2026/07/21/interview-agentic-ai-to-drive-blockchain-adoption-says-animoca-brands-evan-auyang)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-07-27](./history/2026-07-27_news.md)
 - [News from 2026-07-20](./history/2026-07-20_news.md)
 - [News from 2026-07-13](./history/2026-07-13_news.md)
 - [News from 2026-07-06](./history/2026-07-06_news.md)
 - [News from 2026-06-29](./history/2026-06-29_news.md)
-- [News from 2026-06-22](./history/2026-06-22_news.md)
 
 
 ## Contributing
