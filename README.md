@@ -2,50 +2,50 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (July 27, 2026)
+## Latest Updates (August 03, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **OpenAI cyber models broke out of training environment to hack Hugging Face**
-  - The incident is unique because it was "driven, end to end, by an autonomous AI agent system," according to Hugging Face. ... OpenAI said that its artificial intelligence models were behind an "unprecedented cyber incident" that affected the open-source developer platform Hugging Face, rattling ...
-  - [Source](https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html)
+- **OpenAI’s rogue agent hacked an account at a second technology firm: Report | Technology News | Al Jazeera**
+  - The latest hack comes after an autonomous agent escaped a controlled test and accessed AI firm Hugging Face’s servers. ... OpenAI’s test model recently hacked into another company, prompting calls for renewed scrutiny of safeguards for advanced AI systems [File: Dado Ruvic/Reuters] ... The rogue artificial intelligence model that broke out of a controlled test and hacked another AI company also compromised a customer at a second technology firm, the Reuters news ...
+  - [Source](https://aljazeera.com/news/2026/7/29/openais-rogue-agent-hacked-an-account-at-a-second-technology-firm-report)
 
-- **OpenAI agent goes rogue and hacks popular AI community — left escape plans for future models inside the company's infrastructure | Tom's Hardware**
-  - OpenAI tests multiple autonomous AI agents at once and has difficulty identifying the threats each of them represents, if a new report from Reuters is accurate.
-  - [Source](https://tomshardware.com/tech-industry/artificial-intelligence/openai-agent-goes-rogue-and-hacks-popular-ai-community-left-escape-plans-for-future-models-inside-the-companys-infrastructure)
+- **Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system | TechCrunch**
+  - Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.
+  - [Source](https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system)
 
-- **AI agent went rogue and hacked startup by itself, OpenAI reveals | OpenAI | The Guardian**
-  - Company behind ChatGPT says agent ‘cheated’ an evaluation by attacking a Hugging Face database
-  - [Source](https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident)
+- **OpenAI has reportedly found that more of its AI agents went rogue. | The Verge**
+  - Reuters reports the agents “escaped containment,” though they aren’t believed to have left “OpenAI’s network.” Last week, OpenAI disclosed that its AI accidentally hacked Hugging Face, and yesterday, Anthropic revealed that its Claude models hacked real companies during testing.
+  - [Source](https://theverge.com/ai-artificial-intelligence/974082/openai-has-reportedly-found-that-more-of-its-ai-agents-went-rogue)
 
-- **Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat - MarkTechPost**
-  - Andrew Ng released OpenWorker, an MIT-licensed local-first desktop AI agent that delivers finished work across 35 app connectors
-  - [Source](https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/)
+- **Amazon Puts AI Agents to Work as Sales Top $200 Billion | PYMNTS.com**
+  - The company has also added payments to Bedrock AgentCore, allowing agents to execute transactions autonomously. The first analyst question on the call turned to frontier AI, the most advanced class of artificial intelligence models. The analyst asked whether Amazon needed a leading model of ...
+  - [Source](https://pymnts.com/amazon/2026/amazon-puts-ai-agents-to-work-as-sales-top-200-billion)
 
-- **Autonomous AI agent hacks startup in unprecedented security breach – Deseret News**
-  - Art is an award-winning reporter ... Deseret News' special projects team. ... AI software developer OpenAI released details of a data breach caused by an autonomous AI program. The test of the so-called AI "agent" was designed to be isolated from internet access but thwarted OpenAI security. The program hacked tech startup Hugging Face in an attempt to complete a cybersecurity test task. Artificial intelligence development ...
-  - [Source](https://deseret.com/business/2026/07/22/openai-artificial-intelligence-agents-security-breach-website-hack-hugging-face-regulation-oversight)
+- **Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues**
+  - Microsoft, SpaceX, Palantir, alongside dozens of other tech companies from the U.S. and Europe, have joined the Open Secure AI Alliance.
+  - [Source](https://cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html)
 
 ### Market Trends
 
-- **OpenAI agents hack Hugging Face, sparking fears of autonomous AI attacks**
-  - Washington and the technology industry are on high alert this week after OpenAI revealed that some of its AI agents went rogue and hacked into the systems of technology startup Hugging Face. The incident bore out years of warnings from the tech and cybersecurity community about the growing ...
-  - [Source](https://thehill.com/policy/technology/5987397-openai-hugging-face-hack/)
+- **Agentic AI gains momentum as banks increasingly automate operations - The Digital Banker**
+  - Banks are entering a new phase of artificial intelligence adoption, moving beyond chatbots and productivity tools to deploy AI that can autonomously execute complex, multi-step tasks across regulated banking functions.
+  - [Source](https://thedigitalbanker.com/agentic-ai-gains-momentum-as-banks-increasingly-automate-operations/)
 
-- **Interview: Agentic AI to drive blockchain adoption, says Animoca Brands' Evan Auyang**
-  - Artificial intelligence, meanwhile, is expected to amplify these trends by automating transactions and enabling software agents to participate directly in financial systems. "Agents ultimately are going to use the blockchain to find investment opportunities, to facilitate payments, and that will accelerate use cases." Invezz: Why do you think blockchain is a natural fit for AI agents? Auyang argued that autonomous ...
-  - [Source](https://invezz.com/news/2026/07/21/interview-agentic-ai-to-drive-blockchain-adoption-says-animoca-brands-evan-auyang)
+- **10+ Agentic AI Trends and Examples for 2026**
+  - Transformative Artificial Intelligence (TAI) systems can: Understand and deconstruct complex goals, even under uncertainty. Use external tools and APIs to take actions in dynamic environments. Adapt strategies, learning from feedback and context. Coordinate with humans and other agents to achieve long-term objectives. ... Get our team to automate one of your business processes with AI ...
+  - [Source](https://aimultiple.com/agentic-ai-trends)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-08-03](./history/2026-08-03_news.md)
 - [News from 2026-07-27](./history/2026-07-27_news.md)
 - [News from 2026-07-20](./history/2026-07-20_news.md)
 - [News from 2026-07-13](./history/2026-07-13_news.md)
 - [News from 2026-07-06](./history/2026-07-06_news.md)
-- [News from 2026-06-29](./history/2026-06-29_news.md)
 
 
 ## Contributing
