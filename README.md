@@ -2,50 +2,56 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (August 03, 2026)
+## Latest Updates (August 10, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **OpenAI’s rogue agent hacked an account at a second technology firm: Report | Technology News | Al Jazeera**
-  - The latest hack comes after an autonomous agent escaped a controlled test and accessed AI firm Hugging Face’s servers. ... OpenAI’s test model recently hacked into another company, prompting calls for renewed scrutiny of safeguards for advanced AI systems [File: Dado Ruvic/Reuters] ... The rogue artificial intelligence model that broke out of a controlled test and hacked another AI company also compromised a customer at a second technology firm, the Reuters news ...
-  - [Source](https://aljazeera.com/news/2026/7/29/openais-rogue-agent-hacked-an-account-at-a-second-technology-firm-report)
+- **Council Post: Agentic AI Creates A New Cybersecurity Challenge And A Defense Model**
+  - We are entering an era where cybersecurity is no longer simply human vs. human. It is increasingly AI vs. AI.
+  - [Source](https://forbes.com/councils/forbestechcouncil/2026/08/07/agentic-ai-creates-a-new-cybersecurity-challenge-and-a-defense-model)
 
-- **Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system | TechCrunch**
-  - Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.
-  - [Source](https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system)
+- **Agentic AI Is Breaking Security’s Human Assumptions**
+  - AI agents can act thousands of times before humans react. Black Hat experts warn identity, costs and security models aren’t ready for what comes next.
+  - [Source](https://forbes.com/sites/ronschmelzer/2026/08/07/agentic-ai-is-breaking-securitys-human-assumptions)
 
-- **OpenAI has reportedly found that more of its AI agents went rogue. | The Verge**
-  - Reuters reports the agents “escaped containment,” though they aren’t believed to have left “OpenAI’s network.” Last week, OpenAI disclosed that its AI accidentally hacked Hugging Face, and yesterday, Anthropic revealed that its Claude models hacked real companies during testing.
-  - [Source](https://theverge.com/ai-artificial-intelligence/974082/openai-has-reportedly-found-that-more-of-its-ai-agents-went-rogue)
+- **NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class - MarkTechPost**
+  - NVIDIA open-sources NOOA, a model-agnostic Python framework where an agent is one class, hitting 82.2% on SWE-bench Verified
+  - [Source](https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/)
 
-- **Amazon Puts AI Agents to Work as Sales Top $200 Billion | PYMNTS.com**
-  - The company has also added payments to Bedrock AgentCore, allowing agents to execute transactions autonomously. The first analyst question on the call turned to frontier AI, the most advanced class of artificial intelligence models. The analyst asked whether Amazon needed a leading model of ...
-  - [Source](https://pymnts.com/amazon/2026/amazon-puts-ai-agents-to-work-as-sales-top-200-billion)
+- **China’s DeepSeek beefs up agentic AI with ‘harness’ tests as V4 model jolts Silicon Valley | South China Morning Post**
+  - Agentic harness frameworks – designed to orchestrate LLMs so they can execute multi-step code, reason through complex workflows, and act autonomously – have become a major battleground for artificial intelligence labs following the commercial success of Anthropic’s Claude Code.
+  - [Source](https://scmp.com/tech/tech-trends/article/3362792/chinas-deepseek-beefs-agentic-ai-harness-tests-v4-model-jolts-silicon-valley)
 
-- **Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues**
-  - Microsoft, SpaceX, Palantir, alongside dozens of other tech companies from the U.S. and Europe, have joined the Open Secure AI Alliance.
-  - [Source](https://cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html)
+- **Prime Intellect Releases Prime Agent: An Open-Source RLM Harness Where Sub-Agents Are Function Calls Inside Persistent IPython Kernel - MarkTechPost**
+  - Prime Intellect open-sources Prime Agent, an MIT-licensed self-improving RLM harness that scores 95.5% on ARC-AGI-3 with Opus 5
+  - [Source](https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/)
+
+### Notable Innovations
+
+- **Agentic AI could force a rethink of enterprise AI server design, researchers say | Network World**
+  - Microsoft Azure and University of Texas researchers found that multi-step AI workflows create CPU-GPU bottlenecks that conventional inference infrastructure struggles to handle efficiently.
+  - [Source](https://networkworld.com/article/4206611/agentic-ai-could-force-a-rethink-of-enterprise-ai-server-design-researchers-say.html)
 
 ### Market Trends
 
-- **Agentic AI gains momentum as banks increasingly automate operations - The Digital Banker**
-  - Banks are entering a new phase of artificial intelligence adoption, moving beyond chatbots and productivity tools to deploy AI that can autonomously execute complex, multi-step tasks across regulated banking functions.
-  - [Source](https://thedigitalbanker.com/agentic-ai-gains-momentum-as-banks-increasingly-automate-operations/)
+- **Author Post: Agentic Commerce Has An Invisible Identity Gap**
+  - There's an invisible identity gap in agentic commerce. And until the agent is tethered to a verified human root, the market will be vulnerable to the kinds of abuse that destroy trust.
+  - [Source](https://forbes.com/sites/forbesbooksauthors/2026/08/07/agentic-commerce-has-an-invisible-identity-gap)
 
-- **10+ Agentic AI Trends and Examples for 2026**
-  - Transformative Artificial Intelligence (TAI) systems can: Understand and deconstruct complex goals, even under uncertainty. Use external tools and APIs to take actions in dynamic environments. Adapt strategies, learning from feedback and context. Coordinate with humans and other agents to achieve long-term objectives. ... Get our team to automate one of your business processes with AI ...
-  - [Source](https://aimultiple.com/agentic-ai-trends)
+- **Agentic Automation Market to Reach USD 55 Billion by 2036 as Autonomous AI Agents Transform Enterprise Operations, Says Future Market Insights**
+  - NEWARK United States August 5 2026 The global agentic automation market is witnessing remarkable growth as enterprises increasingly adopt autonomous artificial intelligence systems capable of executing complex workflows with minimal human intervention Organizations across banking healthcare ...
+  - [Source](https://openpr.com/news/4595762/agentic-automation-market-to-reach-usd-55-billion-by-2036-as)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-08-10](./history/2026-08-10_news.md)
 - [News from 2026-08-03](./history/2026-08-03_news.md)
 - [News from 2026-07-27](./history/2026-07-27_news.md)
 - [News from 2026-07-20](./history/2026-07-20_news.md)
 - [News from 2026-07-13](./history/2026-07-13_news.md)
-- [News from 2026-07-06](./history/2026-07-06_news.md)
 
 
 ## Contributing
