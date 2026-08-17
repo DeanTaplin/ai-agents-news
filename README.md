@@ -2,56 +2,52 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (August 10, 2026)
+## Latest Updates (August 17, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Council Post: Agentic AI Creates A New Cybersecurity Challenge And A Defense Model**
-  - We are entering an era where cybersecurity is no longer simply human vs. human. It is increasingly AI vs. AI.
-  - [Source](https://forbes.com/councils/forbestechcouncil/2026/08/07/agentic-ai-creates-a-new-cybersecurity-challenge-and-a-defense-model)
+- **Launch of DeepSeek’s Harness marks its strategic pivot towards autonomous agentic AI | South China Morning Post**
+  - Chinese artificial intelligence company DeepSeek is venturing into a new battleground beyond large language models, launching a developer preview of its long-anticipated Harness – a software framework that helps developers turn AI models into autonomous agents.
+  - [Source](https://www.scmp.com/tech/big-tech/article/3364082/launch-deepseeks-harness-marks-its-strategic-pivot-towards-autonomous-agentic-ai)
 
-- **Agentic AI Is Breaking Security’s Human Assumptions**
-  - AI agents can act thousands of times before humans react. Black Hat experts warn identity, costs and security models aren’t ready for what comes next.
-  - [Source](https://forbes.com/sites/ronschmelzer/2026/08/07/agentic-ai-is-breaking-securitys-human-assumptions)
+- **AI agents tried to sabotage and disable each other when given the same task, Anthropic said**
+  - The AI lab said the models engaged in a "multiagent turf war" during a testing session.
+  - [Source](https://businessinsider.com/anthropic-ai-agents-sabotage-each-other-turf-war-2026-8)
 
-- **NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class - MarkTechPost**
-  - NVIDIA open-sources NOOA, a model-agnostic Python framework where an agent is one class, hitting 82.2% on SWE-bench Verified
-  - [Source](https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/)
+- **NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI | NVIDIA Blog**
+  - The new lightweight open model and routing library delivers greater control over AI, data and workflows across edge devices, PCs, workstations, data centers and the cloud.
+  - [Source](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
 
-- **China’s DeepSeek beefs up agentic AI with ‘harness’ tests as V4 model jolts Silicon Valley | South China Morning Post**
-  - Agentic harness frameworks – designed to orchestrate LLMs so they can execute multi-step code, reason through complex workflows, and act autonomously – have become a major battleground for artificial intelligence labs following the commercial success of Anthropic’s Claude Code.
-  - [Source](https://scmp.com/tech/tech-trends/article/3362792/chinas-deepseek-beefs-agentic-ai-harness-tests-v4-model-jolts-silicon-valley)
-
-- **Prime Intellect Releases Prime Agent: An Open-Source RLM Harness Where Sub-Agents Are Function Calls Inside Persistent IPython Kernel - MarkTechPost**
-  - Prime Intellect open-sources Prime Agent, an MIT-licensed self-improving RLM harness that scores 95.5% on ARC-AGI-3 with Opus 5
-  - [Source](https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/)
+- **[VIDEO AI WEEKLY NEWS RUNDOWN] Autonomous Agents Breach Taiwan, Enterprises Refuse the Frontier, and the Watermark Split (August 16, 2026)**
+  - Subscribe for weekly updates and deep dives into artificial intelligence innovations. ... [AUDIO AI DAILY NEWS RUNDOWN] OpenAI Hits 750 Tokens Per Second, Enterprises Quietly Abandon Frontier Models, and Claude Agents Wage a Turf… ... [AUDIO AI DAILY NEWS RUNDOWN] Grok 4.6 Storms Frontier, Autonomous ...
+  - [Source](https://enoumen.substack.com/p/video-ai-weekly-news-rundown-autonomous)
 
 ### Notable Innovations
 
-- **Agentic AI could force a rethink of enterprise AI server design, researchers say | Network World**
-  - Microsoft Azure and University of Texas researchers found that multi-step AI workflows create CPU-GPU bottlenecks that conventional inference infrastructure struggles to handle efficiently.
-  - [Source](https://networkworld.com/article/4206611/agentic-ai-could-force-a-rethink-of-enterprise-ai-server-design-researchers-say.html)
+- **Is Your Business Ready for the Agentic Pivot? | ACL Digital**
+  - Discover how leading enterprises deploy AI agents, overcome data bottlenecks, and shift to an agentic operational framework for massive efficiency gains.
+  - [Source](https://acldigital.com/blogs/agentic-pivot-enterprise-ai-framework)
 
 ### Market Trends
 
-- **Author Post: Agentic Commerce Has An Invisible Identity Gap**
-  - There's an invisible identity gap in agentic commerce. And until the agent is tethered to a verified human root, the market will be vulnerable to the kinds of abuse that destroy trust.
-  - [Source](https://forbes.com/sites/forbesbooksauthors/2026/08/07/agentic-commerce-has-an-invisible-identity-gap)
+- **Hippocratic AI Unveils Agentic Orchestrators: NYSE Content Update**
+  - /PRNewswire/ -- The New York Stock Exchange (NYSE) provides a daily pre-market update directly from the NYSE Trading Floor. Access today's NYSE Pre-market...
+  - [Source](https://prnewswire.com/news-releases/hippocratic-ai-unveils-agentic-orchestrators-nyse-content-update-302851846.html)
 
-- **Agentic Automation Market to Reach USD 55 Billion by 2036 as Autonomous AI Agents Transform Enterprise Operations, Says Future Market Insights**
-  - NEWARK United States August 5 2026 The global agentic automation market is witnessing remarkable growth as enterprises increasingly adopt autonomous artificial intelligence systems capable of executing complex workflows with minimal human intervention Organizations across banking healthcare ...
-  - [Source](https://openpr.com/news/4595762/agentic-automation-market-to-reach-usd-55-billion-by-2036-as)
+- **Intel agencies take deliberate approach to agentic AI adoption | Federal News Network**
+  - Justin Doubleday covers cybersecurity, homeland security and the intelligence community for Federal News Network. ... Agentic AI All News Artificial Intelligence Automation Defense Intelligence Agency FBI Intelligence Community Katie Noyes Michelle Aten National Geospatial-Intelligence Agency ...
+  - [Source](https://federalnewsnetwork.com/artificial-intelligence/2026/08/intel-agencies-take-deliberate-approach-to-agentic-ai-adoption/)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-08-17](./history/2026-08-17_news.md)
 - [News from 2026-08-10](./history/2026-08-10_news.md)
 - [News from 2026-08-03](./history/2026-08-03_news.md)
 - [News from 2026-07-27](./history/2026-07-27_news.md)
 - [News from 2026-07-20](./history/2026-07-20_news.md)
-- [News from 2026-07-13](./history/2026-07-13_news.md)
 
 
 ## Contributing
