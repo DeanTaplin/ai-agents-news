@@ -2,52 +2,56 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (August 17, 2026)
+## Latest Updates (August 24, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Launch of DeepSeek’s Harness marks its strategic pivot towards autonomous agentic AI | South China Morning Post**
-  - Chinese artificial intelligence company DeepSeek is venturing into a new battleground beyond large language models, launching a developer preview of its long-anticipated Harness – a software framework that helps developers turn AI models into autonomous agents.
-  - [Source](https://www.scmp.com/tech/big-tech/article/3364082/launch-deepseeks-harness-marks-its-strategic-pivot-towards-autonomous-agentic-ai)
+- **NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents | NVIDIA Technical Blog**
+  - A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives context, uses tools, maintains state…
+  - [Source](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/)
 
-- **AI agents tried to sabotage and disable each other when given the same task, Anthropic said**
-  - The AI lab said the models engaged in a "multiagent turf war" during a testing session.
-  - [Source](https://businessinsider.com/anthropic-ai-agents-sabotage-each-other-turf-war-2026-8)
+- **Q&A: Promise and perils of agentic AI**
+  - Chatbots and large language models can execute a seemingly countless number of tasks, from writing emails and reports to generating code and analyzing data. However, they still primarily act only in response to user prompts and rely on their own predictive models to generate text.
+  - [Source](https://techxplore.com/news/2026-08-qa-perils-agentic-ai.html)
 
-- **NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI | NVIDIA Blog**
-  - The new lightweight open model and routing library delivers greater control over AI, data and workflows across edge devices, PCs, workstations, data centers and the cloud.
-  - [Source](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
+- **Gartner: Agentic AI won’t benefit from economies of scale | Computer Weekly**
+  - The cost of AI inference varies greatly depending on the model and how much thinking and planning agentic AI systems need to do
+  - [Source](https://computerweekly.com/news/366648782/Gartner-Agentic-AI-wont-benefit-from-economies-of-scale)
 
-- **[VIDEO AI WEEKLY NEWS RUNDOWN] Autonomous Agents Breach Taiwan, Enterprises Refuse the Frontier, and the Watermark Split (August 16, 2026)**
-  - Subscribe for weekly updates and deep dives into artificial intelligence innovations. ... [AUDIO AI DAILY NEWS RUNDOWN] OpenAI Hits 750 Tokens Per Second, Enterprises Quietly Abandon Frontier Models, and Claude Agents Wage a Turf… ... [AUDIO AI DAILY NEWS RUNDOWN] Grok 4.6 Storms Frontier, Autonomous ...
-  - [Source](https://enoumen.substack.com/p/video-ai-weekly-news-rundown-autonomous)
+- **Automating customer support with agentic ai systems**
+  - Instant, 24/7 resolution via autonomous agents eliminates wait times, fostering long-term user loyalty and transforming support from a cost center into a strategic engagement tool. ... Share on Facebook Share on Twitter Share on WhatsApp Share on WhatsApp Share on Telegram Share on Email ... I write about artificial intelligence as it shows up in real life — not in demos or press releases. I focus on how AI ...
+  - [Source](https://ucstrategies.com/news/customer-support-agentic-ai-automation)
 
 ### Notable Innovations
 
-- **Is Your Business Ready for the Agentic Pivot? | ACL Digital**
-  - Discover how leading enterprises deploy AI agents, overcome data bottlenecks, and shift to an agentic operational framework for massive efficiency gains.
-  - [Source](https://acldigital.com/blogs/agentic-pivot-enterprise-ai-framework)
+- **Vercel Introduces 'Is Agentic', a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora's 100+ Checks - MarkTechPost**
+  - Vercel AI's free Is Agentic tool scores how well AI agents can discover, read, and use your public website.
+  - [Source](https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/)
+
+- **Accelerating aircraft IFEC diagnostics with agentic AI on AWS | Artificial Intelligence**
+  - Panasonic Avionics worked with AWS and the AWS Generative AI Innovation Center to build an agentic AI system on Amazon Bedrock, Amazon SageMaker, and AWS Glue that diagnoses in-flight entertainment and connectivity (IFEC) issues across a global fleet, reducing diagnosis time from hours to minutes ...
+  - [Source](https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/)
 
 ### Market Trends
 
-- **Hippocratic AI Unveils Agentic Orchestrators: NYSE Content Update**
-  - /PRNewswire/ -- The New York Stock Exchange (NYSE) provides a daily pre-market update directly from the NYSE Trading Floor. Access today's NYSE Pre-market...
-  - [Source](https://prnewswire.com/news-releases/hippocratic-ai-unveils-agentic-orchestrators-nyse-content-update-302851846.html)
+- **Business adoption of AI agents tripled this year - as measurable ROI emerges | ZDNET**
+  - Industries are finding the strategies that work best for their business needs, according to Salesforce's latest Agentic Enterprise Index.
+  - [Source](https://zdnet.com/article/ai-agent-adoption-tripled-measurable-roi)
 
-- **Intel agencies take deliberate approach to agentic AI adoption | Federal News Network**
-  - Justin Doubleday covers cybersecurity, homeland security and the intelligence community for Federal News Network. ... Agentic AI All News Artificial Intelligence Automation Defense Intelligence Agency FBI Intelligence Community Katie Noyes Michelle Aten National Geospatial-Intelligence Agency ...
-  - [Source](https://federalnewsnetwork.com/artificial-intelligence/2026/08/intel-agencies-take-deliberate-approach-to-agentic-ai-adoption/)
+- **10+ Agentic AI Trends and Examples for 2026**
+  - Transformative Artificial Intelligence (TAI) systems can: Understand and deconstruct complex goals, even under uncertainty. Use external tools and APIs to take actions in dynamic environments. Adapt strategies, learning from feedback and context. Coordinate with humans and other agents to achieve long-term objectives. ... Get our team to automate one of your business processes with AI ...
+  - [Source](https://aimultiple.com/agentic-ai-trends)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-08-24](./history/2026-08-24_news.md)
 - [News from 2026-08-17](./history/2026-08-17_news.md)
 - [News from 2026-08-10](./history/2026-08-10_news.md)
 - [News from 2026-08-03](./history/2026-08-03_news.md)
 - [News from 2026-07-27](./history/2026-07-27_news.md)
-- [News from 2026-07-20](./history/2026-07-20_news.md)
 
 
 ## Contributing
