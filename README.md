@@ -2,56 +2,56 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (August 24, 2026)
+## Latest Updates (August 31, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents | NVIDIA Technical Blog**
-  - A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives context, uses tools, maintains state…
-  - [Source](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/)
-
-- **Q&A: Promise and perils of agentic AI**
-  - Chatbots and large language models can execute a seemingly countless number of tasks, from writing emails and reports to generating code and analyzing data. However, they still primarily act only in response to user prompts and rely on their own predictive models to generate text.
-  - [Source](https://techxplore.com/news/2026-08-qa-perils-agentic-ai.html)
-
-- **Gartner: Agentic AI won’t benefit from economies of scale | Computer Weekly**
-  - The cost of AI inference varies greatly depending on the model and how much thinking and planning agentic AI systems need to do
-  - [Source](https://computerweekly.com/news/366648782/Gartner-Agentic-AI-wont-benefit-from-economies-of-scale)
-
-- **Automating customer support with agentic ai systems**
-  - Instant, 24/7 resolution via autonomous agents eliminates wait times, fostering long-term user loyalty and transforming support from a cost center into a strategic engagement tool. ... Share on Facebook Share on Twitter Share on WhatsApp Share on WhatsApp Share on Telegram Share on Email ... I write about artificial intelligence as it shows up in real life — not in demos or press releases. I focus on how AI ...
-  - [Source](https://ucstrategies.com/news/customer-support-agentic-ai-automation)
+- **The SOC Is Entering the Age of Agentic AI | Security Info Watch**
+  - Artificial intelligence (AI) models and fledgling AI agents are being tasked with SOC responsibilities, calibrated to recognize and flag any anomalous behavior as suspicious and potentially risky. Unfortunately, the expansion of agentic AI is about to challenge that assumption head-on. As AI solutions move from model-based assistants to autonomous ...
+  - [Source](https://securityinfowatch.com/security-executives/article/55400782/the-soc-is-entering-the-age-of-agentic-ai)
 
 ### Notable Innovations
 
-- **Vercel Introduces 'Is Agentic', a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora's 100+ Checks - MarkTechPost**
-  - Vercel AI's free Is Agentic tool scores how well AI agents can discover, read, and use your public website.
-  - [Source](https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/)
+- **The Agentic AI and Quantum Convergence: Innovation and Cybersecurity Imperatives for US Government Agencies and Contractors$**
+  - The United States government and industry are adapting to the growing interdependence of artificial intelligence, quantum technology, autonomous systems and space capabilities. The Potomac Officers Club’s 2026 Intel Summit takes up the same convergence at its lunch panel, titled “Agentic AI and ...
+  - [Source](https://govconwire.com/articles/agentic-ai-quantum-convergence-government-cyber)
 
-- **Accelerating aircraft IFEC diagnostics with agentic AI on AWS | Artificial Intelligence**
-  - Panasonic Avionics worked with AWS and the AWS Generative AI Innovation Center to build an agentic AI system on Amazon Bedrock, Amazon SageMaker, and AWS Glue that diagnoses in-flight entertainment and connectivity (IFEC) issues across a global fleet, reducing diagnosis time from hours to minutes ...
-  - [Source](https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/)
+- **Businesses must reinvent their processes and workforce to scale agentic AI adoption | ZDNET**
+  - Only 15% of US-based organizations have reached scaled, orchestrated, multi-agent adoption, according to the latest Deloitte research.
+  - [Source](https://zdnet.com/article/businesses-must-reinvent-their-processes-and-workforce-to-scale-agentic-ai-adoption)
+
+- **Everything about the incident involving OpenAI’s autonomous AI agents - Root-Nation.com**
+  - Read also: Everything You Need to Know About AI Browsers: A Loud Debut, a Quiet Finish · Until recently, serious cyberattacks were ultimately driven by humans – hacker groups, criminal networks, government agencies, or insiders. Artificial intelligence has long assisted them by accelerating vulnerability discovery, automating phishing campaigns, and processing vast amounts of data. But the case described here points to something qualitatively different: autonomous, multi-agent ...
+  - [Source](https://root-nation.com/en/articles-en/analytics-en/en-when-machines-start-communicating-with-each-other)
+
+- **This Is How Anthropic Thinks AI Agents Should Navigate the Physical World | WIRED**
+  - The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.
+  - [Source](https://wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world)
+
+- **AGENTIC INTELLIGENCE Newsletter #55 - by Pascal Bornet**
+  - The First Newsletter Dedicated to AI Agent Breakthroughs
+  - [Source](https://intelligencenewsletter.substack.com/p/agentic-intelligence-newsletter-55)
 
 ### Market Trends
 
-- **Business adoption of AI agents tripled this year - as measurable ROI emerges | ZDNET**
-  - Industries are finding the strategies that work best for their business needs, according to Salesforce's latest Agentic Enterprise Index.
-  - [Source](https://zdnet.com/article/ai-agent-adoption-tripled-measurable-roi)
+- **AI Agents Become the API Economy’s Biggest New Customers | PYMNTS.com**
+  - For all PYMNTS AI coverage, subscribe to the daily AI Newsletter. Crypto Card Spending Jumps Threefold in a Year, Paymentscan Data Shows · Private Equity Groups Begin Placing AI Experts in Portfolio Companies · Walmart Aims to Take On Amazon With Trendier Apparel · OpenAI Exec Tells People to Expect Routine AI-Driven Cyberattacks · See More In: Agentic AI, AI, APIs, artificial intelligence...
+  - [Source](https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-become-the-api-economys-biggest-new-customers/)
 
-- **10+ Agentic AI Trends and Examples for 2026**
-  - Transformative Artificial Intelligence (TAI) systems can: Understand and deconstruct complex goals, even under uncertainty. Use external tools and APIs to take actions in dynamic environments. Adapt strategies, learning from feedback and context. Coordinate with humans and other agents to achieve long-term objectives. ... Get our team to automate one of your business processes with AI ...
-  - [Source](https://aimultiple.com/agentic-ai-trends)
+- **How African enterprise can leapfrog legacy by building zero-trust foundations for the agentic AI era | TechCabal**
+  - As the adoption of autonomous artificial intelligence (AI) accelerates globally, Africa’s business leaders face the dual challenge of scaling agentic systems fast enough to remain competitive, while also defending against an expanding cyber-threat landscape.
+  - [Source](https://techcabal.com/2026/08/26/how-african-enterprise-can-leapfrog-legacy-by-building-zero-trust-foundations-for-the-agentic-ai-era/)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-08-31](./history/2026-08-31_news.md)
 - [News from 2026-08-24](./history/2026-08-24_news.md)
 - [News from 2026-08-17](./history/2026-08-17_news.md)
 - [News from 2026-08-10](./history/2026-08-10_news.md)
 - [News from 2026-08-03](./history/2026-08-03_news.md)
-- [News from 2026-07-27](./history/2026-07-27_news.md)
 
 
 ## Contributing
