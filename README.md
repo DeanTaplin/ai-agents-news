@@ -2,56 +2,42 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (August 31, 2026)
+## Latest Updates (September 07, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **The SOC Is Entering the Age of Agentic AI | Security Info Watch**
-  - Artificial intelligence (AI) models and fledgling AI agents are being tasked with SOC responsibilities, calibrated to recognize and flag any anomalous behavior as suspicious and potentially risky. Unfortunately, the expansion of agentic AI is about to challenge that assumption head-on. As AI solutions move from model-based assistants to autonomous ...
-  - [Source](https://securityinfowatch.com/security-executives/article/55400782/the-soc-is-entering-the-age-of-agentic-ai)
+- **Another Rogue OpenAI Agent Swarm Went Undisclosed. We Have No Idea How Many More Are Out There**
+  - AI companies are as much of a black box as the models themselves.
+  - [Source](https://gizmodo.com/another-rogue-openai-agent-swarm-went-undisclosed-we-have-no-idea-how-many-more-are-out-there-2000807447)
 
 ### Notable Innovations
 
-- **The Agentic AI and Quantum Convergence: Innovation and Cybersecurity Imperatives for US Government Agencies and Contractors$**
-  - The United States government and industry are adapting to the growing interdependence of artificial intelligence, quantum technology, autonomous systems and space capabilities. The Potomac Officers Club’s 2026 Intel Summit takes up the same convergence at its lunch panel, titled “Agentic AI and ...
-  - [Source](https://govconwire.com/articles/agentic-ai-quantum-convergence-government-cyber)
+- **AI agents from OpenAI broke out in unreported incident, report claims - The Washington Post**
+  - Artificial-intelligence agents left 18,000 messages for one another online, independent researchers claim.
+  - [Source](https://washingtonpost.com/technology/2026/09/04/ai-agents-openai-broke-out-unreported-incident-report-claims)
 
-- **Businesses must reinvent their processes and workforce to scale agentic AI adoption | ZDNET**
-  - Only 15% of US-based organizations have reached scaled, orchestrated, multi-agent adoption, according to the latest Deloitte research.
-  - [Source](https://zdnet.com/article/businesses-must-reinvent-their-processes-and-workforce-to-scale-agentic-ai-adoption)
+- **The rise of AI agents: Why businesses still need to keep a hand on the wheel - Digital Journal**
+  - There is little doubt that AI agents are improving rapidly. Capabilities that seemed experimental only months ago are becoming commercially available. Research, scheduling, document handling and workflow automation are already demonstrating measurable productivity benefits.
+  - [Source](https://digitaljournal.com/article/the-rise-of-ai-agents-why-businesses-still-need-to-keep-a-hand-on-the-wheel)
 
-- **Everything about the incident involving OpenAI’s autonomous AI agents - Root-Nation.com**
-  - Read also: Everything You Need to Know About AI Browsers: A Loud Debut, a Quiet Finish · Until recently, serious cyberattacks were ultimately driven by humans – hacker groups, criminal networks, government agencies, or insiders. Artificial intelligence has long assisted them by accelerating vulnerability discovery, automating phishing campaigns, and processing vast amounts of data. But the case described here points to something qualitatively different: autonomous, multi-agent ...
-  - [Source](https://root-nation.com/en/articles-en/analytics-en/en-when-machines-start-communicating-with-each-other)
+- **Researcher who found OpenAI-linked rogue agent swarm says AI giants may hide future chaos**
+  - A new investigation finds that AI agents from OpenAI used a German-language Wikipedia-like site to communicate with each other and shared techniques to skirt restrictions.
+  - [Source](https://nbcnews.com/tech/security/openai-linked-ai-agents-swarmed-dormant-german-wiki-report-rcna596182)
 
-- **This Is How Anthropic Thinks AI Agents Should Navigate the Physical World | WIRED**
-  - The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.
-  - [Source](https://wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world)
-
-- **AGENTIC INTELLIGENCE Newsletter #55 - by Pascal Bornet**
-  - The First Newsletter Dedicated to AI Agent Breakthroughs
-  - [Source](https://intelligencenewsletter.substack.com/p/agentic-intelligence-newsletter-55)
-
-### Market Trends
-
-- **AI Agents Become the API Economy’s Biggest New Customers | PYMNTS.com**
-  - For all PYMNTS AI coverage, subscribe to the daily AI Newsletter. Crypto Card Spending Jumps Threefold in a Year, Paymentscan Data Shows · Private Equity Groups Begin Placing AI Experts in Portfolio Companies · Walmart Aims to Take On Amazon With Trendier Apparel · OpenAI Exec Tells People to Expect Routine AI-Driven Cyberattacks · See More In: Agentic AI, AI, APIs, artificial intelligence...
-  - [Source](https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-become-the-api-economys-biggest-new-customers/)
-
-- **How African enterprise can leapfrog legacy by building zero-trust foundations for the agentic AI era | TechCabal**
-  - As the adoption of autonomous artificial intelligence (AI) accelerates globally, Africa’s business leaders face the dual challenge of scaling agentic systems fast enough to remain competitive, while also defending against an expanding cyber-threat landscape.
-  - [Source](https://techcabal.com/2026/08/26/how-african-enterprise-can-leapfrog-legacy-by-building-zero-trust-foundations-for-the-agentic-ai-era/)
+- **Manage agents, tools and skills at scale with AWS Agent Registry | Artificial Intelligence**
+  - AWS Agent Registry is now generally available: a single, searchable, governed catalog for the agents, tools, skills, and custom resources across your organization. This post explains what Registry is and walks through its publishing, curation, and discovery workflows, plus enterprise considerations ...
+  - [Source](https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-09-07](./history/2026-09-07_news.md)
 - [News from 2026-08-31](./history/2026-08-31_news.md)
 - [News from 2026-08-24](./history/2026-08-24_news.md)
 - [News from 2026-08-17](./history/2026-08-17_news.md)
 - [News from 2026-08-10](./history/2026-08-10_news.md)
-- [News from 2026-08-03](./history/2026-08-03_news.md)
 
 
 ## Contributing
