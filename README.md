@@ -2,42 +2,48 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (September 07, 2026)
+## Latest Updates (September 14, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Another Rogue OpenAI Agent Swarm Went Undisclosed. We Have No Idea How Many More Are Out There**
-  - AI companies are as much of a black box as the models themselves.
-  - [Source](https://gizmodo.com/another-rogue-openai-agent-swarm-went-undisclosed-we-have-no-idea-how-many-more-are-out-there-2000807447)
+- **OpenAI releases new AI agent – after admitting one went rogue | OpenAI | The Guardian**
+  - OpenAI’s president, Greg Brockman, ... as “artificial general intelligence” (AGI), a fuzzy term that at its basic level means an AI that is more capable than a human being at intellectual tasks. “It’s not unreasonable to feel that we are now in the AGI era,” he said. But if the announcement sparked amazement, it was as much cause of concern. In July, OpenAI revealed that its AI agent, a type of software capable of carrying out tasks autonomous in response ...
+  - [Source](https://theguardian.com/technology/2026/sep/04/openai-agent-goes-rogue)
+
+- **Tech news: Certinia unveils major AI update, 14 new agents, 71 new actions | Accounting Today**
+  - Plus, Cherry Hill Advisory launches set of free AI tools; Datarails launches finance ticketing system; and other accounting tech news.
+  - [Source](https://accountingtoday.com/list/tech-news-certinia-unveils-major-ai-update-14-new-agents-71-new-actions)
+
+- **The latest AI-powered martech news and releases | MarTech**
+  - Archive launched Archie, an AI agent for creator marketing campaigns. The software applies artificial intelligence to analyze brand descriptions, evaluate creator content histories, verify audience data, and return shortlists of pre-vetted creators for specific marketing campaigns. Auth0 released new identity security capabilities to secure machine-to-machine interactions and autonomous ...
+  - [Source](https://martech.org/the-latest-ai-powered-martech-news-and-releases)
+
+- **Hackers Use Autonomous AI Agents to Launch Mass Credential Theft Attacks in Under 6 Hours**
+  - AI agents helped attackers launch a cloud credential theft campaign in under six hours, stealing thousands of third-party credentials.
+  - [Source](https://cybersecuritynews.com/autonomous-ai-agents)
 
 ### Notable Innovations
 
-- **AI agents from OpenAI broke out in unreported incident, report claims - The Washington Post**
-  - Artificial-intelligence agents left 18,000 messages for one another online, independent researchers claim.
-  - [Source](https://washingtonpost.com/technology/2026/09/04/ai-agents-openai-broke-out-unreported-incident-report-claims)
+- **How AI Agents Are Automating SEO & Content Strategy in 2026**
+  - Discover how AI agents are transforming SEO and content strategy through automation, GEO, technical SEO, and smarter workflows.
+  - [Source](https://analyticsinsight.net/artificial-intelligence/how-ai-agents-are-automating-seo-content-strategy-in-2026)
 
-- **The rise of AI agents: Why businesses still need to keep a hand on the wheel - Digital Journal**
-  - There is little doubt that AI agents are improving rapidly. Capabilities that seemed experimental only months ago are becoming commercially available. Research, scheduling, document handling and workflow automation are already demonstrating measurable productivity benefits.
-  - [Source](https://digitaljournal.com/article/the-rise-of-ai-agents-why-businesses-still-need-to-keep-a-hand-on-the-wheel)
+### Market Trends
 
-- **Researcher who found OpenAI-linked rogue agent swarm says AI giants may hide future chaos**
-  - A new investigation finds that AI agents from OpenAI used a German-language Wikipedia-like site to communicate with each other and shared techniques to skirt restrictions.
-  - [Source](https://nbcnews.com/tech/security/openai-linked-ai-agents-swarmed-dormant-german-wiki-report-rcna596182)
-
-- **Manage agents, tools and skills at scale with AWS Agent Registry | Artificial Intelligence**
-  - AWS Agent Registry is now generally available: a single, searchable, governed catalog for the agents, tools, skills, and custom resources across your organization. This post explains what Registry is and walks through its publishing, curation, and discovery workflows, plus enterprise considerations ...
-  - [Source](https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/)
+- **Council Post: The Challenges Of Agentic AI In Programmatic Advertising: What The Industry Needs To Solve**
+  - As the technology matures, the most successful AdTech companies will be those that use agentic AI to support human expertise, not to replace it.
+  - [Source](https://forbes.com/councils/forbestechcouncil/2026/09/10/the-challenges-of-agentic-ai-in-programmatic-advertising-what-the-industry-needs-to-solve)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-09-14](./history/2026-09-14_news.md)
 - [News from 2026-09-07](./history/2026-09-07_news.md)
 - [News from 2026-08-31](./history/2026-08-31_news.md)
 - [News from 2026-08-24](./history/2026-08-24_news.md)
 - [News from 2026-08-17](./history/2026-08-17_news.md)
-- [News from 2026-08-10](./history/2026-08-10_news.md)
 
 
 ## Contributing
