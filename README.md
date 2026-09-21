@@ -2,48 +2,60 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (September 14, 2026)
+## Latest Updates (September 21, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **OpenAI releases new AI agent – after admitting one went rogue | OpenAI | The Guardian**
-  - OpenAI’s president, Greg Brockman, ... as “artificial general intelligence” (AGI), a fuzzy term that at its basic level means an AI that is more capable than a human being at intellectual tasks. “It’s not unreasonable to feel that we are now in the AGI era,” he said. But if the announcement sparked amazement, it was as much cause of concern. In July, OpenAI revealed that its AI agent, a type of software capable of carrying out tasks autonomous in response ...
-  - [Source](https://theguardian.com/technology/2026/sep/04/openai-agent-goes-rogue)
+- **The agentic AI transition is underway | CIO**
+  - While enterprises differ on how far along they are in the process, nearly every company is adopting AI agents to some degree. The most mature are rebuilding operations and even business models around them.
+  - [Source](https://www.cio.com/article/4220800/the-agentic-ai-transition-is-underway.html)
 
-- **Tech news: Certinia unveils major AI update, 14 new agents, 71 new actions | Accounting Today**
-  - Plus, Cherry Hill Advisory launches set of free AI tools; Datarails launches finance ticketing system; and other accounting tech news.
-  - [Source](https://accountingtoday.com/list/tech-news-certinia-unveils-major-ai-update-14-new-agents-71-new-actions)
+- **Leading labs say AI models will soon achieve the ability to improve autonomously**
+  - Once a distant ambition for technology researchers, the prospect of artificial intelligence models teaching themselves autonomously to be more efficient and capable appears ever closer to reality.
+  - [Source](https://washingtontimes.com/news/2026/sep/19/leading-labs-say-ai-models-soon-achieve-ability-improve-autonomously)
 
-- **The latest AI-powered martech news and releases | MarTech**
-  - Archive launched Archie, an AI agent for creator marketing campaigns. The software applies artificial intelligence to analyze brand descriptions, evaluate creator content histories, verify audience data, and return shortlists of pre-vetted creators for specific marketing campaigns. Auth0 released new identity security capabilities to secure machine-to-machine interactions and autonomous ...
-  - [Source](https://martech.org/the-latest-ai-powered-martech-news-and-releases)
+- **ThinkingAI launches Agentic Engine with AI agents tracking growth on a company’s own infrastructure - SiliconANGLE**
+  - ThinkingData Information Technology Pte. Ltd. today announced the launch of the Agentic Engine, an autonomous growth platform for consumer and gaming businesses that uses artificial intelligence to track data, experiment and develop campaigns.
+  - [Source](https://siliconangle.com/2026/09/16/thinkingdataai-launches-agentic-engine-with-ai-agents-tracking-growth-on-a-companys-own-infrastructure/)
 
-- **Hackers Use Autonomous AI Agents to Launch Mass Credential Theft Attacks in Under 6 Hours**
-  - AI agents helped attackers launch a cloud credential theft campaign in under six hours, stealing thousands of third-party credentials.
-  - [Source](https://cybersecuritynews.com/autonomous-ai-agents)
+- **AI agents are getting better at cybersecurity. That cuts both ways. - Nextgov/FCW**
+  - NIST is testing agentic AI to help enrich the National Vulnerability Database, even as increasingly capable models demonstrate why cyber autonomy needs ...
+  - [Source](https://nextgov.com/cybersecurity/2026/09/ai-agents-are-getting-better-cybersecurity-cuts-both-ways/416025)
 
 ### Notable Innovations
 
-- **How AI Agents Are Automating SEO & Content Strategy in 2026**
-  - Discover how AI agents are transforming SEO and content strategy through automation, GEO, technical SEO, and smarter workflows.
-  - [Source](https://analyticsinsight.net/artificial-intelligence/how-ai-agents-are-automating-seo-content-strategy-in-2026)
+- **The Next Frontier Is Not Artificial Intelligence—It’s Artificial Societies**
+  - Professor Nick Jennings is vice ... authority in the areas of AI, autonomous systems, cybersecurity, and agent-based computing. He was awarded the 2026 Research Excellence Award by the International Joint Conference on Artificial Intelligence....
+  - [Source](https://singularityhub.com/2026/09/17/the-next-frontier-is-not-artificial-intelligence-its-artificial-societies/)
+
+- **First Agentic AI Data Breach Reported to Spanish Regulator - SecurityWeek**
+  - Spanish Data Protection Agency investigates a reported data breach in which an AI agent allegedly chained together login, vulnerability discovery, and personal-data access.
+  - [Source](https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/)
 
 ### Market Trends
 
-- **Council Post: The Challenges Of Agentic AI In Programmatic Advertising: What The Industry Needs To Solve**
-  - As the technology matures, the most successful AdTech companies will be those that use agentic AI to support human expertise, not to replace it.
-  - [Source](https://forbes.com/councils/forbestechcouncil/2026/09/10/the-challenges-of-agentic-ai-in-programmatic-advertising-what-the-industry-needs-to-solve)
+- **These 3 Agentic AI Stocks Have More Than Hype Behind Their Growth Stories**
+  - ServiceNow, UiPath, and Palo Alto Networks show real agentic AI traction through earnings growth, enterprise adoption, and partnerships, making their fundamentals worth watching amid market volatility.
+  - [Source](https://finance.yahoo.com/technology/ai/articles/3-agentic-ai-stocks-more-123500759.html)
+
+- **Can Rising Adoption of Agentic AI Accelerate NET's Revenue Growth?**
+  - Cloudflare's surging AI-agent traffic, Workers adoption and new monetization tools can help accelerate revenue growth as its market expands.
+  - [Source](https://finance.yahoo.com/technology/ai/articles/rising-adoption-agentic-ai-accelerate-140600400.html)
+
+- **GenAI Skills in 2026: Why AI Agents, Multi-Agent Systems Matter**
+  - AI agent adoption is growing in 2026. Here is why learning GenAI, RAG, multi-agent systems, orchestration, and AI evaluation can strengthen your skills.
+  - [Source](https://analyticsinsight.net/artificial-intelligence/genai-skills-in-2026-why-ai-agents-multi-agent-systems-matter)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-09-21](./history/2026-09-21_news.md)
 - [News from 2026-09-14](./history/2026-09-14_news.md)
 - [News from 2026-09-07](./history/2026-09-07_news.md)
 - [News from 2026-08-31](./history/2026-08-31_news.md)
 - [News from 2026-08-24](./history/2026-08-24_news.md)
-- [News from 2026-08-17](./history/2026-08-17_news.md)
 
 
 ## Contributing
