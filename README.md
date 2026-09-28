@@ -2,60 +2,56 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (September 21, 2026)
+## Latest Updates (September 28, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **The agentic AI transition is underway | CIO**
-  - While enterprises differ on how far along they are in the process, nearly every company is adopting AI agents to some degree. The most mature are rebuilding operations and even business models around them.
-  - [Source](https://www.cio.com/article/4220800/the-agentic-ai-transition-is-underway.html)
+- **Why Meta Launched Its New AI Agent Amid an Existential Slump – Archyde**
+  - Meta has launched Muse, a personal AI agent designed to manage emails, calendars, and digital administration directly on behalf of users.
+  - [Source](https://www.archyde.com/why-meta-launched-its-new-ai-agent-amid-an-existential-slump/)
 
-- **Leading labs say AI models will soon achieve the ability to improve autonomously**
-  - Once a distant ambition for technology researchers, the prospect of artificial intelligence models teaching themselves autonomously to be more efficient and capable appears ever closer to reality.
-  - [Source](https://washingtontimes.com/news/2026/sep/19/leading-labs-say-ai-models-soon-achieve-ability-improve-autonomously)
+- **Council Post: Your AI Agent Has Agency, Treat It Like A Privileged Human**
+  - For CIOs and CISOs, the practical implication is clear: AI security must move from protecting a model to controlling an agent's behavior.
+  - [Source](https://forbes.com/councils/forbestechcouncil/2026/09/24/your-ai-agent-has-agency-treat-it-like-a-privileged-human)
 
-- **ThinkingAI launches Agentic Engine with AI agents tracking growth on a company’s own infrastructure - SiliconANGLE**
-  - ThinkingData Information Technology Pte. Ltd. today announced the launch of the Agentic Engine, an autonomous growth platform for consumer and gaming businesses that uses artificial intelligence to track data, experiment and develop campaigns.
-  - [Source](https://siliconangle.com/2026/09/16/thinkingdataai-launches-agentic-engine-with-ai-agents-tracking-growth-on-a-companys-own-infrastructure/)
+- **AI Agents News Brief: September 27, 2026 - Developments in AI Agents**
+  - Daily digest of AI agents news, including updates on Microsoft Copilot, Claude AI, OpenAI security, and new agent frameworks.
+  - [Source](https://aiagentsdirectory.com/news/ai-agents-news-brief-september-27-2026)
 
-- **AI agents are getting better at cybersecurity. That cuts both ways. - Nextgov/FCW**
-  - NIST is testing agentic AI to help enrich the National Vulnerability Database, even as increasingly capable models demonstrate why cyber autonomy needs ...
-  - [Source](https://nextgov.com/cybersecurity/2026/09/ai-agents-are-getting-better-cybersecurity-cuts-both-ways/416025)
+- **Is the AI existential threat real—and can regulatory action prevent it? | Brookings**
+  - 8, a former Anthropic employee ... news coverage highlighted longstanding concerns about the possible existential risks surrounding the development of artificial intelligence (AI), which range from models aiding the development of bioweapons to autonomous agents escaping human ...
+  - [Source](https://brookings.edu/articles/is-the-ai-existential-threat-real-and-can-regulatory-action-prevent-it)
+
+- **Blueprinting SAP Agentic AI: MCP & A2A - SAP Community**
+  - As organizations shift from static, retrieval-augmented generation (RAG) chatbots to autonomous workflows, SAP has laid out a definitive blueprint for the future of enterprise automation. The newly released SAP Reference Architecture for Agentic AI & AI Agents fundamentally rewrites the rules ...
+  - [Source](https://community.sap.com/t5/technology-blog-posts-by-members/blueprinting-sap-agentic-ai-mcp-amp-a2a/ba-p/14493036)
 
 ### Notable Innovations
 
-- **The Next Frontier Is Not Artificial Intelligence—It’s Artificial Societies**
-  - Professor Nick Jennings is vice ... authority in the areas of AI, autonomous systems, cybersecurity, and agent-based computing. He was awarded the 2026 Research Excellence Award by the International Joint Conference on Artificial Intelligence....
-  - [Source](https://singularityhub.com/2026/09/17/the-next-frontier-is-not-artificial-intelligence-its-artificial-societies/)
-
-- **First Agentic AI Data Breach Reported to Spanish Regulator - SecurityWeek**
-  - Spanish Data Protection Agency investigates a reported data breach in which an AI agent allegedly chained together login, vulnerability discovery, and personal-data access.
-  - [Source](https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/)
+- **More agents go rogue - but AI companies aren't slowing down yet - SiliconANGLE**
+  - It’s becoming more apparent every day that artificial intelligence agents are escaping our control — but it’s not yet apparent who or what is going to rein them in. This week a researcher found that a swarm of AI agents, at least two of them from OpenAI, hacked into a government agency ...
+  - [Source](https://siliconangle.com/2026/09/25/more-agents-go-rogue-but-ai-companies-arent-slowing-down-yet)
 
 ### Market Trends
 
-- **These 3 Agentic AI Stocks Have More Than Hype Behind Their Growth Stories**
-  - ServiceNow, UiPath, and Palo Alto Networks show real agentic AI traction through earnings growth, enterprise adoption, and partnerships, making their fundamentals worth watching amid market volatility.
-  - [Source](https://finance.yahoo.com/technology/ai/articles/3-agentic-ai-stocks-more-123500759.html)
+- **BlackRock says AI agents could use stablecoins to pay for data and computing power**
+  - Artificial intelligence could be one of the biggest drivers for digital asset adoption as autonomous agents begin buying services, moving money and sourcing computing power, according to a BlackRock paper. The asset manager argues that AI provides “machine-native intelligence” while digital ...
+  - [Source](https://coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock)
 
-- **Can Rising Adoption of Agentic AI Accelerate NET's Revenue Growth?**
-  - Cloudflare's surging AI-agent traffic, Workers adoption and new monetization tools can help accelerate revenue growth as its market expands.
-  - [Source](https://finance.yahoo.com/technology/ai/articles/rising-adoption-agentic-ai-accelerate-140600400.html)
-
-- **GenAI Skills in 2026: Why AI Agents, Multi-Agent Systems Matter**
-  - AI agent adoption is growing in 2026. Here is why learning GenAI, RAG, multi-agent systems, orchestration, and AI evaluation can strengthen your skills.
-  - [Source](https://analyticsinsight.net/artificial-intelligence/genai-skills-in-2026-why-ai-agents-multi-agent-systems-matter)
+- **Agentic AI Enters New Phase: 62% Experiment, 23% Scale as AI Spending Hits USD 64 Bn**
+  - Agentic AI adoption is gaining momentum as enterprise demand and investment rise, but reliability, integration, governance, and ROI remain key challenges.
+  - [Source](https://analyticsinsight.net/reports/agentic-ai-enters-new-phase-62-experiment-23-scale-as-ai-spending-hits-usd-64-bn)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-09-28](./history/2026-09-28_news.md)
 - [News from 2026-09-21](./history/2026-09-21_news.md)
 - [News from 2026-09-14](./history/2026-09-14_news.md)
 - [News from 2026-09-07](./history/2026-09-07_news.md)
 - [News from 2026-08-31](./history/2026-08-31_news.md)
-- [News from 2026-08-24](./history/2026-08-24_news.md)
 
 
 ## Contributing
