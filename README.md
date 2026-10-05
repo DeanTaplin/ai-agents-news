@@ -2,56 +2,60 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (September 28, 2026)
+## Latest Updates (October 05, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Why Meta Launched Its New AI Agent Amid an Existential Slump – Archyde**
-  - Meta has launched Muse, a personal AI agent designed to manage emails, calendars, and digital administration directly on behalf of users.
-  - [Source](https://www.archyde.com/why-meta-launched-its-new-ai-agent-amid-an-existential-slump/)
+- **AI researcher warns humans lack control over autonomous AI agents | Fox News**
+  - Artificial intelligence researcher Jeffrey Ladish told Fox News Digital that humanity does not have any real strategies to keep increasingly autonomous AI models and agents under control as they become more capable of hacking, cheating and ignoring instructions.
+  - [Source](https://www.foxnews.com/tech/former-anthropic-security-leader-warns-ai-agents-becoming-too-autonomous-humans-keep-check)
 
-- **Council Post: Your AI Agent Has Agency, Treat It Like A Privileged Human**
-  - For CIOs and CISOs, the practical implication is clear: AI security must move from protecting a model to controlling an agent's behavior.
-  - [Source](https://forbes.com/councils/forbestechcouncil/2026/09/24/your-ai-agent-has-agency-treat-it-like-a-privileged-human)
+- **AI Agents Are About to Flood the Workforce. No One’s Ready for It | WIRED**
+  - But these coworkers aren’t human: They are all artificial intelligence agents. The rise of AI agents—systems, based on large language models, designed to complete tasks autonomously—has launched a tsunami of companies selling the services of digital employees.
+  - [Source](https://wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it)
 
-- **AI Agents News Brief: September 27, 2026 - Developments in AI Agents**
-  - Daily digest of AI agents news, including updates on Microsoft Copilot, Claude AI, OpenAI security, and new agent frameworks.
-  - [Source](https://aiagentsdirectory.com/news/ai-agents-news-brief-september-27-2026)
+- **The AI agents are spiraling out of control | Technology | The Guardian**
+  - On 15 September, Microsoft AI published a code of conduct designed to govern the development and behavior of its artificial intelligence models amid concerns about the safety and autonomy of AI systems. Photograph: Samuel Boivin/NurPhoto/Shutterstock · The agents are spiraling out of control.
+  - [Source](https://theguardian.com/global/2026/sep/28/ai-agents-spiral)
 
-- **Is the AI existential threat real—and can regulatory action prevent it? | Brookings**
-  - 8, a former Anthropic employee ... news coverage highlighted longstanding concerns about the possible existential risks surrounding the development of artificial intelligence (AI), which range from models aiding the development of bioweapons to autonomous agents escaping human ...
-  - [Source](https://brookings.edu/articles/is-the-ai-existential-threat-real-and-can-regulatory-action-prevent-it)
-
-- **Blueprinting SAP Agentic AI: MCP & A2A - SAP Community**
-  - As organizations shift from static, retrieval-augmented generation (RAG) chatbots to autonomous workflows, SAP has laid out a definitive blueprint for the future of enterprise automation. The newly released SAP Reference Architecture for Agentic AI & AI Agents fundamentally rewrites the rules ...
-  - [Source](https://community.sap.com/t5/technology-blog-posts-by-members/blueprinting-sap-agentic-ai-mcp-amp-a2a/ba-p/14493036)
+- **The Battle to Be Your Personal AI Agent Is Here | WIRED**
+  - OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too. ... Yesterday, I spent the morning at OpenAI’s annual DevDay, where over 2,500 nerds discussed building software and marveled at the latest artificial intelligence models. The biggest reveal of the day was Dots, the company’s new, always-on agents that proactively help complete tasks and make autonomous ...
+  - [Source](https://wired.com/story/ai-agents-dots-devday-muse-battling-it-out)
 
 ### Notable Innovations
 
-- **More agents go rogue - but AI companies aren't slowing down yet - SiliconANGLE**
-  - It’s becoming more apparent every day that artificial intelligence agents are escaping our control — but it’s not yet apparent who or what is going to rein them in. This week a researcher found that a swarm of AI agents, at least two of them from OpenAI, hacked into a government agency ...
-  - [Source](https://siliconangle.com/2026/09/25/more-agents-go-rogue-but-ai-companies-arent-slowing-down-yet)
+- **Independent researchers are revealing new details about rogue AI agents - The Washington Post**
+  - An informal network of hackers and researchers is exposing new details about misbehaving AI that meddled with corporate and government websites.
+  - [Source](https://washingtonpost.com/technology/2026/10/02/independent-researchers-are-revealing-new-details-about-rogue-ai-agents)
 
 ### Market Trends
 
-- **BlackRock says AI agents could use stablecoins to pay for data and computing power**
-  - Artificial intelligence could be one of the biggest drivers for digital asset adoption as autonomous agents begin buying services, moving money and sourcing computing power, according to a BlackRock paper. The asset manager argues that AI provides “machine-native intelligence” while digital ...
-  - [Source](https://coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock)
+- **As A.I. Agents Begin Shopping, Brands Are Changing Their Sales Pitch - The New York Times**
+  - Faced with bots immune to traditional marketing tactics, marketers are racing to win them over with logic and data.
+  - [Source](https://nytimes.com/2026/10/03/business/dealbook/ai-agent-marketing.html)
 
-- **Agentic AI Enters New Phase: 62% Experiment, 23% Scale as AI Spending Hits USD 64 Bn**
-  - Agentic AI adoption is gaining momentum as enterprise demand and investment rise, but reliability, integration, governance, and ROI remain key challenges.
-  - [Source](https://analyticsinsight.net/reports/agentic-ai-enters-new-phase-62-experiment-23-scale-as-ai-spending-hits-usd-64-bn)
+- **AI Agents, Security Crises, and Workforce Upheaval Define This Week in Tech - TechRepublic**
+  - AI agents expand into work as security crises, zero-days, major breaches, robotics bets, and AI-driven workforce changes reshape the tech industry.
+  - [Source](https://techrepublic.com/article/ai-agents-security-crises-and-workforce-upheaval-define-this-week-in-tech)
+
+- **Agentic AI Market Outlook 2026-2035: Market Size, Growth, Adoption and Key Opportunities**
+  - The Agentic AI market is projected to reach $290.62B by 2035. Explore market growth, enterprise adoption, key technologies, applications, regions, and trends.
+  - [Source](https://analyticsinsight.net/artificial-intelligence/agentic-ai-market-outlook-2026-2035-market-size-growth-adoption-and-key-opportunities)
+
+- **Agentic AI—The Killer Use Case for Blockchain and Crypto - Asia Asset Management**
+  - This article was originally published ... LinkedIn Newsletter. To capture the AI growth opportunity today, most investors buy shares of AI-aligned companies and related verticals. But will the same playbook work for agentic AI? See why cryptocurrencies and alt coins may be key to emerging agentic AI growth opportunities. Artificial intelligence continues ...
+  - [Source](https://asiaasset.com/partnered-content/agentic-ai-the-killer-use-case-for-blockchain-and-crypto)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-10-05](./history/2026-10-05_news.md)
 - [News from 2026-09-28](./history/2026-09-28_news.md)
 - [News from 2026-09-21](./history/2026-09-21_news.md)
 - [News from 2026-09-14](./history/2026-09-14_news.md)
 - [News from 2026-09-07](./history/2026-09-07_news.md)
-- [News from 2026-08-31](./history/2026-08-31_news.md)
 
 
 ## Contributing
