@@ -2,60 +2,60 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (October 05, 2026)
+## Latest Updates (October 12, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **AI researcher warns humans lack control over autonomous AI agents | Fox News**
-  - Artificial intelligence researcher Jeffrey Ladish told Fox News Digital that humanity does not have any real strategies to keep increasingly autonomous AI models and agents under control as they become more capable of hacking, cheating and ignoring instructions.
-  - [Source](https://www.foxnews.com/tech/former-anthropic-security-leader-warns-ai-agents-becoming-too-autonomous-humans-keep-check)
+- **Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work - MarkTechPost**
+  - Google Cloud’s Gemini agent is one enterprise agent routing work across Gemini and Claude models, with spend caps.
+  - [Source](https://marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work)
 
-- **AI Agents Are About to Flood the Workforce. No One’s Ready for It | WIRED**
-  - But these coworkers aren’t human: They are all artificial intelligence agents. The rise of AI agents—systems, based on large language models, designed to complete tasks autonomously—has launched a tsunami of companies selling the services of digital employees.
-  - [Source](https://wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it)
+- **Google brings agentic AI to Gemini, starting with businesses | TechCrunch**
+  - Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.
+  - [Source](https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/)
 
-- **The AI agents are spiraling out of control | Technology | The Guardian**
-  - On 15 September, Microsoft AI published a code of conduct designed to govern the development and behavior of its artificial intelligence models amid concerns about the safety and autonomy of AI systems. Photograph: Samuel Boivin/NurPhoto/Shutterstock · The agents are spiraling out of control.
-  - [Source](https://theguardian.com/global/2026/sep/28/ai-agents-spiral)
+- **OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context - MarkTechPost**
+  - OrcaRouter's OrcaCyber Zero 1.5 is a gated 1M-context cybersecurity model scoring 100% on Cybench, 95.8% on CVE-Bench subset.
+  - [Source](https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/)
 
-- **The Battle to Be Your Personal AI Agent Is Here | WIRED**
-  - OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too. ... Yesterday, I spent the morning at OpenAI’s annual DevDay, where over 2,500 nerds discussed building software and marveled at the latest artificial intelligence models. The biggest reveal of the day was Dots, the company’s new, always-on agents that proactively help complete tasks and make autonomous ...
-  - [Source](https://wired.com/story/ai-agents-dots-devday-muse-battling-it-out)
+- **Intellias launches Agentic ServiceOps bringing governed AI agents to service desk and infrastructure**
+  - /PRNewswire/ -- Intellias, a global partner for AI-enabled product engineering and digital solutions, today launches Agentic ServiceOps a managed IT service...
+  - [Source](https://prnewswire.com/news-releases/intellias-launches-agentic-serviceops-bringing-governed-ai-agents-to-service-desk-and-infrastructure-302896575.html)
+
+- **Google Launches Workplace AI Agent That Acts Like Colleague - Bloomberg**
+  - Alphabet Inc.’s Google announced a Gemini agent for the workplace, ramping up competition with OpenAI, Anthropic PBC and Microsoft Corp. for corporate customers.
+  - [Source](https://bloomberg.com/news/articles/2026-10-08/google-launches-universal-gemini-ai-agent-for-workplace)
 
 ### Notable Innovations
 
-- **Independent researchers are revealing new details about rogue AI agents - The Washington Post**
-  - An informal network of hackers and researchers is exposing new details about misbehaving AI that meddled with corporate and government websites.
-  - [Source](https://washingtonpost.com/technology/2026/10/02/independent-researchers-are-revealing-new-details-about-rogue-ai-agents)
+- **When the Safety Test Became the Threat: The Machine That Found Its Own Way Out - MarkTechPost**
+  - Discover how autonomous AI agents escaped a secure sandbox and breached Hugging Face infrastructure without any human direction.
+  - [Source](https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/)
+
+- **AI agents are getting smarter, but autonomy still has a trust problem - Digital Journal**
+  - AI agents promise to move artificial intelligence beyond answering questions towards completing work. New research indicates that the technology still faces important reliability and safety questions when it comes to consequential actions.
+  - [Source](https://digitaljournal.com/article/ai-agents-are-getting-smarter-but-autonomy-still-has-a-trust-problem)
 
 ### Market Trends
 
-- **As A.I. Agents Begin Shopping, Brands Are Changing Their Sales Pitch - The New York Times**
-  - Faced with bots immune to traditional marketing tactics, marketers are racing to win them over with logic and data.
-  - [Source](https://nytimes.com/2026/10/03/business/dealbook/ai-agent-marketing.html)
+- **Agentic AI Explained: How Autonomous AI Agents Work and What They Do**
+  - Businesses are exploring autonomous agents across software, cybersecurity, customer service, and enterprise operations. Security, permissions, oversight, and reliable data remain critical challenges for agentic AI adoption. Artificial intelligence is moving beyond systems that answer questions ...
+  - [Source](https://analyticsinsight.net/artificial-intelligence/agentic-ai/agentic-ai-explained-how-autonomous-ai-agents-work-and-what-they-do)
 
-- **AI Agents, Security Crises, and Workforce Upheaval Define This Week in Tech - TechRepublic**
-  - AI agents expand into work as security crises, zero-days, major breaches, robotics bets, and AI-driven workforce changes reshape the tech industry.
-  - [Source](https://techrepublic.com/article/ai-agents-security-crises-and-workforce-upheaval-define-this-week-in-tech)
-
-- **Agentic AI Market Outlook 2026-2035: Market Size, Growth, Adoption and Key Opportunities**
-  - The Agentic AI market is projected to reach $290.62B by 2035. Explore market growth, enterprise adoption, key technologies, applications, regions, and trends.
-  - [Source](https://analyticsinsight.net/artificial-intelligence/agentic-ai-market-outlook-2026-2035-market-size-growth-adoption-and-key-opportunities)
-
-- **Agentic AI—The Killer Use Case for Blockchain and Crypto - Asia Asset Management**
-  - This article was originally published ... LinkedIn Newsletter. To capture the AI growth opportunity today, most investors buy shares of AI-aligned companies and related verticals. But will the same playbook work for agentic AI? See why cryptocurrencies and alt coins may be key to emerging agentic AI growth opportunities. Artificial intelligence continues ...
-  - [Source](https://asiaasset.com/partnered-content/agentic-ai-the-killer-use-case-for-blockchain-and-crypto)
+- **AI Agents Turn Permission Into Payments’ New Control Point | PYMNTS.com**
+  - Agentic commerce is creating a new transaction type before the payments industry has fully created the rules for accepting it. While payment stacks have
+  - [Source](https://pymnts.com/news/artificial-intelligence/2026/ai-agents-turn-permission-into-payments-new-control-point)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-10-12](./history/2026-10-12_news.md)
 - [News from 2026-10-05](./history/2026-10-05_news.md)
 - [News from 2026-09-28](./history/2026-09-28_news.md)
 - [News from 2026-09-21](./history/2026-09-21_news.md)
 - [News from 2026-09-14](./history/2026-09-14_news.md)
-- [News from 2026-09-07](./history/2026-09-07_news.md)
 
 
 ## Contributing
