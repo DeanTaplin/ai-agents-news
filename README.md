@@ -2,64 +2,60 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (October 19, 2026)
+## Latest Updates (October 26, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Arm’s AGI CPU starts AI execution environments up to 45% faster than AMD’s EPYC 9965 in sandbox testing | TechRadar**
-  - Arm’s AGI CPU has recorded nearly ... evaluate agentic artificial intelligence. The assessment, conducted by Signal65 with Arm’s cooperation, compared measured processor results before estimating performance across racks operating within a fixed power budget. The findings rely partly on power-based modelling, while testing on final production hardware remains outstanding. ... The assessment examined workloads involving software tools, autonomous task execution, ...
-  - [Source](https://techradar.com/pro/arm-agi-cpu-crushes-amd-in-new-agentic-ai-benchmark-but-what-does-its-2x-rack-level-performance-advantage-mean-for-the-future-of-x86-data-centers)
+- **Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent - MarkTechPost**
+  - Google Agent Compute Engine gives AI agents hardware-isolated microVMs with zero credentials inside, previewing in the coming months.
+  - [Source](https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/)
 
-- **Does Agentic AI Rollout Change The Bull Case For ExlService Holdings Stock? - Simply Wall St News**
-  - ExlService Holdings recently rolled out agentic AI across its insurance and healthcare offerings, including the EXL LifePRO Agentic Suite and EXL Payment Integrity, aiming to compress life insurance product launch cycles and support real-time loss prevention for health plans.
-  - [Source](https://simplywall.st/stocks/us/commercial-services/nasdaq-exls/exlservice-holdings/news/does-agentic-ai-rollout-change-the-bull-case-for-exlservice)
+- **77% of Enterprises Have Paid a Price for Ungoverned AI Agents**
+  - /PRNewswire/ -- Redwood Software™, the leading orchestration platform for the autonomous enterprise, today released its "Enterprise benchmarks in AI and...
+  - [Source](https://prnewswire.com/news-releases/77-of-enterprises-have-paid-a-price-for-ungoverned-ai-agents-302916282.html)
 
-- **MediaClaw Debuts Agentic AI Platform to Automate Public Relations**
-  - Marketwire Co-founders Michael Terpin and Michael Shuler Reunite to Launch Disruptive Platform that Replaces Most Manual Processes in the PR Value Chain
-  - [Source](https://globenewswire.com/news-release/2026/10/16/3382535/0/en/mediaclaw-debuts-agentic-ai-platform-to-automate-public-relations.html)
+- **ACL Digital Launches AgentixCare, a Human-in-the-Loop Agentic AI Platform for Healthcare Payers, Providers, and MedTech**
+  - /PRNewswire/ -- ACL Digital, part of the ALTEN Group, today announced the launch of AgentixCare, a Human-in-the-Loop (HITL) Agentic AI platform for healthcare...
+  - [Source](https://prnewswire.com/news-releases/acl-digital-launches-agentixcare-a-human-in-the-loop-agentic-ai-platform-for-healthcare-payers-providers-and-medtech-302916672.html)
+
+- **The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong?**
+  - But as the government races to adopt artificial intelligence technology, ARCYBER is looking to offload some of its attacks to AI. The nascent program, codenamed “ECHOTRIBBLE,” is based on one of the leading trends of the AI boom: agents. AI agents are essentially software programs that leverage machine learning technology, often large language models like Anthropic’s Claude, to autonomously ...
+  - [Source](https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber)
+
+- **Flozic Launches AI Agent Builder to Create, Customize and Deploy Intelligent AI Agents Using Natural Language**
+  - /PRNewswire/ -- Flozic, an agentic AI automation platform, today announced the launch of its new AI Agent Builder, enabling businesses to create, configure and...
+  - [Source](https://prnewswire.com/news-releases/flozic-launches-ai-agent-builder-to-create-customize-and-deploy-intelligent-ai-agents-using-natural-language-302913788.html)
 
 ### Notable Innovations
 
-- **The Future of Autonomous AI Agents: Trends and Predictions**
-  - Explore the future of autonomous AI agents emerging trends and predictions shaping business automation Discover the possibilities and prepare your business for tomorrow Artificial intelligence is transforming how businesses manage automation decision making and digital operations Unlike traditional ...
-  - [Source](https://openpr.com/news/4664910/the-future-of-autonomous-ai-agents-trends-and-predictions)
+- **Agentic AI systems for scientific discovery | Nature Reviews Methods Primers**
+  - Agentic artificial intelligence (AI) systems enhance scientific workflows by structuring knowledge coordination through natural language interfaces. In this Primer, Feng et al. examine the challenges and opportunities involved in integrating AI agents in the laboratory.
+  - [Source](https://nature.com/articles/s43586-026-00534-y)
 
-- **NVIDIA Lands in Europe for GTC Berlin | NVIDIA Blog**
-  - NVIDIA is in Europe, showcasing the future of technology together with the region's developers, researchers and industry leaders. It all leads up to NVIDIA GTC Berlin, taking place October 20-22.
-  - [Source](https://blogs.nvidia.com/gtc-berlin-2026-news)
-
-- **COO Guide to Autonomous Operations: Where AI Agents Can Transform Enterprise Workflows**
-  - Discover how COOs use AI agents to build autonomous operations, streamline enterprise workflows, and boost efficiency across supply chain and IT.
-  - [Source](https://analyticsinsight.net/cxo-insights/coo-guide-to-autonomous-operations-where-ai-agents-can-transform-enterprise-workflows)
-
-- **The Roadmap to Mastering Agentic AI Systems in 2026 - KDnuggets**
-  - By Vinod Chugani on October 13, 2026 in Artificial Intelligence · The term "agentic AI" has moved from research papers into production infrastructure faster than most people anticipated. Systems that autonomously plan, use tools, and iterate toward goals are now deployed in code review pipelines, ...
-  - [Source](https://www.kdnuggets.com/the-roadmap-to-mastering-agentic-ai-systems-in-2026)
-
-- **Chinese A.I. Agents Joined the Rogue A.I. Agent Party. I Chatted With Them.**
-  - Researchers discovered that the agents were trying to bypass security controls on websites and made contact with them. A Times reporter was invited to join the discussion.
-  - [Source](https://nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html)
+- **The Agentic Edge: Who Has It and How to Get It | PYMNTS.com**
+  - Webster is also the author of the NEXT newsletter and a co-founder of Market Platform Dynamics, specializing in driving and monetizing innovation across industries. Mastercard Debuts Tool to Help AI Agents Purchase Digital Services · Synchrony: Broad-Based Consumer Spending Drives Q3 Purchase Volume to Record High · Treasury Stablecoin Proposal Draws Questions Over Foreign Access ... See More In: Agentic AI, AI, artificial intelligence...
+  - [Source](https://pymnts.com/news/artificial-intelligence/2026/the-agentic-edge-who-has-it-and-how-to-get-it)
 
 ### Market Trends
 
-- **Treasure AI Builds a Brand Live on Stage at Agentic World 2026, Unveils Digital Worker**
-  - MIAMI, October 16, 2026--Treasure AI, the Agentic Experience Platform, wrapped Agentic World 2026 last week at the JW Marriott Miami Turnberry Resort & Spa. Across three days (Oct. 5–7), more than 500 enterprise marketing, data and technology leaders saw agentic AI move from slideware to ...
-  - [Source](https://finance.yahoo.com/technology/ai/articles/treasure-ai-builds-brand-live-120000239.html)
+- **ServiceNow’s Moment of Truth: Can Agentic AI Growth Justify a Premium 80x Earnings Multiple on Oct. 28? - 24/7 Wall St.**
+  - ServiceNow trades at nearly 100 times earnings with agentic AI hype at a fever pitch, but one soft number on Wednesday could reprice the stock overnight the way a slim Q1 beat already cost investors 17%.
+  - [Source](https://247wallst.com/investing/2026/10/24/servicenows-moment-of-truth-can-agentic-ai-growth-justify-a-premium-80x-earnings-multiple-on-oct-28/)
 
-- **Agentic Payments Are About to Break the Meaning of an Authorized Transaction | PYMNTS.com**
-  - Crucial signals about intent, ... greater autonomy, Mann said. For all PYMNTS AI coverage, subscribe to the daily AI newsletter. Troy Mann is the senior vice president, product management at FIS Global. Anthropic Turns to Lawyers to Teach AI Agents to Negotiate · Regional Banks See Growth in Spite of Economic Gloom · Crypto Hardware Wallets Become New Entry Point for Hackers · Indian Consumers Embrace Cash Ahead of New Instant Payment Fees · See More In: artificial intelligence, ecommerce, ...
-  - [Source](https://pymnts.com/news/artificial-intelligence/2026/agentic-payments-redefine-authorized-transaction)
+- **Gartner's top tech trends for 2027 expand—and constrain—AI capabilities**
+  - Gartner organized its top strategic ... AI frontier, the autonomous agent platform, and durable agility. Gartner, Inc. Artificial IntelligenceNetworkingNetwork SecuritySecurityApplication Security ... Ann Bednarz is the executive editor of Network World. Ann is a longtime IT journalist and has spent 26 years writing and editing for Network World, where she has worked as a news reporter, ...
+  - [Source](https://www.networkworld.com/article/4238030/gartners-top-tech-trends-for-2027-expand-and-constrain-ai-capabilities.html)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-10-26](./history/2026-10-26_news.md)
 - [News from 2026-10-19](./history/2026-10-19_news.md)
 - [News from 2026-10-12](./history/2026-10-12_news.md)
 - [News from 2026-10-05](./history/2026-10-05_news.md)
 - [News from 2026-09-28](./history/2026-09-28_news.md)
-- [News from 2026-09-21](./history/2026-09-21_news.md)
 
 
 ## Contributing
