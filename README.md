@@ -2,60 +2,64 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (October 26, 2026)
+## Latest Updates (November 02, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent - MarkTechPost**
-  - Google Agent Compute Engine gives AI agents hardware-isolated microVMs with zero credentials inside, previewing in the coming months.
-  - [Source](https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/)
+- **DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent - MarkTechPost**
+  - His most recent endeavor is the launch of an Artificial Intelligence Media Platform, Marktechpost, which stands out for its in-depth coverage of machine learning and deep learning news that is both technically sound and easily understandable by a wide audience. The platform boasts of over 2 million monthly views, illustrating its popularity among audiences. ... Samaya AI Releases Sterling: A 3B-Active Finance Research Agent ...
+  - [Source](https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/)
 
-- **77% of Enterprises Have Paid a Price for Ungoverned AI Agents**
-  - /PRNewswire/ -- Redwood Software™, the leading orchestration platform for the autonomous enterprise, today released its "Enterprise benchmarks in AI and...
-  - [Source](https://prnewswire.com/news-releases/77-of-enterprises-have-paid-a-price-for-ungoverned-ai-agents-302916282.html)
+- **Data Security Council unveils India-specific agentic AI liability guide | Company News - Business Standard**
+  - Home / Companies / News / Data Security Council unveils India-specific agentic AI liability guide · Vinayak Godse, chief executive officer of the Data Security Council of India (DSCI)Avik Das Bengaluru · 3 min read Last Updated : Oct 30 2026 | 10:23 PM IST · The Data Security Council of India (DSCI) has released an India-focused artificial intelligence ...
+  - [Source](https://www.business-standard.com/companies/news/data-security-council-unveils-ai-liability-guide-for-indian-enterprises-126103001647_1.html)
 
-- **ACL Digital Launches AgentixCare, a Human-in-the-Loop Agentic AI Platform for Healthcare Payers, Providers, and MedTech**
-  - /PRNewswire/ -- ACL Digital, part of the ALTEN Group, today announced the launch of AgentixCare, a Human-in-the-Loop (HITL) Agentic AI platform for healthcare...
-  - [Source](https://prnewswire.com/news-releases/acl-digital-launches-agentixcare-a-human-in-the-loop-agentic-ai-platform-for-healthcare-payers-providers-and-medtech-302916672.html)
+- **AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare - MarkTechPost**
+  - Anthropic, OpenAI, Cloudflare and Google ship AI agents that find, verify and patch code bugs. How they compare.
+  - [Source](https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/)
 
-- **The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong?**
-  - But as the government races to adopt artificial intelligence technology, ARCYBER is looking to offload some of its attacks to AI. The nascent program, codenamed “ECHOTRIBBLE,” is based on one of the leading trends of the AI boom: agents. AI agents are essentially software programs that leverage machine learning technology, often large language models like Anthropic’s Claude, to autonomously ...
-  - [Source](https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber)
-
-- **Flozic Launches AI Agent Builder to Create, Customize and Deploy Intelligent AI Agents Using Natural Language**
-  - /PRNewswire/ -- Flozic, an agentic AI automation platform, today announced the launch of its new AI Agent Builder, enabling businesses to create, configure and...
-  - [Source](https://prnewswire.com/news-releases/flozic-launches-ai-agent-builder-to-create-customize-and-deploy-intelligent-ai-agents-using-natural-language-302913788.html)
+- **Building an Agentic AI Platform on Amazon Bedrock AgentCore | Artificial Intelligence**
+  - Stand up a governed, multi-account Agentic AI Platform on Amazon Bedrock AgentCore. This post walks through the architecture and an open-source reference blueprint: the operating model, control plane, per-Workstream cells, separate inference and tool gateways, and a CI/CD evaluation pipeline ...
+  - [Source](https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/)
 
 ### Notable Innovations
 
-- **Agentic AI systems for scientific discovery | Nature Reviews Methods Primers**
-  - Agentic artificial intelligence (AI) systems enhance scientific workflows by structuring knowledge coordination through natural language interfaces. In this Primer, Feng et al. examine the challenges and opportunities involved in integrating AI agents in the laboratory.
-  - [Source](https://nature.com/articles/s43586-026-00534-y)
+- **AI spending fears hammer Google shares, triggering massive one-day loss | Live Updates from Fox News Digital**
+  - Elon Musk warned late Thursday ... out by artificial intelligence agents. "Super intelligence agents will at some point do this to gain currency for themselves, not a human," Musk wrote on X, using President Donald Trump's preferred term for AI. Earlier this month, AI researcher Jeffrey Ladish told Fox News Digital that autonomous AI agents ...
+  - [Source](https://foxnews.com/live-news/ai-boom-google-stock-loss-wall-street-10-30-26)
 
-- **The Agentic Edge: Who Has It and How to Get It | PYMNTS.com**
-  - Webster is also the author of the NEXT newsletter and a co-founder of Market Platform Dynamics, specializing in driving and monetizing innovation across industries. Mastercard Debuts Tool to Help AI Agents Purchase Digital Services · Synchrony: Broad-Based Consumer Spending Drives Q3 Purchase Volume to Record High · Treasury Stablecoin Proposal Draws Questions Over Foreign Access ... See More In: Agentic AI, AI, artificial intelligence...
-  - [Source](https://pymnts.com/news/artificial-intelligence/2026/the-agentic-edge-who-has-it-and-how-to-get-it)
+- **Agentic AI helps Prosper Global speed crisis research - SiliconANGLE A**
+  - Agentic AI helps Prosper Global analysts start crisis research faster with VERA, a multi-agent engine built with Cloudera for aid work.
+  - [Source](https://siliconangle.com/2026/10/30/agentic-ai-helps-prosper-global-speed-crisis-research-evolve26)
+
+- **This Week in AI: Agents Rewrite the Rules**
+  - AI-driven attacks expose security gaps, companies set limits on autonomous agents, and research accelerates
+  - [Source](https://oreilly.com/radar/this-week-in-ai-agents-rewrite-the-rules)
 
 ### Market Trends
 
-- **ServiceNow’s Moment of Truth: Can Agentic AI Growth Justify a Premium 80x Earnings Multiple on Oct. 28? - 24/7 Wall St.**
-  - ServiceNow trades at nearly 100 times earnings with agentic AI hype at a fever pitch, but one soft number on Wednesday could reprice the stock overnight the way a slim Q1 beat already cost investors 17%.
-  - [Source](https://247wallst.com/investing/2026/10/24/servicenows-moment-of-truth-can-agentic-ai-growth-justify-a-premium-80x-earnings-multiple-on-oct-28/)
+- **How to Secure AI Agents: Identifying Hidden Risks in Third-Party AI Skills**
+  - Thousands of autonomous agent integrations are deployed every day across corporate networks, and by 2030 the total number in action could exceed 2 billion. Developers rely heavily on external modules to accelerate deployment velocity, yet this widespread adoption exposes systems to hidden ...
+  - [Source](https://rebellionresearch.com/how-to-secure-ai-agents-identifying-hidden-risks-in-third-party-ai-skills-3)
 
-- **Gartner's top tech trends for 2027 expand—and constrain—AI capabilities**
-  - Gartner organized its top strategic ... AI frontier, the autonomous agent platform, and durable agility. Gartner, Inc. Artificial IntelligenceNetworkingNetwork SecuritySecurityApplication Security ... Ann Bednarz is the executive editor of Network World. Ann is a longtime IT journalist and has spent 26 years writing and editing for Network World, where she has worked as a news reporter, ...
-  - [Source](https://www.networkworld.com/article/4238030/gartners-top-tech-trends-for-2027-expand-and-constrain-ai-capabilities.html)
+- **Apple acquires Ascend․io, an agentic AI engineering startup - 9to5Mac**
+  - Apple recently struck a deal to acquire Ascend.io, a company focused on agentic data engineering technology. Under the Digital Markets...
+  - [Source](https://9to5mac.com/2026/10/30/apple-acquires-ascend%E2%80%A4io-an-agentic-ai-engineering-startup/)
+
+- **Almost Timely News: 🗞️ What is Agentic AI? (2026-11-01) | Christopher S. Penn - Marketing AI Keynote Speaker**
+  - Christopher S. Penn is the cofounder and Chief Data Scientist of Trust Insights (trustinsights.ai), a world-leading AI management consulting firm. Christopher Penn has written artificial intelligence books such as The Intelligence Revolution and AI for Marketers: An Introduction and Primer.
+  - [Source](https://christopherspenn.com/2026/11/almost-timely-news-%F0%9F%97%9E%EF%B8%8F-what-is-agentic-ai-2026-11-01)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-11-02](./history/2026-11-02_news.md)
 - [News from 2026-10-26](./history/2026-10-26_news.md)
 - [News from 2026-10-19](./history/2026-10-19_news.md)
 - [News from 2026-10-12](./history/2026-10-12_news.md)
 - [News from 2026-10-05](./history/2026-10-05_news.md)
-- [News from 2026-09-28](./history/2026-09-28_news.md)
 
 
 ## Contributing
