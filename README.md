@@ -2,64 +2,48 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (November 02, 2026)
+## Latest Updates (November 09, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent - MarkTechPost**
-  - His most recent endeavor is the launch of an Artificial Intelligence Media Platform, Marktechpost, which stands out for its in-depth coverage of machine learning and deep learning news that is both technically sound and easily understandable by a wide audience. The platform boasts of over 2 million monthly views, illustrating its popularity among audiences. ... Samaya AI Releases Sterling: A 3B-Active Finance Research Agent ...
-  - [Source](https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/)
+- **Alibaba's Qoder makes a mystery coding model called Qoduck free to use - Startup Fortune**
+  - This article is posted in AI News, check it out for more related stories. ... Almost there. Sign in and your reply posts straight away. ... Alibaba free AI coding model is Qoduck free coding model in Qoder Qoder Qoder daily free quota Qoduck Qwen 4 rumour who made Qoduck stealth coding model Alibaba ... Ron Patel tracks and reports on the fast-moving world of agentic platforms and artificial intelligence for SF. He covers how AI systems and autonomous ...
+  - [Source](https://startupfortune.com/alibabas-qoder-makes-a-mystery-coding-model-called-qoduck-free-to-use)
 
-- **Data Security Council unveils India-specific agentic AI liability guide | Company News - Business Standard**
-  - Home / Companies / News / Data Security Council unveils India-specific agentic AI liability guide · Vinayak Godse, chief executive officer of the Data Security Council of India (DSCI)Avik Das Bengaluru · 3 min read Last Updated : Oct 30 2026 | 10:23 PM IST · The Data Security Council of India (DSCI) has released an India-focused artificial intelligence ...
-  - [Source](https://www.business-standard.com/companies/news/data-security-council-unveils-ai-liability-guide-for-indian-enterprises-126103001647_1.html)
-
-- **AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare - MarkTechPost**
-  - Anthropic, OpenAI, Cloudflare and Google ship AI agents that find, verify and patch code bugs. How they compare.
-  - [Source](https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/)
-
-- **Building an Agentic AI Platform on Amazon Bedrock AgentCore | Artificial Intelligence**
-  - Stand up a governed, multi-account Agentic AI Platform on Amazon Bedrock AgentCore. This post walks through the architecture and an open-source reference blueprint: the operating model, control plane, per-Workstream cells, separate inference and tool gateways, and a CI/CD evaluation pipeline ...
-  - [Source](https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/)
+- **‘Sovereign AI agents’ a threat to human civilisation, report warns | The Independent**
+  - Congress should hold those who release sovereign AI agents liable for the harms that follow, experts say
+  - [Source](https://the-independent.com/tech/sovereign-ai-agents-civilisation-threat-b3078748.html)
 
 ### Notable Innovations
 
-- **AI spending fears hammer Google shares, triggering massive one-day loss | Live Updates from Fox News Digital**
-  - Elon Musk warned late Thursday ... out by artificial intelligence agents. "Super intelligence agents will at some point do this to gain currency for themselves, not a human," Musk wrote on X, using President Donald Trump's preferred term for AI. Earlier this month, AI researcher Jeffrey Ladish told Fox News Digital that autonomous AI agents ...
-  - [Source](https://foxnews.com/live-news/ai-boom-google-stock-loss-wall-street-10-30-26)
+- **Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations**
+  - AI agents are now working together on a regular basis. Research shows they are not always seeking the same goal, or operating with ethics.
+  - [Source](https://cnbc.com/2026/11/08/ai-agents-risks.html)
 
-- **Agentic AI helps Prosper Global speed crisis research - SiliconANGLE A**
-  - Agentic AI helps Prosper Global analysts start crisis research faster with VERA, a multi-agent engine built with Cloudera for aid work.
-  - [Source](https://siliconangle.com/2026/10/30/agentic-ai-helps-prosper-global-speed-crisis-research-evolve26)
+- **How to balance governance and innovation in the agentic AI era | CIO**
+  - Agentic AI can transform business operations — but the risks must be managed to ensure success.
+  - [Source](https://cio.com/article/4245230/how-to-balance-governance-and-innovation-in-the-agentic-ai-era.html)
 
-- **This Week in AI: Agents Rewrite the Rules**
-  - AI-driven attacks expose security gaps, companies set limits on autonomous agents, and research accelerates
-  - [Source](https://oreilly.com/radar/this-week-in-ai-agents-rewrite-the-rules)
+- **How agentic AI is working to fix a broken healthcare system - Fast Company**
+  - Texas A&M researchers are deploying a suite of AI agents not to replace humans, but to relieve administrative burdens and ease patient suffering.
+  - [Source](https://www.fastcompany.com/91628662/how-agentic-ai-is-working-to-fix-a-broken-healthcare-system)
 
 ### Market Trends
 
-- **How to Secure AI Agents: Identifying Hidden Risks in Third-Party AI Skills**
-  - Thousands of autonomous agent integrations are deployed every day across corporate networks, and by 2030 the total number in action could exceed 2 billion. Developers rely heavily on external modules to accelerate deployment velocity, yet this widespread adoption exposes systems to hidden ...
-  - [Source](https://rebellionresearch.com/how-to-secure-ai-agents-identifying-hidden-risks-in-third-party-ai-skills-3)
-
-- **Apple acquires Ascend․io, an agentic AI engineering startup - 9to5Mac**
-  - Apple recently struck a deal to acquire Ascend.io, a company focused on agentic data engineering technology. Under the Digital Markets...
-  - [Source](https://9to5mac.com/2026/10/30/apple-acquires-ascend%E2%80%A4io-an-agentic-ai-engineering-startup/)
-
-- **Almost Timely News: 🗞️ What is Agentic AI? (2026-11-01) | Christopher S. Penn - Marketing AI Keynote Speaker**
-  - Christopher S. Penn is the cofounder and Chief Data Scientist of Trust Insights (trustinsights.ai), a world-leading AI management consulting firm. Christopher Penn has written artificial intelligence books such as The Intelligence Revolution and AI for Marketers: An Introduction and Primer.
-  - [Source](https://christopherspenn.com/2026/11/almost-timely-news-%F0%9F%97%9E%EF%B8%8F-what-is-agentic-ai-2026-11-01)
+- **LTM and ServiceNow expand partnership to scale agentic AI and accelerate joint go-to-market**
+  - ServiceNow (NOW) and LTM plan to expand their strategic partnership to accelerate enterprise adoption of agentic AI, combining ServiceNow’s AI platform with LTM’s engineering and transformation expertise. LTM will use its enterprise transformation as a ‘client-zero’ blueprint.
+  - [Source](https://www.msn.com/en-us/news/other/ltm-and-servicenow-expand-partnership-to-scale-agentic-ai-and-accelerate-joint-go-to-market/ar-AA2gNC5b?ocid=BingNewsSerp)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-11-09](./history/2026-11-09_news.md)
 - [News from 2026-11-02](./history/2026-11-02_news.md)
 - [News from 2026-10-26](./history/2026-10-26_news.md)
 - [News from 2026-10-19](./history/2026-10-19_news.md)
 - [News from 2026-10-12](./history/2026-10-12_news.md)
-- [News from 2026-10-05](./history/2026-10-05_news.md)
 
 
 ## Contributing
