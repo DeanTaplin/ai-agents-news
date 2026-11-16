@@ -2,48 +2,42 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (November 09, 2026)
+## Latest Updates (November 16, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **Alibaba's Qoder makes a mystery coding model called Qoduck free to use - Startup Fortune**
-  - This article is posted in AI News, check it out for more related stories. ... Almost there. Sign in and your reply posts straight away. ... Alibaba free AI coding model is Qoduck free coding model in Qoder Qoder Qoder daily free quota Qoduck Qwen 4 rumour who made Qoduck stealth coding model Alibaba ... Ron Patel tracks and reports on the fast-moving world of agentic platforms and artificial intelligence for SF. He covers how AI systems and autonomous ...
-  - [Source](https://startupfortune.com/alibabas-qoder-makes-a-mystery-coding-model-called-qoduck-free-to-use)
+- **AWS gives developers a free local stand-in for its cloud, built from scratch by AI agents – GeekWire**
+  - AWS released AWS Emulator, a free tool that simulates more than 200 AWS services on a developer's own machine, and says AI agents wrote all of its code without review by its engineers. Agents also maintain the emulator, testing it against the real AWS cloud and fixing the gaps they find.
+  - [Source](https://geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents)
 
-- **‘Sovereign AI agents’ a threat to human civilisation, report warns | The Independent**
-  - Congress should hold those who release sovereign AI agents liable for the harms that follow, experts say
-  - [Source](https://the-independent.com/tech/sovereign-ai-agents-civilisation-threat-b3078748.html)
+- **Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads | TechCrunch**
+  - Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.
+  - [Source](https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads)
 
-### Notable Innovations
+- **AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents - MarkTechPost**
+  - AWS Releases AWS Emulator, a free local emulator of 200+ AWS services, written by AI agents, with 56.6% fidelity.
+  - [Source](https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/)
 
-- **Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations**
-  - AI agents are now working together on a regular basis. Research shows they are not always seeking the same goal, or operating with ethics.
-  - [Source](https://cnbc.com/2026/11/08/ai-agents-risks.html)
-
-- **How to balance governance and innovation in the agentic AI era | CIO**
-  - Agentic AI can transform business operations — but the risks must be managed to ensure success.
-  - [Source](https://cio.com/article/4245230/how-to-balance-governance-and-innovation-in-the-agentic-ai-era.html)
-
-- **How agentic AI is working to fix a broken healthcare system - Fast Company**
-  - Texas A&M researchers are deploying a suite of AI agents not to replace humans, but to relieve administrative burdens and ease patient suffering.
-  - [Source](https://www.fastcompany.com/91628662/how-agentic-ai-is-working-to-fix-a-broken-healthcare-system)
+- **Council Post: The Next Phase Of Agentic AI: Building Your Own Business Software**
+  - The emerging model is not “agents or software,” but rather software built with AI, with agentic capabilities incorporated where they make sense.
+  - [Source](https://forbes.com/councils/forbesbusinesscouncil/2026/11/10/the-next-phase-of-agentic-ai-building-your-own-business-software)
 
 ### Market Trends
 
-- **LTM and ServiceNow expand partnership to scale agentic AI and accelerate joint go-to-market**
-  - ServiceNow (NOW) and LTM plan to expand their strategic partnership to accelerate enterprise adoption of agentic AI, combining ServiceNow’s AI platform with LTM’s engineering and transformation expertise. LTM will use its enterprise transformation as a ‘client-zero’ blueprint.
-  - [Source](https://www.msn.com/en-us/news/other/ltm-and-servicenow-expand-partnership-to-scale-agentic-ai-and-accelerate-joint-go-to-market/ar-AA2gNC5b?ocid=BingNewsSerp)
+- **How one AI agent exposed five critical enterprise security gaps**
+  - An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security ...
+  - [Source](https://bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-11-16](./history/2026-11-16_news.md)
 - [News from 2026-11-09](./history/2026-11-09_news.md)
 - [News from 2026-11-02](./history/2026-11-02_news.md)
 - [News from 2026-10-26](./history/2026-10-26_news.md)
 - [News from 2026-10-19](./history/2026-10-19_news.md)
-- [News from 2026-10-12](./history/2026-10-12_news.md)
 
 
 ## Contributing
