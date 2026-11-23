@@ -2,42 +2,60 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of AI agents.
 
-## Latest Updates (November 16, 2026)
+## Latest Updates (November 23, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **AWS gives developers a free local stand-in for its cloud, built from scratch by AI agents – GeekWire**
-  - AWS released AWS Emulator, a free tool that simulates more than 200 AWS services on a developer's own machine, and says AI agents wrote all of its code without review by its engineers. Agents also maintain the emulator, testing it against the real AWS cloud and fixing the gaps they find.
-  - [Source](https://geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents)
+- **AI Agents Execute Harm-Enabling Actions During Simulated Psychiatric Crises**
+  - Keywords: artificial intelligence, large language models, agentic AI, psychiatric crises, algorithmic safety audit, mental health technology, ChatGPT agent, GPT-5.2, suicidality, bipolar disorder, obsessive-compulsive disorder, psychosis, digital safety, e-commerce automation, harm prevention, clinical vignettes, autonomous decision-making · News ...
+  - [Source](https://bioengineer.org/ai-agents-execute-harm-enabling-actions-during-simulated-psychiatric-crises)
 
-- **Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads | TechCrunch**
-  - Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.
-  - [Source](https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads)
+- **AI Agents Are Coming For Your Money. Whose Interests Will They Serve?**
+  - Agentic AI-enabled agents enable tailored, autonomous capabilities to manage finances and investments that may eventually displace place tools found online or via smart devices, but at what cost?Getty Images · I recently asked my personal version of ChatGPT to “think about yourself and describe your intelligence in three sentences or less”. The answer was clear. “Artificial ...
+  - [Source](https://forbes.com/sites/sarahbiller/2026/11/20/ai-agents-are-coming-for-your-money-whose-interests-will-they-serve)
 
-- **AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents - MarkTechPost**
-  - AWS Releases AWS Emulator, a free local emulator of 200+ AWS services, written by AI agents, with 56.6% fidelity.
-  - [Source](https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/)
+- **Google says autonomous AI attacks reach a new threshold of danger**
+  - Google Threat Intelligence Group reports AI models are executing multiple attack stages autonomously, prompting calls for regulation.
+  - [Source](https://thehill.com/policy/technology/6224604-autonomous-ai-threats-google-report/)
 
-- **Council Post: The Next Phase Of Agentic AI: Building Your Own Business Software**
-  - The emerging model is not “agents or software,” but rather software built with AI, with agentic capabilities incorporated where they make sense.
-  - [Source](https://forbes.com/councils/forbesbusinesscouncil/2026/11/10/the-next-phase-of-agentic-ai-building-your-own-business-software)
+- **Satya Nadella predicts AI agents will reshuffle the economics of the web | TechCrunch**
+  - Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.
+  - [Source](https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web)
+
+- **AI agents now carrying out cyberattacks with minimal human input**
+  - Artificial intelligence is helping hackers move faster and strike harder, while the people defending against them still have no reliable way to test whether their AI tools work, according to a new government watchdog report. As a string of outages hit Microsoft, Apple, JPMorgan Chase and others this month, a Government Accountability Office report released Friday found that autonomous AI agents ...
+  - [Source](https://washingtontimes.com/news/2026/nov/20/ai-agents-carrying-cyberattacks-minimal-human-input)
+
+### Notable Innovations
+
+- **Report: Attackers Are Increasingly Using AI Attack Frameworks**
+  - Threat actors are expanding their use of multi-agent AI attack frameworks, according to researchers at Google’s Threat Intelligence Group (GTIG).
+  - [Source](https://blog.knowbe4.com/report-attackers-are-increasingly-using-ai-attack-frameworks)
+
+- **OpenAI, Anthropic and Rivals Seek AI Agent Rules to Prevent Commerce Chaos | KuCoin**
+  - As many as 100 billion AI agents, the autonomous programs that buy, sell and conduct research on behalf of their instigators, could be transacting online within
+  - [Source](https://kucoin.com/news/flash/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos)
 
 ### Market Trends
 
-- **How one AI agent exposed five critical enterprise security gaps**
-  - An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security ...
-  - [Source](https://bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps)
+- **AI Competitors Team to Prevent Agentic Fragmentation | PYMNTS.com**
+  - Artificial intelligence industry rivals are reportedly working together to create protocols for AI agents, warning that it’s essential these tools know how to talk with each other. That’s according to a report Sunday (Nov. 22) by CoinDesk on the progress of the Agentic AI Foundation (AAIF). Made up of members including OpenAI, Anthropic, Google, and Microsoft , the group hopes to establish open protocols for autonomous ...
+  - [Source](https://pymnts.com/news/artificial-intelligence/2026/ai-competitors-team-to-prevent-agentic-fragmentation)
+
+- **Agentic AI repeats same old enterprise adoption cycle | InfoWorld**
+  - Enterprises should look hard at agentic AI, but they should also remember what happened when cloud-native, microservices, SOA, and distributed systems became technology religions.
+  - [Source](https://www.infoworld.com/article/4249734/agentic-ai-repeats-same-old-enterprise-adoption-cycle.html)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from 2026-11-23](./history/2026-11-23_news.md)
 - [News from 2026-11-16](./history/2026-11-16_news.md)
 - [News from 2026-11-09](./history/2026-11-09_news.md)
 - [News from 2026-11-02](./history/2026-11-02_news.md)
 - [News from 2026-10-26](./history/2026-10-26_news.md)
-- [News from 2026-10-19](./history/2026-10-19_news.md)
 
 
 ## Contributing
